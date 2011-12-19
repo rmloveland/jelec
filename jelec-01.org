@@ -1424,17 +1424,19 @@ Glynis accepted. "This is combination #1," she added, as she made a small mark o
 
 Meldrake moved the stones again, and the result:
 
-[Figure 10.3: Three Marked Stones | 2,3,1 | ]
+[Figure 10.3: Three Marked Stones 2,3,1]
 
 This Glynis dutifully recorded with a second mark on the paper, and a nod that meant, "continue."
 
-[IMAGE: THREE MARKED STONES; 3,1,2]
+[Figure 10.4: Three Marked Stones 3,1,2]
 
 After that, there was only for Meldrake to move the stones into a new ordering, and for Glynis to record the same.
 
 A moment later, all was said and done, and Glynis and Meldrake had seen the following combinations (some of which we've already seen, but we shall leave this as a reference):
 
-[Figure 10.4: Matrix Of Marked Stones | 1,2,3 | 1,3,2 | 2,3,1 | 2,1,3 | 3,1,2 | 3,2,1 | ]
+[Figure 10.5: Matrix Of Marked Stones]
+
+| 1,2,3 | 1,3,2 | 2,3,1 | 2,1,3 | 3,1,2 | 3,2,1 |
 
 "As you can see from your own meticulously-kept record of events, my dear Avis, there are six combinations of these three humble stones."  So Meldrake continued with his delightful habit of summing up the obvious. "Shall we try four?" he asked, reaching once more into the velvet pouch which held the white stones.
 
@@ -1444,7 +1446,13 @@ A moment later, all was said and done, and Glynis and Meldrake had seen the foll
 
 And so the raven marked a fourth stone, and arranged the stones in their various combinations as before, and they were thus:
 
-[Figure 10.5: Four Matrices of Marked Stones   | 1,2,3,4        | 1,3,2,4 | 1,3,4,2 | 1,2,4,3 | 1,4,3,2 | 1,4,2,3 | | 2,1,3,4        | 2,3,1,4 | 2,4,1,3 | 2,1,4,3 | 2,3,4,1 | 2,4,3,1 | | 3,1,2,4        | 3,1,4,2 | 3,2,1,4 | 3,2,4,1 | 3,4,1,2 | 3,4,2,1 | | Left to Reader |         |         |         |         |         | ]
+[Figure 10.6: Four Matrices of Marked Stones]
+
+| 1,2,3,4 | 1,3,2,4 | 1,3,4,2 | 1,2,4,3 | 1,4,3,2 | 1,4,2,3 |
+| 2,1,3,4 | 2,3,1,4 | 2,4,1,3 | 2,1,4,3 | 2,3,4,1 | 2,4,3,1 |
+| 3,1,2,4 | 3,1,4,2 | 3,2,1,4 | 3,2,4,1 | 3,4,1,2 | 3,4,2,1 |
+
+| The Fourth Arrangement is left as an Exercise for the Reader |
 
 "Wow," said Glynis. "That was not entirely what I'd expected. I could barely fit it all on the page," she added, showing it to Meldrake.
 
@@ -1458,21 +1466,44 @@ Glynis looked at the paper again, her brow knitted against the difficulty of her
 
 "May I see that paper? I'd like to try writing it for you in another way," said the raven. He took the paper and stylus from Glynis, and where she had written the number of stones and their corresponding combinations using one column each, he added a third column, so that the result looked like this:
 
-[Figure 10.6: Sequence of Stones | 1             |   1 | | 1, 2          |   2 | | 1, 2 ,3       |   6 | | 1, 2, 3,4     |  24 | | 1, 2, 3, 4, 5 | 120 | ]
+[Figure 10.7: Sequence of Stones]
+
+| 1 |  1 | 1          |
+| 2 |  2 | 1, 2       |
+| 3 |  6 | 1, 2, 3    |
+| 4 | 24 | 1, 2, 3, 4 |
 
 Even so, thought Glynis, what are recipes if not patterns? Ways of doing things to get a certain result, like a chicken pot pie. So the question is: how do I make this particular chicken pot pie?
 
 Glynis took up the stylus and, in an empty corner of the backside of her single sheet, wrote this little chart:
 
-| "Ingredients" | "Instructions" | "Chicken Pot Pie" | |              1 |                 |                  1 | |              2 |                 |                  2 | |              3 |                 |                  6 | |              4 |                 |                 24 | |              5 |                 |                120 |
+[Figure 10.8]
+
+| "Ingredients" | "Instructions" | "Chicken Pot Pie" |
+| 1             |                | 1                 |
+| 2             |                | 2                 |
+| 3             |                | 6                 |
+| 4             |                | 24                |
 
 Peering down each column of numbers, she wondered how to write the recipe. Since I don't understand the whole thing yet (she thought), I'll just write the instructions to get from one number to the next.
 
-| "Ingredients" | "Instructions" | "Chicken Pot Pie" | |              1 | Do nothing.     |                  1 | |              2 | Do nothing.     |                  2 | |              3 | Multiply by 2.  |                  6 | |              4 | Multiply by 6.  |                 24 | |              5 | Multiply by 24. |                120 |
+[Figure 10.9]
+
+| "Ingredients" | "Instructions" | "Chicken Pot Pie" |
+|             1 | Do nothing     |                 1 |
+|             2 | Do nothing     |                 2 |
+|             3 | Multiply by 2  |                 6 |
+|             4 | Multiply by 6  |                24 |
 
 "Aha!" she said to herself as she wrote. She saw the pattern as clear as day: in each case, one need only multiply the number on the left by the number one line up on the right, e.g.,
 
-[Figure 10.7: MULTIPLICATION CHART]
+[Figure 10.10]
+
+| 1 |          |   1 |
+| 2 | Times 1  |   2 |
+| 3 | Times 2  |   6 |
+| 4 | Times 6  |  24 |
+| 5 | Times 24 | 120 |
 
 "I have it, Meldrake! Look!" she cried in triumph as she showed Meldrake the scribbles which contained the answer, or the road leading to it, and with a smile, we might as well add.
 
@@ -1488,7 +1519,16 @@ Peering down each column of numbers, she wondered how to write the recipe. Since
 
 Glynis returned to her worksheet, which was by now so covered in marks that she was forced to resort to making tiny marks along the margins that were in fact very much like these:
 
-[Figure 10.8: CHART OF CALCULATIONS]
+[Figure 10.11]
+
+| 1 |      1 | 1 x 1                 |
+| 2 |      2 | 2 x 1                 |
+| 3 |      6 | 3 x 2                 |
+| 4 |     24 | 4 x 6                 |
+| 5 |    120 | (5 x 20) + (5 x 4)    |
+| 6 |    720 | (6 x 100) + (6 x 20)  |
+| 7 |   5040 | (7 x 700) + (7 x 20)  |
+| 8 | 40,320 | (8 x 5000) + (8 x 40) |
 
 (As it turned out, Glynis was quite good at multiplications involving largish numbers, thanks to her teachers' rigorous schedule of drills. This marked the first time she'd used it to solve a problem where the need for multiplication wasn't baldly obvious to her.)
 
