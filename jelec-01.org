@@ -1,11 +1,7 @@
-#+TITLE: JELEC, THE WHITE BEAR
-#+begin_center
-or, /Beware an Encounter with a Raven and his Friends/
-#+end_center
-
+#+TITLE: JELEC, THE WHITE BEAR or, /Beware an Encounter with a Raven and his Friends/
 #+AUTHOR: R.M. Loveland
 
-Book One
+Book One of /Stories from the White Bear's Realm/
 
 by R. M. Loveland
 #+begin_html
@@ -13,11 +9,12 @@ by R. M. Loveland
 #+end_html
 
 #+begin_verse
-Text and illustrations Copyright 2011 R. M. Loveland
+Copyright 2011 R. M. Loveland
 All Rights Reserved
 
-Cover image courtesy [[http://www.flickr.com/photos/nvarvel][nvarvel]]
-Cover image available under [[http://www.flickr.com/photos/nvarvel/][CC-BY-SA 2.0]]
+Cover image photo courtesy
+[[http://www.flickr.com/photos/nvarvel]]
+under Creative Commons License
 #+end_verse
 
 #+begin_html
