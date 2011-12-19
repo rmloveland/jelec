@@ -8,8 +8,10 @@
 <p style="page-break-before:always"></p>
 #+end_html
 
-/Copyright 2011 R. M. Loveland./
+/Text and illustrations Copyright 2011 R. M. Loveland./
 /All Rights Reserved./
+/Cover image courtesy http://www.flickr.com/photos/nvarvel//
+/Cover image available under [[http://www.flickr.com/photos/nvarvel/][CC-BY-SA 2.0]]/
 #+begin_html
 <p style="page-break-before:always"></p>
 #+end_html
