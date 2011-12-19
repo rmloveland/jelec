@@ -9,12 +9,12 @@ by R. M. Loveland
 #+end_html
 
 #+begin_verse
-Copyright 2011 R. M. Loveland
-All Rights Reserved
+Copyright 2011 R. M. Loveland.
+All Rights Reserved.
 
 Cover image photo courtesy
 [[http://www.flickr.com/photos/nvarvel]]
-under Creative Commons License
+under a Creative Commons License.
 #+end_verse
 
 #+begin_html
