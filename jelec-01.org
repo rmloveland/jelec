@@ -1,4 +1,8 @@
-#+TITLE: JELEC, THE WHITE BEAR, or, /Beware an Encounter with a Raven and his Friends/
+#+TITLE: JELEC, THE WHITE BEAR
+#+begin_center
+or, /Beware an Encounter with a Raven and his Friends/
+#+end_center
+
 #+AUTHOR: R.M. Loveland
 
 Book One
