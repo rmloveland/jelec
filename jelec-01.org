@@ -13,7 +13,7 @@ Copyright 2011 R. M. Loveland.
 All Rights Reserved.
 
 Cover image photo courtesy
-[[http://www.flickr.com/photos/nvarvel]]
+[[http://www.flickr.com/people/nvarvel/]]
 under a Creative Commons License.
 #+end_verse
 
