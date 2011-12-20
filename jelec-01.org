@@ -809,7 +809,15 @@ Upon hearing this, Meldrake couldn't stop himself laughing. After he had cackled
 
 It was a new rhyme:
 
-"Kell the Farmer's round the bend, doesn't recognize a friend!  Hides behind his walls and threats, what hospitality his vis'tors get, when at his gates, they beg for cake, can't you spare a few crumbs for your friend MELDRAKE?"
+#+begin_verse
+Kell the Farmer's round the bend,
+Doesn't recognize a friend!
+Hides behind his walls and threats,
+What hospitality his vis'tors get,
+When at his gates,
+They beg for cake,
+Can't you spare a few crumbs for your friend MELDRAKE?
+#+end_verse
 
 As Meldrake incanted the last line, he spread his wings low at his sides, took a step back with one leg, and performed a low bow in the direction of the gate. Glynis thought it looked oh-so-solemn and formal, and its effect was unsettling in contrast with his previous manner. Both she and John looked to the gate, awaiting a response from the creature inside.
 
