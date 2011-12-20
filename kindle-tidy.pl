@@ -15,5 +15,10 @@ foreach my $div (@divs) {
   }
 }
 
+my @tables = $root->find_by_tag_name('table');
+foreach my $table (@tables) {
+  $table->delete_content;
+}
+
 print $root->as_HTML;
 $root->delete;
