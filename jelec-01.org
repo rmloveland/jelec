@@ -764,7 +764,7 @@ Thus did the three companions make their way along the woodland path. It was ful
 
 It wasn't long before Glynis could begin to make out the edge of a field through the trees some ways ahead; Meldrake, despite his bird's legs and massive size, was capable of a brisk pace on foot. Moments later the three emerged from forest shade into morning sun once again, and were brought up short by a stone wall. Set in the wall before them was a wooden door reinforced with black iron. The distinguishing feature of this door was its shape: that of a hexagon. In fact, upon closer inspection, Glynis could see that the stones laid into the wall itself were cut into hexagons, which were then neatly stacked to create a "honeycomb" pattern something like this:
 
-[Figure 6.0: HONEYCOMB PATTERN]
+[Figure 6.0]
 [[../img/6.0.jpg]]
 
 "These stones are amazing!" exclaimed the usually reticent John Sharpe. "Look how close the cuts are. I bet they didn't even need mortar," he added wonderingly as he traced the shape of one hexagonal block with a finger (John's father was a builder in the Lake William area, who often took young John along to help with his various projects, mostly homes along the lake, when school was out, and as a result John maintained a more-than-passing interest in such things).
@@ -893,7 +893,7 @@ The hungry travelers set upon the well-furnished table like a pack of hounds. Fo
 
 After this had gone on for some time, the farmer spoke again, beckoning John and Glynis pay attention with a grunt and a wave of his hand. In front of him was an apple pie in the shape of a hexagon, much like this:
 
-[Figure 6.1: HEXAGON]
+[Figure 6.1]
 [[../img/6.1.jpg]]
 
 "We have a small problem. There are four of us here. Clearly we'll need four pieces of pie. The trouble is, I dislike serving oddly-shaped pieces of pie to my guests; only squares or triangles will do. What do you suggest? How should I cut this pie?"
@@ -918,12 +918,12 @@ Glynis was the first with an answer. "I think I have it, Kell," she said.
 
 Glynis picked up her pencil again. "We need four pieces, each the same size. I started by cutting the pie in half, like this:
 
-[Figure 6.2: HEXAGON/SINGLE DOTTED LINE]
+[Figure 6.2]
 [[../img/6.2.jpg]]
 
 You said you like serving perfect triangles or rectangles, though, so my first thought, to cut the pie like this,
 
-[Figure 6.3: HEXAGON/TWO DOTTED LINES]
+[Figure 6.3]
 [[../img/6.3.jpg]]
 
 was wrong."
@@ -932,12 +932,12 @@ was wrong."
 
 "Then I figured that if I wanted to get triangles, I had to draw the lines through the corners like so:
 
-[Figure 6.4: HEXAGON/FIVE DOTTED LINES]
+[Figure 6.4]
 [[../img/6.4.jpg]]
 
 "That gave me lots of triangles to play with, but since we're talking about pie here, I figured bigger pieces were better, so I settled on this:
 
-[Figure 6.5: HEXAGON/FOUR SHADED AREAS]
+[Figure 6.5]
 [[../img/6.5.jpg]]
 
 "Good work," said Kell. "I'd find those pieces of pie acceptable to serve to my guests." He lifted the sheet of paper Glynis had been working from and handed it to Meldrake, who nodded in agreement. "Highly acceptable, I should think," said the black creature.
@@ -946,12 +946,12 @@ The eyes of Glynis, Kell, and Meldrake turned to John, who seemed a bit startled
 
 "It's O.K., everyone. I've got a solution, too," he said with a smile. "After a few experiments, I came up with this:
 
-[Figure 6.6: HEXAGON/FOUR SMALLER PIECES]
+[Figure 6.6]
 [[../img/6.6.jpg]]
 
 "This gives us four equal pieces of pie with plenty left over. After seeing my friend Avis's solution, though, I realized something: the hexagon is really just a group of six equally sized triangles grouped together, each pointing inward, like this:
 
-[Figure 6.7: HEXAGON EXPLODED INTO TRIANGLES]
+[Figure 6.7]
 [[../img/6.7.jpg]]
 
 "Aha!" cried Meldrake. "You've seen through one solution to a general case! Congratulations, young sir."
@@ -1421,14 +1421,14 @@ Glynis's eyebrows went up a bit, but she said nothing.
 
 "Your wish is my command." With a flourish, Meldrake reached into the trusty magical pouch he kept tied to his belt for such occasions, ... and whispered a word in a tongue which Glynis did not recognize. An instant later, he withdrew a velvet pouch. With a slight clacking sound he withdrew a single white stone therefrom, and turned once again to his friend. He then proceeded to stomp out a space in the meadowgrass within which to work, at last placing the single stone in one corner:
 
-[Figure 10.0: A Single Circle].
+[Figure 10.0].
 [[../img/10.0.jpg]]
 
 "Clearly you've chosen an easy case," said Meldrake. "Let's add another."
 
 Once again the clacking of the stones inside the pouch was heard as Meldrake withdrew a second white stone and placed it gently on the flattened grass:
 
-[Figure 10.1: Two Circles].
+[Figure 10.1].
 [[../img/10.1.jpg]]
 
 "Two." Glynis said it before the raven could ask. "These are pretty easy so far," she added.
@@ -1439,7 +1439,7 @@ Glynis saw the need for it instantly. "Yes, we'll definitely need that as we kee
 
 Meldrake withdrew a third stone and placed it next to the other two. He then marked each stone with his long pen so that they looked like this:
 
-[Figure 10.2: Three Marked Stones, Ascending Order].
+[Figure 10.2].
 [[../img/10.2.jpg]]
 
 Withdrawing a sheet of coarse paper from his pouch, he handed pen and paper to Glynis. "Keep the count, if you please," he said.
@@ -1448,19 +1448,19 @@ Glynis accepted. "This is combination #1," she added, as she made a small mark o
 
 Meldrake moved the stones again, and the result:
 
-[Figure 10.3: Three Marked Stones 2,3,1]
+[Figure 10.3]
 [[../img/10.3.jpg]]
 
 This Glynis dutifully recorded with a second mark on the paper, and a nod that meant, "continue."
 
-[Figure 10.4: Three Marked Stones 3,1,2]
+[Figure 10.4]
 [[../img/10.4.jpg]]
 
 After that, there was only for Meldrake to move the stones into a new ordering, and for Glynis to record the same.
 
 A moment later, all was said and done, and Glynis and Meldrake had seen the following combinations (some of which we've already seen, but we shall leave this as a reference):
 
-[Figure 10.5: Matrix Of Marked Stones]
+[Figure 10.5]
 [[../img/10.5.jpg]]
 
 | 1,2,3 | 1,3,2 | 2,3,1 | 2,1,3 | 3,1,2 | 3,2,1 |
@@ -1473,7 +1473,7 @@ A moment later, all was said and done, and Glynis and Meldrake had seen the foll
 
 And so the raven marked a fourth stone, and arranged the stones in their various combinations as before, and they were thus:
 
-[Figure 10.6: Four Matrices of Marked Stones]
+[Figure 10.6]
 [[../img/10.6.jpg]]
 
 | 1,2,3,4 | 1,3,2,4 | 1,3,4,2 | 1,2,4,3 | 1,4,3,2 | 1,4,2,3 |
@@ -1494,7 +1494,7 @@ Glynis looked at the paper again, her brow knitted against the difficulty of her
 
 "May I see that paper? I'd like to try writing it for you in another way," said the raven. He took the paper and stylus from Glynis, and where she had written the number of stones and their corresponding combinations using one column each, he added a third column, so that the result looked like this:
 
-[Figure 10.7: Sequence of Stones]
+[Figure 10.7]
 [[../img/10.7.jpg]]
 
 | 1 |  1 | 1          |
