@@ -814,8 +814,7 @@ Kell the Farmer's round the bend,
 Doesn't recognize a friend!
 Hides behind his walls and threats,
 What hospitality his vis'tors get,
-When at his gates,
-They beg for cake,
+When at his gates they beg for cake,
 Can't you spare a few crumbs for your friend MELDRAKE?
 #+end_verse
 
