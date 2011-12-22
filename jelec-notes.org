@@ -1,0 +1,313 @@
+* 1. JELLECK, THE WHITE BEAR, OR, BEWARE AN ENCOUNTER WITH A RAVEN AND HIS FRIENDS
+** MAGIC ITEM CHECKLIST
+1. TOKEN OF YOUR FAMILY LINE
+   Grandmother McGinty's ruby brooch.
+2. BOOK WHOSE WISDOM YOU LIVE BY
+   This hasn't been revealed yet.
+3. SONG FOR A DARK TIME
+   A poem, naturally, which is the mother of song.
+
+** RETCON
+   1.  hotel manager name inconsistent
+   2.  ruby v. diamond brooch
+   3.  scoville jeweler name inconsistent: patrick -> richard
+   4.  jeweler: neville -> scoville
+   5.  there were 12 previous visitors -- what of them?
+   6.  expand connection to Mrs. St. Claire, the town librarian
+   7.  expand on herbcraft -- it's had no mention other than introduction
+   8.  M. mentions English, but there is no England here (1797)
+   9.  M. mentions "half-hour" walk -- do they use hours? (1830)
+   10. FIXED Kell calls G. by real name (2022) 
+   11. Kell refers to "geometry" -- perhaps a different name for the "study
+       of number in space" would be appropriate? (2027) 
+   12. Meldrake snaps a little at G. 'round line 2282; perhaps there should
+       be more explication? 
+   13. Can John understand what's being said by Starling et al. in the
+       grove? (2347)
+   14. "geometry" is referenced once again by Meldrake (2431)
+   15. Silverbird asks Meldrake to compose a short verse on Friendship,
+       and to share them with as many as possible (2448)
+   16. FIXED John refers to G. by name (2493) 
+   17. Meldrake uses a brass door-knocker; however, brass might be out of
+       place in this setting (2714)
+   18. The children supposedly are surrounded by farms as far as the eye
+       can see, but just before that rolling hills and oaks and maples
+       are described. Clarify. (~2792)
+   19. M. makes reference to Byzantium. ??? (2832)
+   20. Meldrake's house is the "Ravenslair." I'd like a better name. (2896)
+   21. Hawk which attacks M. has "talon and claw" at his command; aren't they the same thing? (2923)
+   22. Dogs in group of badgers post hawk-slaying. Do we want dogs, or
+       perhaps canids of another, wilder sort? (See related discussion
+       below re: "Lake of Hounds" name change.) (3046)
+   23. G. avoids darts of "poisoned steel" -- I should think not, since steel has
+       not been invented here (3068)
+   24. FIXED Change "i.e." to the more accurate "viz." (3086)
+
+** John 15:13
+Meldrake turns once again toward the jagged peaks of the North. He
+will deliver this Glynis to her fate, or meet his. All arrows pointed
+against, they beat wings on the wind and soar. With John gone, the
+compass needle swings wildly and all may be lost. Courage will flow, however,
+from the need to show the great love, as coined by the last True
+Wizard in his Great Booke. John 15:13, as it falls. Depending upon the
+World you find yourself in, it reads thusly:
+
+"Greater love hath no man than this: that he lay down his life for his friends."
+
+Hereby all is revealed.
+
+** Random Notes, Ideas, &c.
+   1.  Perhaps there is a connection 'tween G. and Mrs. St. Claire, the
+       town librarian and friend to the McG. family. What adventures were
+       hers, in the days before?
+   2.  Lake of hounds should become "of Wolves" or some such -- this
+       world would not have domesticated dogs
+   3.  Bach connection?
+   4.  Quotes at beginnings of chapters? (or at least books) They must
+       needs be  verses from some Greatt Booke...
+   5.  Poems and Verse shall be everywhere!
+   6.  Mathematics curriculum as in "A Diamond Age"? (appendices shall be
+       included for various mathematical terms, formulae, etc.)
+   7.  John, while in the company of the indentured bears (who drive the
+       assorted machinery), could receive instruction in levers, pulleys,
+       mechanical advantage, &c. (See also: Archimedes.)
+   8.  I don't like "Ursus" -- perhaps it will grow on me.
+   9.  Starling King mentions "lesser bird-kind"; perhaps mention will be
+       made of the "greater?" (YES - shortly after, Meldrake refers to the
+       Great Eagles and, of course, dragons... of course we must meet
+       these creatures one day!)
+   10. Don't forget the Ominous Vision of the Silverbird, wherein G. is
+       seen in robes of Redcloth! What shall become of this? Within what
+       World is this to hold True?
+   11. Where is the famous "Hermit" they'll be visiting? They never reach
+       this "hermit"; in fact, that must be an element of the story. At
+       various stages there will be a desire to "go visit the hermit",
+       which is analogous to finding zen on the mountain. They must
+       eventually realize through trial and tribulation that there is no
+       chance to "visit the hermit" and find a salvation other than that
+       which is before them at all times, namely: God's earth and what
+       goes on in it, which is the Kingdom.
+
+       (29 Oct 11) Well, it seems that they will meet the hermit after
+       all. Chapter 13 opens with his story of how Meldrake helped him
+       escape from the Dark Tower. However, I'm not yet sure if he
+       should be Kell. At this point I'm inclined to think of him as
+       one of the previous `batch' of human children who came to the
+       White Bear's Realm. As such, he would have lived with Redcloth
+       & Co., trained with them, and so on. He would have certain
+       skills because of this (Mathemagical, Versorial, &c.).
+
+   12. ``Emotive Force" - voltage
+   13. ``Signal Roads"  - electrical wire
+   14. Smallwoods are the havens of bears in the civilized areas. They
+       are the only places the bears will enter the towns and cities. They
+       (the smallwoods) aren't stationary, however; they move from place
+       to place throughout a town. Guarded by spells (and the bears
+       themselves), they are not to be entered by the other animals.
+   15. ``My body is a cage 
+       That keeps me
+       From dancing
+       With the one I love,
+       But my mind holds the key."
+   16. Marla must enter the White Bear's Realm,
+       There to learn the raven's way.
+   17, Will we see the Silverbird again? Perhaps, much later, we will
+       learn from her some secrets that we would like to know.
+
+** Art and Stuff to Make
+- Woodcarving of meldrake, black branch and vale of stars?
+- Computer drawings of meldrake, BBVoS?
+- Twin Pillars - Verse and Number.
+- The book should really have a full-page illustration of each major
+  character for reference (perhaps an engraving?).
+- Draw a map of the Realm.
+  
+** Software
+*** TeX for typesetting? (of formulas especially, and images)
+    - Work on the Appendices is making this clear
+    - (but as it turns out, org-mode has nice LaTeX integration, so
+      this is turning out to be less of an issue). (rml [2011-09-30 Fri])
+    - [[file:~/Documents/knuth-texbook0.pdf::PDF%201%205][Knuth, the TeXbook]]
+*** Learn the GIMP for illustrations (perhaps purchase a drawing pad?)
+    - Scripting the GIMP could also be of use.
+    - Well, I have a drawing pad now, so perhaps I should get to work on
+      using it more! (rml [2011-09-30 Fri])
+*** Learn WXMAXIMA for calculations.
+    Choose a manual, and read it. Perhaps also use it for your other
+    mathematical investigations.
+    [[file:~/Documents/maxima-manual.pdf::PDF%201%204][Maxima Manual]]
+*** Create a build system for the book, to include images, etc.
+    23 Nov 11: I'm thinking now that I'd like to include copies of the
+    relevant software with the book, to include all code I've written
+    in support of the book for illustrations, etc.
+
+    - Org-mode appears to be a good candidate here. Of interest:
+      org-babel, calc integration
+    - IDEA: One distribution of the book could be as a .org file, with
+      built-in runnable code (Perl, elisp, calc, &c.)!
+    - [[http://orgmode.org/manual/Images-in-HTML-export.html][Org-mode Manual: Images in HTML Export]]
+    
+** Meldrake's Rules
+*** Rule Four:
+    ``Given a problem P which the practitioner has no method for, propose an
+    alternative problem P' (``p-prime") such that P' is a simpler case of
+    P."
+
+** Mathematical Topics
+   (remember to include footnotes, references, &c.)
+*** recursion
+    1. first example is on approx. line 1985, when G. and friends
+    traverse the circular paths inside Kell's compound. This could be
+    referred to again at a later date (presumably with accompanying
+    illustrations, perhaps drawn using METAPOST or GIMP).
+    NOTE: This could be used later, when entering Redcloth's Tower, since
+    his tower will presumably be structured similarly (which is to say,
+    recursively -- think `Garden of Forking Paths', &c.).
+*** counting problems
+   1. first example from book is in Ch. 10. In fact, pretty much the
+      entire chapter is a counting problem.
+*** geometry
+   1. hexagonal pie-slicing problem at breakfast (Ch. 6, near line 2295) 
+   2. radius of Kell's compound wall? (ADD SCENE?) Perhaps this could be
+      computed recursively, given the smaller dimensions of the
+      hexagonal path 'round his house? Hexagons, stepped out at given
+      intervals such that one can calculate the outer diameter.
+
+      Conversely, perhaps we can compute the shortest path to his
+      house from one of the entrances, recurring through smaller and
+      smaller hexagons.
+
+*** deduction
+   1. cube slicing problems (see Ch.1 of Jacobs' _MaHE_)
+*** multiplication principle
+    redcloth's tower ("n-gates" problem) - How many ways are there to
+    enter? What percentage will prove to be entrances vs. traps? 
+*** computing
+    Turing machine equivalent, using physical objects? Or should these
+    folk have access to computers, so I can have them start writing
+    programs? I wonder if we should go with Turing machines or the
+    Lambda Calculus?
+
+    I think the lambda calculus is more appropriate, since it seems to
+    fall more in line with the idea that things in this world are
+    ``active", which is to say that you `apply' functions (activities)
+    to other activities. The approach to language is similar, in that
+    ``all create or destroy at need".
+
+    23 Nov 11:
+    I think that the lambda calculus is a form of magic, and that it
+    can be one of the ways in which a Numbermaster might issue a spell
+    of his own, since the Versemasters have their voices, pens, etc.,
+    and since I haven't introduced any machines (computing or
+    otherwise as of yet) that could conceivably be used as vehicles
+    for the abilities of the Numbermasters.
+
+*** fractal geometry
+    drawing pictures by iterating simple drawings (trees, blocks,
+    structures)
+
+** THE GLOAMING
+
+This is the prophecy of REDCLOTH. This is the end of days, as he sees them,
+and he means to be prepared. Mind and soul. Knowledge must be earned, like
+any coin. Or is it a gift? In either case, the HOLCREDT CONSORTIUM is not 
+so much a path to rule as to order. Order makes rule necessary, whereas 
+rule is not sufficient for order. His (REDCLOTH's) is the new way, less per-
+sonality and charisma, more grey duty and record-keeping. Yet, it is the 
+modern way. His way will have the land united for a common good, and yet
+the world as known will end somehow, MAGICK will end, to be replaced by 
+mere knowledge.
+
+The GLOAMING is the twilight of the gods (or idols, as you prefer).
+
+The GLOAMING is the end of the age of heroes, and the start of the age
+of ``kneelers'' (see:ASoIaF). It is the beginning of the age for those
+who would obey. Much like Sauron, Redcloth must SEE all, must KNOW
+all. Nothing can be shielded from him. In fact, his nature is merely
+similar to that of MELKOR, though he is not that same spirit, since he
+can and will build, create, lead. It is simply his fundamental
+mistrust...
+
+** Character List
+   Current as of 29 Oct 11.
+*** Meldrake the Raven
+    (which is to say The Black Dragon / Honey Dragon)
+
+    There is some evidence that Meldrake has (and does still) engaged in travel to other, and perhaps future, worlds.
+
+*** Glynis McGinty / AVIS
+    ``avis (genitive avis); f, third declension
+    a bird 
+    ca. 833 — Nennius, Historia Brittonum, III, 54 
+    et vēnērunt ad eum avēs multī colōris innumerābilēs 
+    and came to him countless birds of many colors
+    (figuratively) omen, portent"
+
+    THE CHILDE GLYNIS
+*** John Sharp / URSUS
+*** Mrs. Jane McGinty
+mother of Glynis
+*** Marla McGinty
+younger sister of Glynis, aged 9 yrs.
+*** Brian Smalls
+- the front desk clerk at the Hotel Skidmore
+*** Mr. Patrick Scoville
+- known as "Young Mr. Scoville"
+*** Mrs. St. Claire
+- the librarian
+*** Silverbird
+*** Starling King
+*** Redcloth
+*** ACUTUS
+acūtus m (feminine acūta, neuter acūtum); first/second declension
+sharpened, made sharp, sharp, having been sharpened
+*** The Novice (real name?)
+*** Verse Badger / VELLUS
+ vellus
+ vello : velli : vulsum : to pull, pluck out. 
+ volo (sibi velle) : to mean, signify, denote.
+*** Second
+*** Narrator of Ch. 13/Crypto-MELDRAKE(!)
+    Rescued from the Dark Tower by Meldrake, he describes his
+    adventures in the first person. But who is he? Is he Kell,
+    describing the hardships of an earlier time, now the hermit whose
+    hermitage both M. and G. seek? Or is there any hermit(age) at all?
+
+    I also get the sense that he is a powerful magic user, though
+    whether he'll be able to assist Glynis directly in her adventures
+    is an open question. Perhaps only via ``habits of mind".
+
+    Roland/Hrudland?
+    
+    Apparently he also has a /photographic/ memory going back for years...
+
+    Could this be Meldrake? In that case, the scenario is this: he and
+    Glynis have discovered his secret aerie. Upon arrival, he begins
+    telling her the story of his escape from Redcloth years before,
+    describing his escape as being instigated by... a raven named
+    Meldrake! Which is of course very strange, but a person locked in
+    a solitary state can achieve some very strange things...
+    
+** APPENDICES
+   These will contain (pseudo-historical) explications of various
+   mathematical concepts from [[*Mathematical%20Topics%20Book%20One][Mathematical Topics (Book One)]]
+*** A: CONCERNING HEXADIC AND DYADIC NUMBERS AS UNDERSTOOD BY MACHINE
+- conversion between number bases
+- addition and subtraction of same
+- pseudocode, with drawings showing data structures (conversion and
+  add/subtract). Actually, I'd like this to be Scheme/Lisp, now that I
+  think about it.
+*** B: The Multiplication Principle
+    - See Paulos, /Innumeracy/.
+*** C: Recursion
+    See also [[*C%20Recursion][C: Recursion]] 
+    Some Ideas:
+    - Perhaps an image generation example is in order here? Penrose
+      tiles? What are some other cool recursive tilings?
+    - Solve the hexagon `path-distance' problem from Kell's compound
+      (see above).
+    - Fractals. Something simple.
+*** D: Induction
+
+* 2. The BREATH Of JELLECK
+* 3. LAND Of JELLECK, LAND Of ICE And SNOW
