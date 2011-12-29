@@ -137,212 +137,45 @@ John heard the rattling of heavy chain against oak. Three seconds later, the doo
 
 * THE TUTOR
 
-"It doesn't work," said the novice, a young man of 13. Tall, though slight and
-pale, with a rather nondescript mop of brown hair, he was but a middling
-student at the castle. Indeed, he was one of those most often found here in
-the head Tutor's office seeking assistance from his elders. Even so, he
-received only middling marks from his superiors. The study of number did not
-come easily to all those chosen by the Master of Red and Black, it seemed. And
-yet here he was again, seeking to learn. What else could a teacher do, but
-teach?
+"It doesn't work," said the novice, a young man of 13. Tall, though slight and pale, with a rather nondescript mop of brown hair, he was but a middling student at the castle. Indeed, he was one of those most often found here in the head Tutor's office seeking assistance from his elders. Even so, he received only middling marks from his superiors. The study of number did not come easily to all those chosen by the Master of Red and Black, it seemed. And yet here he was again, seeking to learn. What else could a teacher do, but teach?
 
-Known mostly as "Spark," he was not known for the quickness of his mind among
-the other students. One had to wonder whether that nickname had been given to
-him by the other students as a cruel jape, since he was hardly the brightest
-light to shine forth from the Dark Tower. Or even the sixth-brightest. Oh
-well. Hopefully he hadn't seen the cruelty in their dry humor and had merely
-taken it as a compliment, a name meant to denote his skill in taming the
-elemental forces which were required in order to make the new computing
-machines work. Or so the Head Tutor hoped as he considered the boy across the
-table. He hoped above all that the boy would remain oblivious to their jokes
-and cruelty, and keep working. And yet...
+Known mostly as "Spark," he was not known for the quickness of his mind among the other students. One had to wonder whether that nickname had been given to him by the other students as a cruel jape, since he was hardly the brightest light to shine forth from the Dark Tower. Or even the sixth-brightest. Oh well. Hopefully he hadn't seen the cruelty in their dry humor and had merely taken it as a compliment, a name meant to denote his skill in taming the elemental forces which were required in order to make the new computing machines work. Or so the Head Tutor hoped as he considered the boy across the table. He hoped above all that the boy would remain oblivious to their jokes and cruelty, and keep working. And yet...
 
-Would that all of my charges were as curious, even those whose intellectual
-gifts are greater. No, he reminded himself, especially those whose gifts are
-greater. For in the study of number, and indeed of the new computing machines
-which had recently grown therefrom, diligence and curiosity often outstripped
-raw ability. Many were those who had been given the Gift at an early age, and
-squandered it as their dimmer peers eventually surpassed them through hard
-work (or serendipity, which is just one of its effects). Often it seemed that
-their Gift was a curse, which of course is true of most gifts that allow one
-to get away with doing less than his or her peers. Indeed, there are no gifts,
-only things that cost. Everything costs, in the end. The sword with which you
-slay the dragon today may cut your own throat tomorrow. And so on. And yet
-here he is again in my office, this skinny creature with no real ability, just
-refusing to quit, refusing in the face of all his mediocrity to slink away
-defeated and leave the field to his intellectual betters.
+Would that all of my charges were as curious, even those whose intellectual gifts are greater. No, he reminded himself, especially those whose gifts are greater. For in the study of number, and indeed of the new computing machines which had recently grown therefrom, diligence and curiosity often outstripped raw ability. Many were those who had been given the Gift at an early age, and squandered it as their dimmer peers eventually surpassed them through hard work (or serendipity, which is just one of its effects). Often it seemed that their Gift was a curse, which of course is true of most gifts that allow one to get away with doing less than his or her peers. Indeed, there are no gifts, only things that cost. Everything costs, in the end. The sword with which you slay the dragon today may cut your own throat tomorrow. And so on. And yet here he is again in my office, this skinny creature with no real ability, just refusing to quit, refusing in the face of all his mediocrity to slink away defeated and leave the field to his intellectual betters.
 
-"I spent all last night trying to figure out what was wrong with it, and I
-have a few ideas. I wrote them down." The boy pulled out a piece of paper
-filled with unintelligible glyphs. What are these, the marks of chicken's
-feet? thought the Tutor. And I don't understand that messy-looking diagram
-over there on the left.
+"I spent all last night trying to figure out what was wrong with it, and I have a few ideas. I wrote them down." The boy pulled out a piece of paper filled with unintelligible glyphs. What are these, the marks of chicken's feet? thought the Tutor. And I don't understand that messy-looking diagram over there on the left.
 
-"Alright, young master. Let's see what we have here. I see you've chosen the
-dodecadic representation?" The boy nodded yes. ``Very well, let's get this
-into some kind of order, shall we? I see, in this corner, a diagram of sorts?
-Are these the signal roads you'd like the E.F. to travel?"
+"Alright, young master. Let's see what we have here. I see you've chosen the dodecadic representation?" The boy nodded yes. ``Very well, let's get this into some kind of order, shall we? I see, in this corner, a diagram of sorts? Are these the signal roads you'd like the E.F. to travel?"
 
-The boy nodded again. Signal roads were a difficult concept to master for
-some, the Tutor had to admit. He had had some difficulty when he'd started to
-learn them as well, though not near as much as this young one. No matter. The
-material must be pounded through thick skulls as well as thin.
+The boy nodded again. Signal roads were a difficult concept to master for some, the Tutor had to admit. He had had some difficulty when he'd started to learn them as well, though not near as much as this young one. No matter. The material must be pounded through thick skulls as well as thin.
 
-"Source, earth... yes, yes. Wait, what's this?" He pointed out a glyph that
-straddled two signal roads where they crossed (lines on the paper, really, and
-rather ugly, wavily drawn ones in this case, clearly by an unsteady
-hand). Rather than give him an answer, ask a question. "What does this do?"
+"Source, earth... yes, yes. Wait, what's this?" He pointed out a glyph that straddled two signal roads where they crossed (lines on the paper, really, and rather ugly, wavily drawn ones in this case, clearly by an unsteady hand). Rather than give him an answer, ask a question. "What does this do?"
 
-"Well, I put that there to raise the Emotive Force along that road, but ..."
-The boy frowned, and didn't speak for several long seconds. Finally even his
-meager intellect was able to distinguish what the teacher was saying, and he
-realized his error. This one, at least. "Of course! I raised the Emotive
-Force, but at the cost of rising Impedance! Continuity of Flow remained the
-same, of course, but it was no longer enough to overcome the Impedance!
-Thanks, Tutor! I guess it's back to the drawing board. I only hope it's ready
-by the next moonturn, since that's when the next Evaluation begins." With that
-the young boy scurried out the door of Acutus the Head Tutor, presumably back
-to the little workbench he shared with two other Acolytes in the common study
-rooms.
+"Well, I put that there to raise the Emotive Force along that road, but ..." The boy frowned, and didn't speak for several long seconds. Finally even his meager intellect was able to distinguish what the teacher was saying, and he realized his error. This one, at least. "Of course! I raised the Emotive Force, but at the cost of rising Impedance! Continuity of Flow remained the same, of course, but it was no longer enough to overcome the Impedance! Thanks, Tutor! I guess it's back to the drawing board. I only hope it's ready by the next moonturn, since that's when the next Evaluation begins." With that the young boy scurried out the door of Acutus the Head Tutor, presumably back to the little workbench he shared with two other Acolytes in the common study rooms.
 
-Acutus' own rooms were little better, though he appreciated them just the
-same. Situated as they were in a single cylindrical tower, the various
-Acolytes, hangers-on and advisors to the Master of Red and Black (or
-``M.R.B.") were allotted rather limited floor spaces, since all rooms in the
-tower were cross-sections of a "doughnut" shape created by the central stair
-that ran up the innermost area of the structure. Because of this, the status
-of one's rooms were determined by how high and how small they were, since to
-have a larger room meant to be further from the seat of power, as well as to
-have a diminished view. Thus Acutus was well-pleased with his location in the
-top third of the tower, and certainly the view from his windows out to the
-surrounding mountainsides was stunning, absolutely stunning. One paid for that
-as well, however, with chill. This high up, the wind never stopped blowing,
-and so arrangements were made for heavy, shuttered windows, thick velvet
-curtains, and of the course the fires were kept burning at all times.
+Acutus' own rooms were little better, though he appreciated them just the same. Situated as they were in a single cylindrical tower, the various Acolytes, hangers-on and advisors to the Master of Red and Black (or ``M.R.B.") were allotted rather limited floor spaces, since all rooms in the tower were cross-sections of a "doughnut" shape created by the central stair that ran up the innermost area of the structure. Because of this, the status of one's rooms were determined by how high and how small they were, since to have a larger room meant to be further from the seat of power, as well as to have a diminished view. Thus Acutus was well-pleased with his location in the top third of the tower, and certainly the view from his windows out to the surrounding mountainsides was stunning, absolutely stunning. One paid for that as well, however, with chill. This high up, the wind never stopped blowing, and so arrangements were made for heavy, shuttered windows, thick velvet curtains, and of the course the fires were kept burning at all times.
 
-Acutus yawned. It was too early in the morning for an aging bird like himself
-to be dealing with these strange creatures, these so-called "humans" from
-another world, that seemed so important to the tower's Master. As a young jay,
-long before the ascendancy of the Master of Red and Black, he had studied at
-the Rookery in Halfmoon, which for many years had been the main seat of higher
-learning in the Arts of Number, renowned throughout the Realm of the White
-Bear (Jelec, the Protector, Honored be His Name, Red His Tooth and
-Claw). Acutus had earned high marks as a young blue jay fresh in from the
-forest, and for long years after that had tutored at the Rookery himself, in
-addition to travelling throughout the realm while pursuing his own studies and
-research. From time to time he would visit other Numbermasters living
-throughout the land, sharing their hospitality and company, not to mention the
-use of their libraries whenever he could. Upon his return to the Rookery from
-one of his famous trips abroad he would give a lecture, or series of same,
-sharing what knowledge he'd gathered with his fellow seekers after wisdom.
+Acutus yawned. It was too early in the morning for an aging bird like himself to be dealing with these strange creatures, these so-called "humans" from another world, that seemed so important to the tower's Master. As a young jay, long before the ascendancy of the Master of Red and Black, he had studied at the Rookery in Halfmoon, which for many years had been the main seat of higher learning in the Arts of Number, renowned throughout the Realm of the White Bear (Jelec, the Protector, Honored be His Name, Red His Tooth and Claw). Acutus had earned high marks as a young blue jay fresh in from the forest, and for long years after that had tutored at the Rookery himself, in addition to travelling throughout the realm while pursuing his own studies and research. From time to time he would visit other Numbermasters living throughout the land, sharing their hospitality and company, not to mention the use of their libraries whenever he could. Upon his return to the Rookery from one of his famous trips abroad he would give a lecture, or series of same, sharing what knowledge he'd gathered with his fellow seekers after wisdom.
 
-Much had changed since the arrival on the scene of the Master of Red and
-Black, however. Acutus was no longer a scholar in residence at the Rookery in
-Halfmoon; he had been called away two years ago by the Master of Red and
-Black, with the Rookery's own Headmaster serving as catspaw. Always a jealous
-old creature, that Headmaster. Acutus must have seemed a rival to him, and so
-he was sent away. Acutus was to take up a new position, he'd been told, at
-another castle away to the South, somewhere in the Kettle Mountains. Once
-there, he would become the head Tutor (which meant he would assume the duties
-of a Headmaster without the associated pay), and his charge was to design the
-curriculum of a new school of Number, training new Numbermasters. It was what
-he felt he was born to do, and to be appointed by the Rookery's Headmaster to
-open a new school, well, it was supposed to be a high honor, and yet it had
-left a bad taste in his mouth somehow.
+Much had changed since the arrival on the scene of the Master of Red and Black, however. Acutus was no longer a scholar in residence at the Rookery in Halfmoon; he had been called away two years ago by the Master of Red and Black, with the Rookery's own Headmaster serving as catspaw. Always a jealous old creature, that Headmaster. Acutus must have seemed a rival to him, and so he was sent away. Acutus was to take up a new position, he'd been told, at another castle away to the South, somewhere in the Kettle Mountains. Once there, he would become the head Tutor (which meant he would assume the duties of a Headmaster without the associated pay), and his charge was to design the curriculum of a new school of Number, training new Numbermasters. It was what he felt he was born to do, and to be appointed by the Rookery's Headmaster to open a new school, well, it was supposed to be a high honor, and yet it had left a bad taste in his mouth somehow.
 
-For one thing, he'd never heard of this "Master of Red and Black" fellow, and
-for that reason alone he had been suspicious. Who was this person, and what
-had he done that he could convince the Rookery's Head to open a new school
-just for him? For all the years of his life, Acutus knew, as did every other
-Numbermaster in the Realm, that there were only three schools for those who
-would wrestle with the mysteries of Number. Halfmoon was largest and oldest,
-trainer of the most able teachers and researchers. Aerie was smaller, a single
-tower in a monastic setting high in the Barkshire Mountains to the East of
-Halfmoon, long leagues away and surrounded by endless miles of the Black
-Forest. Her students went the way of Combination, which was to say those
-mysteries of counting and chance.  Finally there was Northwatch, called by
-some Norwich, a mighty castle in its own right, originally raised by the early
-Bear Kings in the Frosted Hills south of the Rondak Mountains. Fewer visitors
-made their way there, though the journey was no longer than that to
-Aerie. Some said it was the cold and snow that kept visitors away, others that
-it was the queer ways of the Northerners. Whatever the reason, it was known as
-a lonely place. Northwatchers ("Norritchers" in the peasant tongue) traveled
-the road of Fluxion, which was to say the essence of Change. Curves, their
-slopes and the areas beneath were what they sought. A worthy study, truly, and
-honorable, Acutus thought. Many of the mysteries were connected by the study
-of Fluxions, and connected to it as well.
+For one thing, he'd never heard of this "Master of Red and Black" fellow, and for that reason alone he had been suspicious. Who was this person, and what had he done that he could convince the Rookery's Head to open a new school just for him? For all the years of his life, Acutus knew, as did every other Numbermaster in the Realm, that there were only three schools for those who would wrestle with the mysteries of Number. Halfmoon was largest and oldest, trainer of the most able teachers and researchers. Aerie was smaller, a single tower in a monastic setting high in the Barkshire Mountains to the East of Halfmoon, long leagues away and surrounded by endless miles of the Black Forest. Her students went the way of Combination, which was to say those mysteries of counting and chance.  Finally there was Northwatch, called by some Norwich, a mighty castle in its own right, originally raised by the early Bear Kings in the Frosted Hills south of the Rondak Mountains. Fewer visitors made their way there, though the journey was no longer than that to Aerie. Some said it was the cold and snow that kept visitors away, others that it was the queer ways of the Northerners. Whatever the reason, it was known as a lonely place. Northwatchers ("Norritchers" in the peasant tongue) traveled the road of Fluxion, which was to say the essence of Change. Curves, their slopes and the areas beneath were what they sought. A worthy study, truly, and honorable, Acutus thought. Many of the mysteries were connected by the study of Fluxions, and connected to it as well.
 
-Indeed all three Houses of Number had distinguished themselves with honor,
-there could be no denying. For as long as those now living could remember,
-there had been these three homes and refuges for the study of Number and her
-mysteries. Now there was a fourth, struggling to be born amidst the
-wilderness. Acutus knew that it was not worthy of inclusion with the others,
-and wouldn't be for hundreds of years at least. Even then, it would always
-retain title as the newest House, and as such would remain the younger sibling
-of the others, ever having to prove its worth. For now it did not even have a
-proper name, which was all to the good, Acutus decided. The other Houses of
-Number would scarce be aware of its existence for some years yet, since he was
-sure that the Rookery's Headmaster hadn't troubled himself overmuch to inform
-the others of Acutus' whereabouts. For whatever reason, the old stork had
-wanted him gone, and for good.
+Indeed all three Houses of Number had distinguished themselves with honor, there could be no denying. For as long as those now living could remember, there had been these three homes and refuges for the study of Number and her mysteries. Now there was a fourth, struggling to be born amidst the wilderness. Acutus knew that it was not worthy of inclusion with the others, and wouldn't be for hundreds of years at least. Even then, it would always retain title as the newest House, and as such would remain the younger sibling of the others, ever having to prove its worth. For now it did not even have a proper name, which was all to the good, Acutus decided. The other Houses of Number would scarce be aware of its existence for some years yet, since he was sure that the Rookery's Headmaster hadn't troubled himself overmuch to inform the others of Acutus' whereabouts. For whatever reason, the old stork had wanted him gone, and for good.
 
-"So be it, then," he had often thought. "I'll raise this House myself, and it
-shall become Great. Let the other Houses tremble at the mention of the Dark
-Tower and its mages, wizards of Number itself but also of the new Counting
-Machines that will extend their powers over the whole earth!"
+"So be it, then," he had often thought. "I'll raise this House myself, and it shall become Great. Let the other Houses tremble at the mention of the Dark Tower and its mages, wizards of Number itself but also of the new Counting Machines that will extend their powers over the whole earth!"
 
-Such had been the goal of Acutus during his fervor at the discovery of the
-Counting Machines. What a wonder, after all! A machine that can perform
-calculations for you, can compute the trajectories of the moon and stars,
-search tirelessly through veritable haystacks of numbers for just the one you
-need, the right one that makes answering your question or solving your problem
-that much easier! Or at the very least: a tool that would extend one's reach,
-would allow one to grapple with ever greater and greater mysteries of Number,
-Knowledge and the Universe!
+Such had been the goal of Acutus during his fervor at the discovery of the Counting Machines. What a wonder, after all! A machine that can perform calculations for you, can compute the trajectories of the moon and stars, search tirelessly through veritable haystacks of numbers for just the one you need, the right one that makes answering your question or solving your problem that much easier! Or at the very least: a tool that would extend one's reach, would allow one to grapple with ever greater and greater mysteries of Number, Knowledge and the Universe!
 
-Of course, the machines were still large, fragile, and somewhat
-error-prone. Their understanding of numeric precision still left a great deal
-to be desired, and they required teams of highly trained Numbermasters and
-Acolytes to massage their inputs and outputs. For all their promise of
-infinite possibility, their opening up of doors into the halls of cosmic
-power, they were still only machines that had been conceived of and created by
-fallible creatures of blood and bone. Still, they represented a technology in
-its infancy, and one which the general public was hardly even aware of to
-boot. Little did the commons know what delights the future held in store for
-them! And as one of history's great and almost-forgotten Numbermasters, that
-inimitable black bear known simply as SchneeBear, was quoted as saying:
-``Technology always gets better; it never gets worse."
+Of course, the machines were still large, fragile, and somewhat error-prone. Their understanding of numeric precision still left a great deal to be desired, and they required teams of highly trained Numbermasters and Acolytes to massage their inputs and outputs. For all their promise of infinite possibility, their opening up of doors into the halls of cosmic power, they were still only machines that had been conceived of and created by fallible creatures of blood and bone. Still, they represented a technology in its infancy, and one which the general public was hardly even aware of to boot. Little did the commons know what delights the future held in store for them! And as one of history's great and almost-forgotten Numbermasters, that inimitable black bear known simply as SchneeBear, was quoted as saying: ``Technology always gets better; it never gets worse."
 
-Acutus had envisioned a world where the Numbermasters, rather than serve the
-ambitions of warriors, as they had for so many years, would serve the people.
-For centuries the various Orders of Number had earned their place in the Realm
-through service, first to the ancient line of Bear Kings, and then to the
-various lords and masters that had sprung up after those early kings had
-disappeared. The world had changed since then, though. Kings and battles,
-blood and valor had given way to farming, trading, a life of peace and
-plenty. Now instead of a countryside filled with bustling castles, keeps, and
-holdfasts, it was farms, cottages, humble folk plying their trades, making
-their way through life as gracefully as they could.  Humble folk who needed
-the protection of the rule of law, not some ancient Bear King's long-dead
-words. Meanwhile, in many places, castle, keep, and holdfast stood empty, and
-most people were happy to have it that way.
+Acutus had envisioned a world where the Numbermasters, rather than serve the ambitions of warriors, as they had for so many years, would serve the people. For centuries the various Orders of Number had earned their place in the Realm through service, first to the ancient line of Bear Kings, and then to the various lords and masters that had sprung up after those early kings had disappeared. The world had changed since then, though. Kings and battles, blood and valor had given way to farming, trading, a life of peace and plenty. Now instead of a countryside filled with bustling castles, keeps, and holdfasts, it was farms, cottages, humble folk plying their trades, making their way through life as gracefully as they could.  Humble folk who needed the protection of the rule of law, not some ancient Bear King's long-dead words. Meanwhile, in many places, castle, keep, and holdfast stood empty, and most people were happy to have it that way.
 
-And of course that was why the Master of Red and Black had always hated for it
-to be called the Realm of the White Bear, a feeling he and Acutus shared. For
-though there were bears in the world, just as there were other creatures (from
-Aardvark to Zebra and beyond), the dread White Bears had not made their way
-below Rondak for many generations now, and whatever trade they plied in those
-vast, icy wastes was of no concern to those within the Realm (or whatever it
-would soon be called, with the advent of this New Age they were building).
+And of course that was why the Master of Red and Black had always hated for it to be called the Realm of the White Bear, a feeling he and Acutus shared. For though there were bears in the world, just as there were other creatures (from Aardvark to Zebra and beyond), the dread White Bears had not made their way below Rondak for many generations now, and whatever trade they plied in those vast, icy wastes was of no concern to those within the Realm (or whatever it would soon be called, with the advent of this New Age they were building).
 
-Thus it was time for the Realm to move beyond woods magic and dead kings, and
-to embrace the rule of law and civilization. Bright civilization, Redcloth
-called it!--
+Thus it was time for the Realm to move beyond woods magic and dead kings, and to embrace the rule of law and civilization. Bright civilization, Redcloth called it!--
 
-Acutus caught himself at that mention of the Master's common name. One never
-knew when the Master might be listening in. If not him, one of his shadows. It
-was best to comport oneself in one's own mind as one would in public, Acutus
-told himself. Yes, that was best.
+Acutus caught himself at that mention of the Master's common name. One never knew when the Master might be listening in. If not him, one of his shadows. It was best to comport oneself in one's own mind as one would in public, Acutus told himself. Yes, that was best.
 
 * A LADDER TO THE STARS
 
@@ -627,130 +460,64 @@ Presently, the portcullis had risen about halfway, and Meldrake stood and said, 
 * APPENDIX A: CONCERNING HEXADIC AND DYADIC NUMBERS AS UNDERSTOOD BY MACHINE.
 ** INTRODUCTION. THE STUDY OF NUMBER, ITSELF.
 
-Being, in the first part, that method by which one enumerates lesser
-quantities in the world around us: which is to say, those quantities
-which can be seen in workshop, market, and the like, and thus useful in
-the attainment of everyday tasks and concerns.
+Being, in the first part, that method by which one enumerates lesser quantities in the world around us: which is to say, those quantities which can be seen in workshop, market, and the like, and thus useful in the attainment of everyday tasks and concerns.
 
-Being, in the second part, a method by which one enumerates and thus
-comes to hold dominion over those middling quantities which are to be
-found in dealings with money and the affairs of nations, which are in
-actuality the same things; in particular, questions of calculation
-related to interest on loans, the accounts of kingdoms with respect to
-the bounty of its farms, and later its storehouses, by which the kingdom
-may thrive or go to waste.
+Being, in the second part, a method by which one enumerates and thus comes to hold dominion over those middling quantities which are to be found in dealings with money and the affairs of nations, which are in actuality the same things; in particular, questions of calculation related to interest on loans, the accounts of kingdoms with respect to the bounty of its farms, and later its storehouses, by which the kingdom may thrive or go to waste.
 
-Being, in the third and greatest part, the method by which one
-enumerates those questions which do not yield willingly to the
-understanding of men's minds, however great; these being mainly
-questions of the world of Nature, and the Universe Herself; to wit,
-inquiries into probability and chance; equations in n-variables, where n
-is some large number; calculations upon graphs and mapped networks;
-indeed, questions regarding the very essence of Number herself, Queen of
-the Sciences, such as the True Nature of the Primes.
+Being, in the third and greatest part, the method by which one enumerates those questions which do not yield willingly to the understanding of men's minds, however great; these being mainly questions of the world of Nature, and the Universe Herself; to wit, inquiries into probability and chance; equations in n-variables, where n is some large number; calculations upon graphs and mapped networks; indeed, questions regarding the very essence of Number herself, Queen of the Sciences, such as the True Nature of the Primes.
 
-All these and more can be called the realm of the Numbermaster; indeed,
-such questions are his playground, and all Numbers his
-friends. Devilishly clever friends, full of trickery and surprise for
-even the wisest.
+All these and more can be called the realm of the Numbermaster; indeed, such questions are his playground, and all Numbers his friends. Devilishly clever friends, full of trickery and surprise for even the wisest.
 
 ** SIMPLIFICATION: NUMERIC REPRESENTATION
 
-It is thus the aim of this brief essay to acquaint the reader with
-several mostly similar numeric representations, preparatory to
-investigations conducted via aid of the new machinery of computation.
+It is thus the aim of this brief essay to acquaint the reader with several mostly similar numeric representations, preparatory to investigations conducted via aid of the new machinery of computation.
 
-The first step in conducting such investigations involve preparing the
-aforementioned numerical representations for the device's consumption (indeed,
-the very first steps involve gaining an understanding of the problem at hand
--- that alone is more important than anything contained in this humble work!
-But let us continue . . .). The method by which the machinery in question
-represents quantity is indeed foreign to our own, though perhaps not wholly
-so, as we shall soon see. This is for reasons which are tied to the Device's
-mechanical workings which are well beyond the scope of this essay, and thus I
-shall pass over them here (while directing the gentle reader interested in
-such workings to the learned and honorable Nathaniel Morningstar's ``Treatise
-Upon the Machinery of Number," which despite its somewhat unfortunate title
-provides a faithful and detailed account of the workings of such devices as we
-are (at least peripherally) concerned with here. Indeed, any man who had
-completed the good Professor Morningstar's text and applied himself diligently
-to the problems set within would find himself possessed of all the knowledge
-required to build such a device for his own! For this reason, and for the fact
-of its early appearance on the scene, that tome is referred to simply as
-``Morningstar." It has not, to this writer's knowledge, been yet surpassed).
+The first step in conducting such investigations involve preparing the aforementioned numerical representations for the device's consumption (indeed, the very first steps involve gaining an understanding of the problem at hand -- that alone is more important than anything contained in this humble work! But let us continue . . .). The method by which the machinery in question represents quantity is indeed foreign to our own, though perhaps not wholly so, as we shall soon see. This is for reasons which are tied to the Device's mechanical workings which are well beyond the scope of this essay, and thus I shall pass over them here (while directing the gentle reader interested in such workings to the learned and honorable Nathaniel Morningstar's ``Treatise Upon the Machinery of Number," which despite its somewhat unfortunate title provides a faithful and detailed account of the workings of such devices as we are (at least peripherally) concerned with here. Indeed, any man who had completed the good Professor Morningstar's text and applied himself diligently to the problems set within would find himself possessed of all the knowledge required to build such a device for his own! For this reason, and for the fact of its early appearance on the scene, that tome is referred to simply as ``Morningstar." It has not, to this writer's knowledge, been yet surpassed).
 
-In any case, we must needs return to our business, which is that of
-representing number in hexadic and dyadic form. In order that we approach
-these forms by the most direct path possible, we must travel briefly over more
-familiar ground -- namely, our own number system of tens.
+In any case, we must needs return to our business, which is that of representing number in hexadic and dyadic form. In order that we approach these forms by the most direct path possible, we must travel briefly over more familiar ground -- namely, our own number system of tens.
 
-[Figure A.0:
+[Figure A.0]
 Let n = 763, 436.
 | I.   | Integer           |          7 |          6 |          3 |          4 |          3 |          6 |   |
 | II.  | Powers of ten     |          5 |          4 |          3 |          2 |          1 |          0 |   |
 | III. | Expanded notation | (7 x 10^5) | (6 x 10^4) | (3 x 10^3) | (4 x 10^2) | (3 x 10^1) | (6 x 10^0) |   |
-]
 
-Above we are given the number 763,436, which is denoted by the letter
-n. Figure I is simply a representation of n where each of the integers
-which comprise n are given their own ``cell," as can be seen by the
-relationship between rows and II, wherein each integer from n is
-aligned with the power of ten according to its place.
 
-Figure III is once more n, here given in expanded notation for clarity
-(this clarity comes at the cost of brevity of description, as can easily
-be observed -- note the differences between Figures 0 and III! -- but it
-often pays to note the obvious).
+Above we are given the number 763,436, which is denoted by the letter n. Figure I is simply a representation of n where each of the integers which comprise n are given their own ``cell," as can be seen by the relationship between rows and II, wherein each integer from n is aligned with the power of ten according to its place.
 
-Please take a moment to perform the reduction, by hand, of the expanded
-notation in Figure III. It is an elementary calculation, to be sure, but
-one with which we must become intimate with, such that it becomes as
-effortless as breathing.
+Figure III is once more n, here given in expanded notation for clarity (this clarity comes at the cost of brevity of description, as can easily be observed -- note the differences between Figures 0 and III! -- but it often pays to note the obvious).
+
+Please take a moment to perform the reduction, by hand, of the expanded notation in Figure III. It is an elementary calculation, to be sure, but one with which we must become intimate with, such that it becomes as effortless as breathing.
 
 ** A WORD ON NOTATION.
 
-Let us refer to all those numbers which are based in tens as `decads,' and
-denote them with subscripts, e.g., 245_{10}.
+Let us refer to all those numbers which are based in tens as `decads,' and denote them with subscripts, e.g., 245_{10}.
 
-Let us then refer to those numbers based in twos as `dyads,' and denote them
-11001_{2}.
+Let us then refer to those numbers based in twos as `dyads,' and denote them 11001_{2}.
 
-Thus the number in its current `base-n' representation is subscripted by the
-number upon which it is based, and confusion is avoided.
+Thus the number in its current `base-n' representation is subscripted by the number upon which it is based, and confusion is avoided.
 
 ** FIRST POSTURE: DECADS to DYADS.
 
-Let us begin by examining the dyadic system. To make ourselves understood by
-the machine, we'll want to begin with translation, the act of converting from
-decad to dyad (``base-ten to base-two," if you will). What follows is an
-example:
+Let us begin by examining the dyadic system. To make ourselves understood by the machine, we'll want to begin with translation, the act of converting from decad to dyad (``base-ten to base-two," if you will). What follows is an example:
 
 Given n = 25, convert to dyadic notation.
 
 Let b = 2, which is the base we desire.
 
-Let x = | |, which we'll imagine as the beginnings of an array (or list) of
-``cells," each of which can contain one number.
+Let x = | |, which we'll imagine as the beginnings of an array (or list) of ``cells," each of which can contain one number.
 
-STEP ONE.  We begin by dividing the number under consideration (`n') by the
-number representing the base we desire (`b'). Thus, 25 / 2 = 12r1, which is to
-say 12 with a remainder of 1 (fractions are unwelcome here, since the machine
-does not understand them)[1]. Therefore, we push the remainder 1 onto the
-array x from the left-hand side, such that the array `x' now looks like this:
+STEP ONE.  We begin by dividing the number under consideration (`n') by the number representing the base we desire (`b'). Thus, 25 / 2 = 12r1, which is to say 12 with a remainder of 1 (fractions are unwelcome here, since the machine does not understand them)[1]. Therefore, we push the remainder 1 onto the array x from the left-hand side, such that the array `x' now looks like this:
 
 x = | 1 |.
 
-Since 25 / 2 = 12, we use 12 as our new `n' in the next iteration, leading us
-to . . .
+Since 25 / 2 = 12, we use 12 as our new `n' in the next iteration, leading us to . . .
 
-STEP TWO.  We've replaced 25 with 12, but the rest of the calculation is the
-same. 12 / 2 = 6r0, and thus we push 0 onto the array `x' from the left side
-so that its appearance is now:
+STEP TWO.  We've replaced 25 with 12, but the rest of the calculation is the same. 12 / 2 = 6r0, and thus we push 0 onto the array `x' from the left side so that its appearance is now:
 
 x = | 0 | 1 |.
 
-STEP THREE.  n = 6, and 6/2 = 3r0, necessitating that 0 be pushed onto x,
-yielding
+STEP THREE.  n = 6, and 6/2 = 3r0, necessitating that 0 be pushed onto x, yielding
 
 x = | 0 | 0 | 1 |.
 
@@ -760,23 +527,15 @@ x = | 1 | 0 | 0 | 1 |.
 
 STEP FIVE.  n = 1, and 1/2 = 0r1, providing
 
-x = | 1 | 1 | 0 | 0 | 1 |, which is normally written as 11001, though for
-purposes of clarity we shall denote it 11001_2.
+x = | 1 | 1 | 0 | 0 | 1 |,
 
-Note that this operation required five steps, since the binary representation
-of 25_10 is five digits long. Such translations from one base to another are
-rather tedious and time-consuming, and for that reason they are best done by
-machine (once one has acquired a firm grasp of the fundamentals, naturally).
+which is normally written as 11001, though for purposes of clarity we shall denote it 11001_2.
+
+Note that this operation required five steps, since the binary representation of 25_10 is five digits long. Such translations from one base to another are rather tedious and time-consuming, and for that reason they are best done by machine (once one has acquired a firm grasp of the fundamentals, naturally).
 
 ** SECOND POSTURE: DYADS TO DECADS
 
-Given the array x above, we can see that each cell can contain either a one or
-zero, and that those numbers correspond to `states' which we might call `on'
-or `off'. When a one is inserted into a given cell, the result is that we must
-calculate the value of the number contained by that cell; this is based upon
-its position in the array which denotes its exponent, which is in turn
-affected by its base of representation. For this example we are interested in
-dyads, or ``base-two" representations.
+Given the array x above, we can see that each cell can contain either a one or zero, and that those numbers correspond to `states' which we might call `on' or `off'. When a one is inserted into a given cell, the result is that we must calculate the value of the number contained by that cell; this is based upon its position in the array which denotes its exponent, which is in turn affected by its base of representation. For this example we are interested in dyads, or ``base-two" representations.
 
 [FIGURE A.2]
 
