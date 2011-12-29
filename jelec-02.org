@@ -1,4 +1,4 @@
-* CHAPTER ELEVEN: HALFMOON
+* HALFMOON
 
 ``What's your name?" The badger was asking John for his name again, snarling it, really. In fact, several of these unhappy badgers surrounded John at the moment, though it was only the largest and fiercest which spoke. The rest seemed content to merely wait for John's answer.
 
@@ -135,7 +135,7 @@ Just then they all three heard something large moving behind the gate. They coul
 
 John heard the rattling of heavy chain against oak. Three seconds later, the door began to swing outward from the stone arch.
 
-* CHAPTER TWELVE: THE TUTOR
+* THE TUTOR
 
 "It doesn't work," said the novice, a young man of 13. Tall, though slight and
 pale, with a rather nondescript mop of brown hair, he was but a middling
@@ -344,7 +344,7 @@ knew when the Master might be listening in. If not him, one of his shadows. It
 was best to comport oneself in one's own mind as one would in public, Acutus
 told himself. Yes, that was best.
 
-* CHAPTER THIRTEEN: A LADDER TO THE STARS
+* A LADDER TO THE STARS
 
   ``And so it was that I found myself traveling in the company of a large raven. In fact, the raven in question was as tall as I was (which is to say: around six feet or so). He had discovered me in the dungeon of Redcloth's tower, and had brought with him, in addition to bread and water (O Joy! O Bounty!), a selection of magical items which, he assured me, would make our hasty exit possible. Naturally, I was overjoyed to hear this, since I was at that time unable to work any magics whatsoever on my own behalf. It was my hope that his large size and rather fearsome staff of ash (with its appropriately large head of meteor-rock), which he referred to as the ``Staff of Forgetting", would be adequate to secure our release.
 
@@ -563,7 +563,7 @@ After this synchronization had been reached, my partner beyond the door and I co
 
 And what's more, I found myself standing in the hallway outside my cell door.
 
-* CHAPTER FOURTEEN: THE SMALLWOOD
+* THE SMALLWOOD
 
 ``Welcome, friends." The voice that emerged from behind the gate was deep as a mountain. Though its words were friendly words, that voice had a language all its own that spoke of deep forests and things not to be trespassed against. The door was now fully open, and John could see the brown hulk that had stood behind it. He craned his neck to see the broad face and murderous snout, from which those friendly words had emerged, and realized the reason for the height of the arch. The bear stood on its hind legs and surveyed them calmly; John wished like anything that he could read the facial expressions of bears, but he supposed that the lack of bared fangs reassured him somewhat. 
 
@@ -615,20 +615,16 @@ By now it was approaching late afternoon. John's best guess, based on the shadow
 
 Beneath all this, there was the ubiquitous carpet of red needles and various small flora of the forest floor. Most important of all these were the humble ferns which throve amid complementary blankets of moss. Thus was the forest floor divided among a few states, each equally beautiful: covered in a blanket of red pine and other needles (this described the path upon which our little group travelled); almost invisible under a symphony of bright green ferns, gentle harpsichords strewn about the forest floor wherever there was soil enough to meet their humble needs; and wherever needle and fern failed, such as upon the large rock outcroppings which were everywhere inside the smallwood, there grew the tenacious yet fragile green moss that John loved, that said to him: ``You are in a real forest now; be at peace."
 
-* NEXT: ACUTUS MEETS WITH REDCLOTH
-  
-* NEXT: CUPS AND PENNIES
+* ACUTUS MEETS WITH REDCLOTH
+* CUPS AND PENNIES
 
 Presently, the portcullis had risen about halfway, and Meldrake stood and said, ``Off with us, then."
 
 (``I'd hoped to stop boring you with these Number bits, but it seems that I can't tell the story without them, since they are in fact integral to the way that I escaped!" -- adapt the `binary cups' puzzle from Merrill)
 
-* NEXT: LITTLE SISTERS AND THEIR GAMES
-
-* NEXT: THE HERMIT AND HIS MOUNTAIN
-
-* APPENDIX A: CONCERNING HEXADIC AND DYADIC NUMBERS AS UNDERSTOOD BY MACHINE. A BRIEF TREATISE.
-
+* LITTLE SISTERS AND THEIR GAMES
+* THE HERMIT AND HIS MOUNTAIN
+* APPENDIX A: CONCERNING HEXADIC AND DYADIC NUMBERS AS UNDERSTOOD BY MACHINE.
 ** INTRODUCTION. THE STUDY OF NUMBER, ITSELF.
 
 Being, in the first part, that method by which one enumerates lesser
