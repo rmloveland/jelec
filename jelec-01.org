@@ -276,7 +276,7 @@ It was that curiosity which brought her back to the desk and to her friend Brian
 
 The season had begun, and business had picked up a good deal over the last few days. This meant that the front desk was now a busy place. Guests and potential guests were waiting to check in, check out, complain about the televisions in their rooms, and all of those other various and wonderful things which people do when they leave their hometowns to become tourists.
 
-Brian, for his part, was pleasant, accomodating, and efficient as ever. "I'm sorry for the inconvenience, Mr. Janesky," he said to one balding, older man. "I've dispatched our head of maintenance, George Murphy, to your room to look at that refrigerator. In the meantime, I can offer you another room if you like--"
+Brian, for his part, was pleasant, accommodating, and efficient as ever. "I'm sorry for the inconvenience, Mr. Janesky," he said to one balding, older man. "I've dispatched our head of maintenance, George Murphy, to your room to look at that refrigerator. In the meantime, I can offer you another room if you like--"
 
 "There's no need for that, Brian," said Mr. Janesky. "We're very happy with our view of the lake."
 
@@ -1134,25 +1134,25 @@ The Silverbird gave Meldrake a brief nod of understanding, then spread her wings
 
 ---
 
-Several minutes passed before they had left the clearing far enough behind to be out of earshot. This time through the woods, they did not seem to be in any rush at all; Meldrake had returned to his former leisurely pace, and was now able to speak in something other than a rhyming verse. By now it was approaching noon, the noon of a clear day. Glynis's stomach rumbled in agreement that it was, in fact, high time for a nice lunch. She observed, as had many others before, that a finely-tuned stomach keeps its own exquisite time.
+Several minutes passed before they had left the clearing far enough behind to be out of earshot. This time through the woods, they did not seem to be in any rush at all. Meldrake had returned to his former leisurely pace, and was now able to speak in something other than a rhyming verse. By now it was approaching noon, the noon of a clear day. Glynis's stomach rumbled in agreement that it was, in fact, high time for a nice lunch. She observed, as many do, that a finely-tuned stomach keeps its own exquisite time.
 
-"So Meldrake, what was that all about?" Glynis piped up, in an attempt to delay her hunger with conversation. "I thought you needed me to bring these items," and here she touched the pack containing her grandmother's ruby brooch, her book of wisdom, and the song-for-a-dark-time-slash-poem, "so what happened?"
+"So Meldrake, what was that all about?" Glynis asked, in an attempt to delay her hunger with conversation. "I thought you needed me to bring these items," and here she touched the pack containing her grandmother's ruby brooch, her book of wisdom, and the 'Song for a Dark Time,' "so what happened?"
 
-Meldrake's answer came quickly. "I was as surprised as you were. The Silverbird, in addition to her station as the Queen of All of Lesser Birdkind, which encompasses all winged, feathered creatures save the Great Eagles Themselves and some species of dragons (which are a distant branch of the bird family, naturally), is a voyager of worlds.
+Meldrake's answer came quickly. "I was as surprised as you were. The Silverbird, in addition to her station as the Queen of All of Lesser Birdkind, is a voyager of worlds. Some are like your own, and some are not. Please do also keep in mind that her kingdom encompasses all winged, feathered creatures save the Great Eagles Themselves and some species of dragons (which are a distant branch of the bird family, naturally)."
 
-The flicker and flash which our eyes perceive is but illusion: the Silverbird is ever-present, not only in this realm, but in others as well. She treads Space and Time as we do the needles of this humble path," he said with a flourishing gesture of his wing. "Though she is not all-knowing, her eye does see far. Very far indeed," he added, and his face and mood seemed at once to darken. "No, it is my belief that the items which you now carry cannot but reveal themselves and their purposes to you in time. You need only wait for that; the Silverbird cannot help you with it. My dear Glynis, what troubles my mind is something which the good Queen herself told me, and it regards you."
+"The flicker and flash which our eyes perceive is but illusion: the Silverbird is ever-present, not only in this realm, but in others as well. She treads Space and Time as we do the needles of this humble path," he said with a flourishing gesture of his wing. "Though she is not all-knowing, her eye does see far. Very far indeed," he added, and his mood seemed at once to darken. "No, it is my belief that the items which you now carry cannot but reveal themselves and their purposes to you in time. You need only wait for that -- the Silverbird cannot help you with it. My dear Glynis, what troubles my mind is something which the good Queen herself told me, and it regards you."
 
-Glynis was surprised. "What is it, Meldrake? What could it be anyway?" she added. "I didn't even say ten words to her the whole time we were there."
+Glynis was surprised. "What is it, Meldrake?" she asked. "I didn't even say ten words to her the whole time we were there."
 
 John stopped walking altogether, his expression became more serious than usual. "Tell us what she said, Meldrake."
 
 "Before I tell you, keep in mind what I've just said: the Silverbird travels among worlds. Times and places. The things she sees have all come to pass, or will, but not necessarily in this place. Do you understand this?" he asked.
 
-Glynis and John each nodded in turn; by now, the little group had stopped, the better to hold their conversation in a quiet manner. In order to keep their business close, Meldrake stepped closer to the children, beckoning them do the same.
+Glynis and John each nodded in turn. By now, the little group had stopped, the better to hold their conversation in a quiet manner. In order to keep their business close, Meldrake stepped closer to the children, beckoning them to do the same.
 
-"What the Silverbird has seen: it may come to pass in this world, and it may not. Nevertheless, I must tell you: Avis, she saw you clothed in red and black, reading from a great tome, leather-bound. You were surrounded by your fellows, children your own age, who themselves also wore robes of red and black. These are the colors of Redcloth's order."
+"What the Silverbird has seen... it may come to pass in this world, and it may not. Nevertheless, I must tell you: Avis, she saw you clothed in red and black, reading from a great tome, leather-bound. You were surrounded by your fellows, children your own age, who themselves also wore robes of red and black. These are the colors of Redcloth's order."
 
-Here Meldrake paused, looking into each young person's eyes in turn.
+Here Meldrake paused, looking into each of their eyes in turn.
 
 "So," Glynis said, "she saw me with the children that were taken by Redcloth? Are you saying that I'm going to join Redcloth at some point? Is she saying that?"
 
@@ -1160,11 +1160,11 @@ Here Meldrake paused, looking into each young person's eyes in turn.
 
 "That may be, but you still look worried to me," said John to the raven. "But then again, I'm not an expert in the facial expressions of birds."
 
-Meldrake softened at that. "Indeed not, my young friend, though I suppose you wouldn't be. Still, you've done well enough, for a poor flightless creature, that is," he said with something like a playful wink. "The thing to do now, it seems to me, is to visit a hermit, preferably one living in the mountains."
+Meldrake softened at that. "Indeed not, my young friend, though I suppose you wouldn't be. Still, you've done well enough, for a poor flightless creature, that is," he said with a playful wink. "The thing to do now, it seems to me, is to visit a hermit, preferably one living in the mountains."
 
 "A hermit?" asked Glynis.
 
-"Oh yes," replied the raven. "We need to spend some time with a hermit on his mountain, the idea being that he'll share some of his great store of accumulated wisdom with us. Certainly he'll shore up deficiencies in our habits of mind!" Meldrake sounded genuinely excited about the prospect.
+"Oh yes," replied the raven. "We need to spend some time with a hermit on his mountain, and perhaps we can persuade him to share some of his great store of accumulated wisdom with us. Certainly he'll shore up deficiencies in our habits of mind!" Meldrake sounded genuinely excited about the prospect.
 
 "I'm still not sure what that means," said Glynis, "but I'm willing to give it a try if it means helping the kids in Redcloth's clutches."
 
@@ -1172,35 +1172,35 @@ Meldrake softened at that. "Indeed not, my young friend, though I suppose you wo
 
 "Wonderful, wonderful! We'll begin our journey right away. There's only the matter of deciding which hermit to bother, but I'm beginning to get an idea about that!"
 
-Suddenly, Meldrake turned and began walking back the way they had just come. The children, for their part, followed him, back in the direction of the sacred grove where they had only just met the Starling King and the Silverbird, away once more from the home of their new friend Kell, and growing further away with every step.
+Suddenly, Meldrake turned and began walking back the way they had just come. The children, for their part, followed him back in the direction of the sacred grove where they had only just met the Starling King and the Silverbird, away once more from the home of their new friend Kell, and growing further away with every step.
 
-Some minutes later, they returned to that same grove which moments before had been filled with birds; now, it stood empty. They passed through it without comment, regaining the trail West-ward on the other side. A very few minutes after that, John was the first to hear the sounds of rushing water. Soon they all could hear it; they continued towards the sound, which grew louder and louder, for what Glynis thought was about half a mile before finally breaking from the cover of the dark pine forest which they had just started to become accustomed to (the children, that is -- for Meldrake seemed to be at his ease no matter where he was, or at least he made it seem so).
+Some minutes later, they returned to that same grove which moments before had been filled with birds; now, it stood empty. They passed through it without comment, regaining the trail west-ward on the other side. A very few minutes after that, John was the first to hear the sounds of rushing water. Soon they all could hear it, and they continued towards the sound, which grew louder and louder. After what seemed to be about half a mile, they finally broke from the cover of the dark pine forest to which they had only just become accustomed (the children, that is -- for Meldrake seemed to be at his ease no matter where he was, or at least he made it seem so).
 
-The three stepped out into the daylight, somewhat taken aback by how bright it was after several hours in the woods; even the grove of the Starling King had been dim by comparison with the open sky under which they now found themselves.
+The three stepped out into the daylight, momentarily dazed by the bright glare after several hours spent in the woods. Even the grove of the Starling King had been dim compared to the open sky under which they now stood.
 
-As for the trail, it did continue down, down the embankment on which they stood, down through the rocks and roots which traversed and were part of the path itself, all the way to the water's edge. And what a sight it was! The river-sounds which had led them as they walked were now come fully to fore, the roar and rush of water over rock now filled their eyes as well as their ears. Though it ran about three- to five-hundred feet wide by Glynis's reckoning, it was not deep, at least not where Meldrake and the children stood. It was, however, swift and filled with rocks and stones of all manner of shape and size, not to mention the larger outcroppings of bedrock which poked forth their stony heads here and there, singly and in groups. These large formations created, variously: small, foamy waterfalls; chute-like passages which appeared made to fit small boats but which no doubt held hundreds of sharp rocks just below the surface; and a generally rough-and-tumbly environment filled with white water and rock, rapids if rapids ever there were.
+As for the trail, it continued down the embankment on which they stood, down through rocks and roots which traversed and molded the path itself, all the way to the water's edge. And what a sight it was! The river-sounds that had led them as they walked were now come fully to fore, the roar and rush of water over rock now filling their eyes as well as their ears. Though it ran about three hundred to five hundred feet wide by Glynis's reckoning, it was not deep, at least not where Meldrake and the children stood. It was, however, swift and filled with rocks and stones of all shapes and sizes, not to mention larger outcroppings of bedrock which poked forth their stony heads here and there, singly and in groups. These large formations created various small, foamy waterfalls, and chute-like passages which appeared made to fit small boats but which no doubt held hundreds of sharp rocks just below the surface; in short, it was a rough-and-tumbly environment filled with white water and rock, rapids if rapids ever there were.
 
-"Meldrake, how are we all going to cross?" asked Glynis. By now she knew that Meldrake had an answer for everything, even when he didn't; she asked the question anyway.
+"Meldrake, how are we all going to cross?" asked Glynis with a touch of apprehension. By now she knew that Meldrake had an answer for everything, even when he didn't, but she asked the question nonetheless.
 
-"Follow me!" cried the raven, and he began to hop, skip and jump (rather strangely, the children thought) along the path down to the water's edge, stopping one hop short of landing in the river itself. As she arrived behind Meldrake, Glynis could see what Meldrake had been talking about. Set into the embankment, just off the trail, was a door, a wooden door with iron hinges. Next to it on either side were windows, little round ones. Some feet away, under a bundle of tree roots, was another round window, and suddenly Glynis realized she was looking at a house. Before she knew it, Meldrake was swinging the brass knocker on the front door. Once, twice, three times he knocked before an answer came.
+"Follow me!" cried the raven, and he began to hop, skip and jump (rather strangely, the children thought) along the path down to the water's edge, stopping one hop short of landing in the river itself. As she arrived behind Meldrake, Glynis could see what he had been talking about. Set into the embankment, just off the trail, was a door, a wooden door with iron hinges. Next to it on either side were windows, little round ones. Some feet away, under a bundle of tree roots, was another round window -- and suddenly Glynis realized she was looking at a house. Before she knew it, Meldrake was swinging the brass knocker on the front door. Once, twice, three times he knocked before an answer came.
 
-Or rather, an answer was there already. In his haste to raise the inhabitants of this house-under-hillock, Meldrake had neglected to read the signs posted in several places about where he stood. Glynis, ever eager to please, informed him straightaway: "Meldrake, look at the sign!"
+Or rather, an answer was there already. In his haste to rouse the inhabitants of this house-under-hillock, Meldrake had neglected to read the signs posted in several places about where he stood. Glynis, ever eager to please, informed him straightaway: "Meldrake, look at the sign!"
 
-The raven promptly quit harassing the poor door-knocker and began reading the sign which had been patiently waiting its turn. As was his wont, he read aloud:
+The raven promptly quit harassing the poor door-knocker and read the sign which sat patiently awaiting a reader. As was his wont, he read aloud:
 
 "Dearest Guest,
 
 In order that we may better serve the needs of the travelling public, this establishment is now closed.
 
-Travelers are advised to please convey themselves to one of the nearby toll bridges, which are located in the villages of Greenfield and Halfmoon, respectively.
+Travelers are advised to please convey themselves to one of the nearby toll bridges, which are located in the villages of Greenfield and Halfmoon.
 
 We apologize for any inconvenience.
 
 Sincerely, The Holcredt Consortium"
 
-Meldrake could hardly contain himself. "Tolls? Tolls? To cross our very own Long River, the same one we've been crossing since before time was time? What sort of madness, what hybris, what insane hate toward one's fellows could drive the creation of such a scheme? I have never in my life heard of such things, save in tales of evil kings," he added.
+Meldrake could hardly contain himself. "Tolls? Tolls? To cross our very own Long River, the same one we've been crossing since before time was time? What sort of madness, what hubris, what insane hatred toward one's fellows could drive the creation of such a scheme? I have never in my life heard of such things, save in tales of evil kings," he added.
 
-Glynis, though she did not want to further Meldrake's ire, felt obligated to point out the obvious: "But Meldrake, you realize you don't have to pay, right? You're a bird, you can fly anywhere you please."
+Though she did not want to further Meldrake's ire, Glynis felt obligated to point out the obvious: "But Meldrake, you realize you don't have to pay, right? You're a bird, you can fly anywhere you please."
 
 "That's just the sort of thinking that will end us all, Avis. 'Divide and Rule,' isn't that the ancient saying? No, this cannot be left as it is. Never in all my years of living has there been a toll put on those who crossed the Long River, and if I have my way about it, there won't be one for much longer." Meldrake turned and looked across the river, toward the forested hills beyond, shaking his great, black head. "Have we really bowed down at last to the money-grubbers?" he asked sadly.
 
@@ -1210,19 +1210,19 @@ Meldrake looked at those hills for a few moments more without speaking; when he 
 
 * THE BADGER WHO STUDIED VERSE
 
-At Meldrake's behest, the trio turned left, and South, to make their way to the bridge at Halfmoon. For the moment it seemed that all thoughts of visiting hermits and improving habits of mind had been set aside and indeed when John asked the raven Meldrake what was to become of their trip to the hermit's lonely mountain, he received a single word in reply: "Later." Little did the great black bird or his young charges know how much later that visit would be . . .
+At Meldrake's behest, the trio turned left, and southward, making their way to the bridge at Halfmoon. For the moment it seemed that all thoughts of visiting hermits and improving habits of mind had been set aside and indeed when John asked the raven what was to become of their trip to the hermit's lonely mountain, he received a single word in reply: "Later." Little did the great black bird or his young charges know how much later that visit would be.
 
-So. Halfmoon it would be, and a very short hike along the river's edge was all it took to bring them to the outskirts of the little town. In the meantime, the evergreen forests which had followed alongside the river as it made its way south fell away to the east, and were replaced by rolling hills and oak and maple trees. With the retreat of the evergreens, the soil became less rocky and sandy, more fertile, and so our travelers three found themselves surrounded by farms. There were farms on both sides of the river, as a matter of fact, and for as far as the children's human eyes could see in either direction, though undoubtedly a raven's eye could see farther, and its owner would claim as much in any case.
+So, Halfmoon it would be, and a very short hike along the river's edge was all it took to bring them within sight of the little walled town. In the meantime, the evergreen forests which had followed alongside the river as it made its way south fell away to the east, and were replaced by rolling hills and oak and maple trees. With the retreat of the evergreens, the soil became less rocky and sandy, more fertile -- and so our travelers three found themselves surrounded by farms. There were farms on both sides of the river, in fact, and tended pastures stretched for as far as human eyes could see in either direction, though undoubtedly a raven's eye could see farther, and its owner would claim as much in any case.
 
-Thus our travelling friends arrived at the outskirts of the riverside village of Halfmoon, and were unpleasantly surprised by what they found there: namely, a pair of sentries guarding the road into town, and no mere human sentries either. These were, in turn, a badger (he of the razor sharp teeth and claws) and a raptor of some kind or another, presumably a hawk (which comes with its own sharp edges, of course). In this way, the pair were able, if necessary, to engage in belligerence of the land- or airborne varieties. As such, Meldrake (with John and Glynis in tow, naturally) afforded them all the respect and obeisance which it was his habit to give -- in short, none at all.
+Thus our travelling friends arrived at the outskirts of the riverside village of Halfmoon, and were unpleasantly surprised by what they found there: a pair of sentries guarding the road into town, and no mere human sentries either. These formidable guards were a badger (he of the razor sharp teeth and claws) and a raptor of some kind, presumably a hawk (which comes with its own sharp edges, of course). In this way, the pair was able, if necessary, to engage in belligerence of the land- or airborne varieties. For his part, Meldrake (with John and Glynis in tow) afforded them all the respect and obeisance which it was his habit to give -- in short, none at all.
 
 #+begin_verse
 /Top of the morning, my road-blockers!/
 /Crowd-flockers, Head-Knockers!/
 /Is it fear you've come to bring/
-/to the Populace on Foot and Wing?/
+/To the Populace on Foot and Wing?/
 /Or would you, in your Kingly Grace/
-/permit we Humble Comm'ners pass your gates?/
+/Permit we Humble Comm'ners pass your gates?/
 #+end_verse
 
 To the surprise of Meldrake, Glynis, and even the reticent John, the reply came sure and swift, delivered in the badger's throaty growl:
@@ -1238,7 +1238,13 @@ At that, Meldrake threw back his head and laughed. "A student of the Noble Verse
 
 The badger bowed, but only ever so slightly, as the hawk looked on, his great glassy eyes surveying the scene impassively. "At your service, Sir," the badger added in a tone that was not entirely unfriendly.
 
-His partner the hawk was operating on different assumptions, however. "State your business in Halfmoon," he said coldly. Glynis looked from his beak to his claws and back again nervously. "One quick slash of those talons . . .," she thought, and then Meldrake was back on the offensive once more:
+His partner the hawk was operating on different assumptions, however. "State your business in Halfmoon," he said coldly. Glynis looked from his beak to his claws and back again nervously. "/One quick slash of those talons/ . . .," she thought.
+
+"What business does an honest creature need other than his own, here in the Protector's Realm?" asked Meldrake. "And who made you the Lord Arrogant Controller of these lands?"
+
+"You'll state your business, or have none," replied the bird of prey.
+
+"You must know well who you threaten, sir!" said Meldrake with a hearty laugh, and before Glynis knew what was happening, he was back on the offensive once more:
 
 #+begin_verse
 /Old Queen Mabb rules the World Below/
@@ -1270,47 +1276,47 @@ His partner the hawk was operating on different assumptions, however. "State you
 
 At these last words of Meldrake's, there was a blinding flash as he flung open his great, black wings and drew himself to his full height. All the while he had been speaking, there had been a kind of energy building in the air around the group, a static which grew louder and louder as he went on; as he cried his final verse, something shot down from the sky overhead with a bang and struck the path before him. Glynis had no idea what had happened, it was all so rushed, but she found herself stunned and thrown off her feet just the same.
 
-The blast knocked John down as well, along with the badger who studied verse. The hawk would not be defeated so easily, however. At the moment of impact, he stood his ground, smiling his cold smile. It was the smile of a hunter.
+The blast knocked John down as well, along with the badger who'd studied verse. The hawk would not be defeated so easily, however. At the moment of impact, he stood his ground, smiling coldly. It was the smile of a hunter.
 
 "You didn't think it'd be that easy, did you?" he asked in a quiet voice, reaching into the plumage at his chest to reveal a necklace woven with beads and charms.
 
-"Ah, the Vermilion," said Meldrake, referring to one orange-red charm in particular. "For protection 'gainst Verse," he added for the benefit of the children (and you and I as well, no doubt!).
+"Ah, the Vermilion," said Meldrake, referring to one orange-red charm in particular. "For protection 'gainst Verse," he added for the benefit of the children (and you and I as well, no doubt! For who can say what a raven knows about who's listening in on his adventures?).
 
-"Indeed," nodded the pale hawk. "My junior partner there has no such equipment; mostly I keep him around to handle the drudge work."
+"Indeed," nodded the pale hawk. "My junior partner there has no such equipment -- I mostly keep him around to handle the drudge work."
 
 Meldrake responded by wordlessly taking flight.
 
 "Very well; to business, then," the hawk muttered, leaping into the air after Meldrake with his own frightening speed.
 
-Meldrake knew that if it came down to a question of speed and strength, he'd lose and quickly. Being a crafty old raven, however, he was not without resources. As he flew ever higher, he managed (between flaps of his enormous wings, naturally) to reach into a rough leather pouch at his waist (or the bird equivalent thereof). It was, as you may be able to guess, a magical pouch, and in fact it served as a portal into the storeroom at the Ravenslair (which was the name of Meldrake's home and refuge, naturally). Thus Meldrake had instant access (via magical means) to any number of items which he might need, both common and not-so-common. He had only to say their names with pouch opened, and the asked-for item or items would be summoned from the shelves and racks of that far-away storeroom. In this way the raven was never truly very far from his home, or the comforts (among them, weapons) therein.
+Meldrake knew that if it came down to a question of speed and strength, he'd lose, and quickly. Being a crafty old raven, however, he was not without resources. As he flew ever higher, he managed -- between flaps of his enormous wings, naturally -- to reach into a rough leather pouch tied to his midsection. It was, as you might guess, a /magical/ pouch. In fact, it served as a portal into the storeroom at the Ravenslair (which was the name of Meldrake's home and refuge, naturally). Thus he had instant access to any number of items which he might need, both common and not-so-common. He had only to say their names with the pouch open, and the requested item or items would be summoned from the shelves and racks of that far-away storeroom. In this way the raven was never truly very far from his home, or the comforts -- among them, weapons -- therein.
 
-But enough digression -- the hawk is gaining (gains) quickly!
+But enough digression -- the hawk gains quickly!
 
-So it was that when Meldrake opened the pouch at his belt, he whispered the words, "Staff of Forgetting," and the item by that name did appear. And what a Staff of Forgetting it was! Ramrod-straight, carved of whitest ash, it was eighty inches tall if it were one. At its head rode a perfect sphere of no less than five inches in diameter, forged from the remnants of a falling star, or what we in our little corner of space and time would call a meteorite.
+So it was, that when Meldrake opened the pouch at his belt, he whispered the words, "Staff of Forgetting," and the item by that name did appear. And what a Staff of Forgetting it was! Ramrod-straight, and carved of whitest ash, it was eighty inches tall if it were one. At its head perched a perfect sphere of no less than five inches in diameter, forged from the remnants of a falling star, or what we in our little corner of space and time would call a meteorite.
 
-The hawk, pale and cold creature that he was, smiled to himself at the thought of an easy kill as he watched the larger, slower bird lose ground (or air, in this case) with every flap of the wing. He cruised easily past the raven on a higher trajectory, the better from which to launch a diving attack. As he soared above his prey, he surveyed the earth below: the great dark mountains to the North, the lesser, greener mountains to the South, the hills and valleys between. He smiled to think what a great thing it is to be a hawk, to have talon and claw and raw speed at your command.
+The hawk, pale and cold creature that he was, smiled to himself at the thought of an easy kill as he watched the larger, slower bird lose ground -- or air, in this case -- with every flap of the wing. He cruised easily past the raven on a higher trajectory, the better from which to launch a diving attack. As he soared above his prey, he surveyed the earth below: the great dark mountains to the north, the lesser, greener mountains to the south, the hills and valleys between. "/How magnificent it is to be a hawk/," he thought. "/To have talon and beak and raw speed at your command/."
 
-Just then he noticed a white shape below him and to his left. It was in fact a small hawk, rising quickly. He thought it strange that a hawk of all birds should be such a pure white color, as he had never seen one quite like it before. He realized with a start that it was gaining on his position.
+Just then, he noticed a white shape below him and to his left. It appeared to be a much smaller hawk, rising quickly. He thought it strange that a hawk, of all birds, should be such a pure white color -- indeed, he had never seen one quite like it before. He realized with a start that it was gaining on his position.
 
-"What's your business with me?" he wondered to himself as the white hawk continued to climb. "No matter -- I'll deal with you later." He said this last aloud just as he began his dive from a point high above our Meldrake.
+"/What's your business with me?/" he wondered to himself as the white hawk continued to climb. "No matter -- I'll deal with you later." He said this last aloud, just as he began his dive from a point high above Meldrake.
 
-So down he went. Wings tucked at his sides, eyes reduced to slits, he bore down upon the poor, slow raven Meldrake with frightening speed, his vision focused tightly on his target's neck, talons at the ready.
+So down he went. Wings tucked at his sides, eyes reduced to slits, he bore down upon the poor, slow raven with frightening speed, his vision focused tightly on his target's neck, talons at the ready.
 
-This narrow focus would be his undoing, however. As he barreled downhill after Meldrake, the raven had managed to secure some weaponry of his own, namely: the aforementioned Staff of Forgetting. In addition, though Meldrake certainly did not possess hawk-like speed, it was possible for him to react and move quickly nonetheless, if he desired. And the death bearing down on him from above had put him in just such a mood as to look lively. Thus it was that just as the hawk was nearly upon him, Meldrake rolled of a sudden, and the great Staff of Forgetting with him, and O! How it sang as it cut through the air that day!
+Alas, this narrow focus would be his undoing. As the hawk barreled downwards after his prey, the raven had managed to secure some weaponry of his own, namely: the inimitable Staff of Forgetting. And though Meldrake certainly did not possess hawk-like speed, he /could/ react and move quickly nonetheless, if he desired. And he /did/ so desire, for the death bearing down on him from above had put him in just such a mood as to look lively. Thus it was that just as the hawk was nearly upon him, Meldrake rolled of a sudden, and the great Staff of Forgetting with him, and O! How it sang as it cut through the air that day!
 
 Glynis was not far off when it happened, and she heard the deadly song, heard the crack as metal met bone, and bone was found wanting. She saw the hawk's body transformed from a bullet, all clean, deadly purpose, into a lopsided pinwheel that spun all the way down to the ground below.
 
-"Meldrake!" she had screamed seconds before, just as the hawk was nearing the end of its dive (and its life, as it had turned out). She had not expected the thing that came next, not the death of the projectile-like hawk, and certainly not the way it came, with the speedy violence of Meldrake's swing.
+"Meldrake!" she had screamed seconds before, just as the hawk was nearing the end of its dive -- and its life, as it had turned out. She had not expected what came next -- not the death of the projectile-like hawk, and certainly not the /way/ it came, with the swift violence of Meldrake's swing.
 
-Having dealt with his taloned pursuer, Meldrake turned to the white hawk which Glynis had become, and which had gained his position with a speed that surprised him. "Why Avis, you sneaky thing!" he cried. "There's simply no leaving you behind, is there?" He flew still holding the dread Staff of Forgetting, and as he spoke Glynis could see the red evidence of its exploits in the sun. Glynis thought to ask the raven a question, something from the what-in-Gods-name-do-we-do-now category, and realized that such a question would be of little use. There was only the reality in front of her to be dealt with, no matter how unreal it was. Besides, she had no doubt that the hawk she had just seen Meldrake send tumbling out of the sky would not have hesitated for even an instant. And so it was what it was. She thought too that it could have been something to do with the avian body she now inhabited, this newfound acceptance of hers. Rather more difficult to be shocked by a confrontation between a 6-foot-tall staff-wielding raven and a giant, speaking hawk when you yourself have just shapeshifted from 12-year-old girl to bird of prey. Hard to believe that inhabiting (indeed, becoming) a hawk-mind wouldn't have effects on one's thinking, especially with regard to living, dying and the like. After all, it wasn't as if hawks survived on vegetarian diets.
+Having dealt with his taloned pursuer, Meldrake turned to the white hawk that was, in fact, Glynis -- she had gained his position with a speed that surprised him. "Why Avis, you sneaky thing!" he cried. "There's simply no leaving you behind, is there?" He flew still holding the dread Staff of Forgetting, and as he spoke Glynis could see the crimson evidence of its exploits glistening in the sun. Glynis thought to ask the raven a question, something from the /what in Jelec's name do we do now?/ category, and realized that such a question would be of little use. There was only the reality in front of her to be dealt with, no matter how surreal it was. Besides, she had no doubt that the hawk she had just seen tumbling out of the sky would not have hesitated for even an instant, had their roles been reversed. And so it was what it was. She thought too that it could have had something to do with the avian body she now inhabited, this newfound acceptance of hers. Yes -- it was rather more difficult to be shocked by a confrontation between a 6-foot-tall staff-wielding raven and a magical-amulet-wearing, speaking hawk when you yourself have just shape-shifted from 12-year-old girl to bird of prey. Evidently, inhabiting -- indeed, becoming -- a hawk-mind will have profound effects on one's ways thinking, especially with regard to living, dying and the like. After all, it wasn't as if hawks were vegetarians.
 
-So they went, floating on the wind without any words, the newly-minted white hawk Avis and her formidable friend, the Versemaster Meldrake. They banked across the fields once more, high above the river and its commerce and cares. Glynis could see now that, south of Halfmoon, the river grew broad and calm, safe for boats carrying cargo to the north and south, though mostly to the south, presumably from the harvests of the many farms she could see below.
+So on they went, floating on the wind without any words, the newly-minted white hawk Avis and her formidable friend, the Versemaster Meldrake. They banked across the fields once more, high above the river and its commerce and cares. Glynis could see now that, south of Halfmoon, the river grew broad and calm, safe for boats carrying cargo to the north and south, though mostly to the south, presumably from the harvests of the many farms she could see below.
 
-"This world isn't so different from ours," she thought. "There may be badgers and ravens speaking in rhymes, but life has to go on: houses have to be built, food has to be grown, the sick have to be tended to. And sometimes people die," she added to her own surprise, hardly recognizing that she had begun to think of the various creatures of Jelec's realm as people much like herself.
+"/This world isn't so different from ours/," she thought. "/There may be badgers and ravens speaking in rhymes, but life has to go on: houses have to be built, food has to be grown, the sick have to be tended to. And sometimes people die/," she added to her own surprise, hardly recognizing that she had begun to think of the various creatures of Jelec's realm as people much like herself.
 
-Now of course you may be wondering how it is that a young girl twelve years of age can go about seeing death and transforming into two distinct species of birds within the space of several days' time and manage to be so calm and cool and equivocal about it all. Naturally, necessity plays a part, since as every schoolchild knows She is the mother of Invention. There is also something to be said for the experience of a physical transformation itself, as any changes in the body will no doubt also be changes in the mind, since of course there is no real difference between the two, and in fact I would defy any and all skeptics to shift from human into, say, rabbit or osprey form for a few hours or even days and then claim that they are, in fact, the same lovable selves which they ever were. And so it was with our Glynis.
+Now, of course, you may be wondering how it is that a young girl twelve years of age can go about seeing death, and transforming into two distinct species of birds -- predatory and non -- within the space of several days' time, and manage to be so calm and cool and equivocal about it all. Naturally, Necessity plays a part, since as every schoolchild knows She is the mother of Invention. There is also something to be said for the experience of a physical transformation itself, as any changes in the body will no doubt also be changes in the mind. There is no real difference between the two, you see: and in fact I would defy any and all skeptics to shift from human into, say, rabbit or osprey form for a few hours or even days, and then claim that they are, in fact, the same old lovable selves which they ever were. So it was with our Glynis.
 
-As such, it was a rather calmer and more collected Glynis-hawk flying beside Meldrake that day. Perhaps her newfound comfort there in the White Bear's Realm was a result of the confidence granted by speed, beak, and claw, but if so, best not to question it, for as our Glynis was beginning to realize via Meldrake's example, the hesitation of the questioner could mean death.
+As such, it was a rather calmer and more composed Glynis-hawk flying beside Meldrake that day. Perhaps her newfound comfort there in the White Bear's Realm grew from the confidence granted by speed, beak, and claw. If so, best not to question it -- for as our Glynis was beginning to learn from Meldrake's example, the hesitation of the questioner could mean death.
 
 Meldrake broke into the reverie of these thoughts of Glynis's (and ours) with his usual cheerful aplomb: "Well Avis, I think we'd best go and see about our friend on the ground. Since you've become so speedy all of a sudden, why don't you lead the way?" This last he added with an imp's tone and wink.
 
