@@ -1,3 +1,31 @@
+#+TITLE: Unknown
+#+AUTHOR: R.M. Loveland
+
+Book Two of /Adventures from the Realm of the White Bear/
+
+by R. M. Loveland
+#+begin_html
+<p style="page-break-before:always"></p>
+#+end_html
+
+#+begin_verse
+Copyright 2011 R. M. Loveland.
+All Rights Reserved.
+
+Cover image photo courtesy
+[[http://www.flickr.com/people/foobarbaz/]]
+under a Creative Commons License.
+#+end_verse
+
+#+begin_html
+<p style="page-break-before:always"></p>
+#+end_html
+
+/For Cari Suzanne, again./
+#+begin_html
+<p style="page-break-before:always"></p>
+#+end_html
+
 * HALFMOON
 
 "What's your name?" The badger was asking John for his name again, snarling it, really. In fact, several of these unhappy badgers surrounded John at the moment, though it was only the largest and fiercest which spoke. The rest seemed content to merely wait for John's answer.
