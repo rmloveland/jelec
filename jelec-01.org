@@ -30,6 +30,7 @@ under a Creative Commons License.
 #+begin_html
 <a name="Start"></a>
 #+end_html
+
 The first time Glynis McGinty found out that she could transform into a bird, and could speak the secret language of birds, was shortly after her twelfth birthday.
 
 At her mother's insistence, in order to fill the long summers of no school, she had taken a very modest job at one of the local hotels. For four hours from eight to twelve noon, she would fold and stack sheets and towels in the hotel laundry, and also run small errands for the desk clerks as needed. She didn't mind doing this, as it got her out of the house a few mornings each week, and it gave her the freedom of a little spending money. For this she was the envy of her friend John and sister Marla, who were themselves twelve and ten, or thereabouts, and who envied her freedom from parents as much as the little money she earned.
@@ -1338,25 +1339,25 @@ Meldrake's second act was perhaps more valuable to their overall mission, which 
 
 ---
 
-Glynis lay on her back with her eyes closed, her heart still racing from the narrow escape. Try as she might, she could not control the fear which gripped her chest. She couldn't seem to draw a full breath, and her quick and shallow breathing seemed to feed her panic. /Where is John?/ and its accompanying questions, like /Is he alright?/ These were the only thoughts that seemed capable of expressing themselves in her agitated state, and they did so not once, or twice, but over and over again.
+Glynis lay on her back with her eyes closed, her heart still racing from the narrow escape. Try as she might, she could not control the fear which gripped her chest. She couldn't seem to draw a full breath, and her quick and shallow breathing seemed to feed her panic. /Where is John? Is he alright?/ These were the only thoughts that seemed capable of expressing themselves in her agitated state, and they did so not once, or twice, but over and over again.
 
-The frightening truth was that she had barely escaped with her life. This thought comforted her but little, and as she lay there in the grass at the meadow's edge, all she could think of was how to find her friend. His capture had shown her how truly alone she was here, a young girl wandering in a place of dark magics, with sinister creatures on all sides, each waiting for its chance to capture you and put you to some sinister end or another.
+The frightening truth was that she had barely escaped with her life. This thought comforted her but little, and as she lay there in the grass at the meadow's edge, all she could think of was how to find her friend. His capture had shown her how truly vulnerable she was here, a young girl wandering in a place of dark magics, with sinister creatures on all sides, each waiting for its chance to capture her and put her to some sinister end or another.
 
-As she lay there, she was no longer Avis the White Hawk, creature of speed and talon, but Glynis the girl has lost her only friend to the darkness.
+As she lay there, she was no longer Avis the White Hawk, creature of speed and talon, but Glynis the girl, who has lost her only friend to the darkness.
 
-"I wish I had never come to this place." She thought it, but dared not say it, for she began to understand the power of words in this place, and she could not risk returning home while her friend remained, nor was she inclined to give up so easily her newfound life as a hawk (though of course John's capture had removed some of its lustre at the moment).
+"/I wish I had never come to this place/." She thought it, but dared not say it, for she began to understand the power of words in this place. She could not risk returning home while her friend remained, nor was she inclined to give up so easily her newfound life as a hawk, though John's capture had obviously removed some of its lustre at the moment.
 
-It was at that moment that she remembered her trusty backpack, for the first time in quite a while. In the course of her landing and subsequent transformation to her girl-self, she had simply thrown the red L.L. Bean bookbag to the ground, and herself along with it. Now, as it lay there in the long grass, her mind turned to its contents, and before she knew it, she had pulled the dog-eared paperback free. Her hands knew the page they sought, and what her eyes found there...
+It was at that moment that she remembered her trusty backpack, for the first time in quite a while. In the course of her landing and subsequent transformation back to human form, she had simply thrown the red nylon bookbag to the ground, flinging herself down along with it. Now, as it lay there in the long grass, her mind turned to its contents, and before she knew it, she had pulled the dog-eared paperback free. Her hands knew the page they sought, and what her eyes found there...
 
 ---
 
 "They wore cloths of red and black."
 
-So Meldrake gave his report to Glynis just as he found her, with no preamble. She had been lying in the grass with her eyes closed.
+Meldrake gave his report to Glynis just as he found her, with no preamble. She had been lying in the grass with her eyes closed.
 
 Glynis opened her eyes. "Yes, I saw it too. What does it mean, Meldrake?"
 
-"I'm not sure yet, or I'm not sure I like what it means, especially for you and I, Avis. Since we have seen those colors before. Twice now, in fact."
+"I'm not sure yet -- or I'm not sure I like what it means, especially for you and I, Avis. Since we have seen those colors before. Twice now, in fact."
 
 "Most recently on that sign posted by the abandoned river crossing. The 'Holcredt Consortium,' right?"
 
@@ -1364,7 +1365,7 @@ Glynis opened her eyes. "Yes, I saw it too. What does it mean, Meldrake?"
 
 "What is it anyway?" asked Glynis. "The Holcredt Consortium, I mean."
 
-"A good question. After our little encounter today, I have my own pretty good ideas about what it is, but first I'd like you to answer a question for me."
+"A good question. After our little encounter today, I have my own fair ideas about what it is, but first I'd like you to answer a question for me."
 
 "Alright," replied Glynis.
 
@@ -1376,17 +1377,17 @@ Glynis opened her eyes. "Yes, I saw it too. What does it mean, Meldrake?"
 
 "Meldrake, I'm sorry to disappoint you, but I'm a little more worried about finding John right now than I am about some math problem."
 
-"This *is* about finding John," replied Meldrake. "You don't think we're just going to fly around blindly /looking/, do you? That is a fool's approach. There are but two of us, and it's blind luck that the party we did encounter had no birds of prey with them, or we'd be with John or worse, dead."
+"This *is* about finding John," replied Meldrake. "You don't think we're just going to fly around blindly /looking/, do you? That is a fool's errand. There are but two of us, and it's blind luck that the party we did encounter had no birds of prey with them, or we'd be with John... or worse, /dead/."
 
 "You had no problem with that hawk we ran into," said Glynis.
 
-"That hawk was barely hatched, a mere `boy' in your terms, and a lowly sentry assigned to a minor village's outskirts to boot. And I barely escaped with my feathers attached. I am no warrior, fast and strong -- I am an old raven with creaky wings and a few nonsensical rhymes and tricks! Can you not see how lucky we were?" This last was almost a cry of exasperation, as if Meldrake could hardly believe Glynis's ignorance of their true situation.
+"That hawk was barely hatched, a mere `boy' in your terms, and a lowly sentry assigned to a minor village's outskirts to boot. And I barely escaped with my feathers attached. I am no warrior, fast and strong -- I am an old raven with creaky wings and a few nonsensical rhymes and tricks! Can you not see how lucky we were?" This last was a cry of near-exasperation, as if Meldrake could scant believe Glynis's ignorance of their true situation.
 
-Glynis could sense Meldrake's frustration. It was true that she hadn't realized until just now what sort of danger they were in. She had thought Meldrake possessed of some sort of infallible magic, what with the way he always seemed to know where to go and what to say to whom. Perhaps he is more capable than he thinks? she wondered. In any case, they were joined in this venture come what would, and she decided it was best to contribute however she could.
+Glynis sensed his frustration. It was true that she hadn't realized until just now what sort of danger they were in. She had thought Meldrake possessed of some sort of infallible magic, what with the way he always seemed to know where to go and what to say to whom. "/Perhaps he is more capable than he thinks/?" she wondered. In any case, they were joined in this venture come what would, and she decided it was best to contribute however she could.
 
-With a small sigh, Glynis shrugged her shoulders, and in her best conciliatory tone said: "Explain to me how answering this problem will help me find John?"
+With a small sigh, Glynis shrugged her shoulders, and in her best conciliatory tone said: "Explain to me how answering this problem will help me find John."
 
-"It may not, to be honest. I have a few good ideas about where he might be, and with whom, but there is much work in front of us if we are to be ready to attempt such a rescue."
+"It may not, to be honest. I have a few good ideas about where he might be, and with whom, but there is much work in front of us if we are to attempt such a rescue."
 
 "You think it's Redcloth."
 
@@ -1394,25 +1395,25 @@ With a small sigh, Glynis shrugged her shoulders, and in her best conciliatory t
 
 "It's pretty obvious where the letters in HOLCREDT come from," said Glynis. "Even to me, and I'm not the best at word puzzles."
 
-"Still, as an exercise . . . keep in mind that it will be very important to develop these habits of mind (and others we have yet to speak of!) in order that when the time comes, we are ready. This enemy is a lover of all manner of tricks and games, puzzles and mazes. Were we to meet him in his own strongholds as we are now, we would perish. We must grow stronger before we can hope to rescue your friend. Therefore: I ask you again, how many ways can you arrange the letters in HOLCREDT?"
+"Still, as an exercise . . . keep in mind that it will be very important to develop these habits of mind -- and others we have yet to speak of -- in order that we are ready when the time comes. This enemy is a lover of all manner of tricks and games, puzzles and mazes. Were we to meet him in his own strongholds as we are now, we would perish. We must grow stronger before we can hope to rescue your friend. Therefore: I ask you again, how many ways can you arrange the letters in HOLCREDT?"
 
-Glynis had to admit that her schooling thus far as provided by the town of Lake William had not prepared her to answer such questions.
+Glynis had to admit that her schooling thus far had not prepared her to answer such questions.
 
 "Oh, but it has!" exclaimed the raven Meldrake. "You just don't realize it."
 
 "How is that?" asked Glynis.
 
-"No explanations, young lady," Meldrake replied with mock sternness. "First, we work the problem. And the way to start doing that is the same way we find out about anything new: we ask questions. First question: how many letters are in HOLCREDT?"
+"No explanations, young lady," Meldrake replied with mock sternness. "First, we work the problem. And the way to commence is the same way we discover anything new: we ask questions. First question: how many letters are in HOLCREDT?"
 
 "That's easy," replied Glynis. "Eight. But I don't see how to get from there to the answer."
 
 "My dear Avis, when you leave your house to visit a friend, do you aim your body in the direction of their abode and cover the distance in a single leap?"
 
-Glynis shook her head no. Meldrake's question made her think instantly of her friend John, of course, and as a result her eyes began to fill with tears. The tomboyish daughter of a tomboyish mother, this was not something she was accustomed to.
+Glynis shook her head no. Meldrake's question made her think instantly of her friend John, of course, and her eyes began to fill with tears. The daughter of a stern and strong mother, this was not something she was accustomed to.
 
-"There, there. Please don't cry my dear." To the surprise of them both Meldrake came and enfolded Glynis in a scraggly black wing.
+"There, there. Please don't cry my dear." To both their surprise, Meldrake came and enfolded Glynis in a scraggly black wing.
 
-"We will find him, you know," said the raven. "Most likely he is simply being used as a lure to ensnare one or both of us, or perhaps even the Queen Silverbird herself, if our enemy believes she will come to our aid. In such a case it wouldn't do them any good to harm him, and in fact I think we can count on seeing him again in the not-terribly-distant future."
+"We will find him, you know," said the raven. "Most likely he is simply being used as a lure to ensnare one or both of us, or perhaps even the Queen Silverbird herself, if our enemy believes she will come to our aid. In such a case it would do them no good to harm him, and in fact I do believe we can count on seeing him again in the not-terribly-distant future."
 
 With that, he released Glynis and was once again his old vexing self. "So we can see that there are eight letters," he said, as if nothing had interrupted them.
 
@@ -1422,7 +1423,7 @@ With that, he released Glynis and was once again his old vexing self. "So we can
 
 "Well, I still don't know how to find out," replied Glynis. "Maybe we can find out for a smaller number, but eight seems like too many. It would take too long," she added.
 
-Meldrake studied Glynis with a look she didn't understand (most likely because the facial expressions of birds are notoriously difficult to read, as we've already noted); it was in fact a look of disbelief, and pleasant surprise, too.
+Meldrake studied Glynis with a look she didn't understand (most likely because the facial expressions of birds are notoriously difficult to read, as we've already noted). It was in fact a look of disbelief.
 
 "So you've stumbled upon Rule Four," he said.
 
@@ -1432,11 +1433,11 @@ Meldrake studied Glynis with a look she didn't understand (most likely because t
 
 Glynis's eyebrows went up a bit, but she said nothing.
 
-"Or in the common speech (though less precise): `Solve and easier version of the same problem.' As you've just said, there are many ways to arrange eight letters (or eight items of any kind, for that matter), and so perhaps we'd do better to begin with a more manageable number. Perhaps you'd even care to suggest one?" he added with mock nonchalance.
+"Or in the common speech, though less precise: `Solve an easier version of the same problem.' As you've just said, there are many ways to arrange eight letters, or eight items of any kind, for that matter. Perhaps we'd do better to begin with a more manageable number. Would you care to suggest one?" he added with mock nonchalance.
 
 "One it is," replied Glynis oh-so-cleverly.
 
-"Your wish is my command." With a flourish, Meldrake reached into the trusty magical pouch he kept tied to his belt for such occasions, ... and whispered a word in a tongue which Glynis did not recognize. An instant later, he withdrew a velvet pouch. With a slight clacking sound he withdrew a single white stone therefrom, and turned once again to his friend. He then proceeded to stomp out a space in the meadowgrass within which to work, at last placing the single stone in one corner:
+"Your wish is my command." With a flourish, Meldrake reached into the trusty magical pouch he kept tied to his belt for such occasions, and whispered a word in a tongue which Glynis did not recognize. An instant later, he withdrew a velvet pouch. With a slight clacking sound he withdrew a single white stone, and turned once again to his friend. He then proceeded to stomp out a space in the meadow grass within which to work, at last placing the single stone in one corner:
 
 [Figure 10.0].
 [[./img/10.0.jpg]]
@@ -1450,7 +1451,7 @@ Once again the clacking of the stones inside the pouch was heard as Meldrake wit
 
 "Two." Glynis said it before the raven could ask. "These are pretty easy so far," she added.
 
-With a whisper, Meldrake withdrew yet another item from the leather pouch at his belt, this one clearly a writing utensil of some kind.
+With a whisper, Meldrake withdrew yet another item from the leather pouch at his belt, this one clearly a writing implement of some kind.
 
 Glynis saw the need for it instantly. "Yes, we'll definitely need that as we keep going up," she said.
 
@@ -1468,12 +1469,12 @@ Meldrake moved the stones again, and the result:
 [Figure 10.3]
 [[./img/10.3.jpg]]
 
-This Glynis dutifully recorded with a second mark on the paper, and a nod that meant, "continue."
+This Glynis dutifully recorded with a second mark on the paper, and nodded for him to continue.
 
 [Figure 10.4]
 [[./img/10.4.jpg]]
 
-After that, there was only for Meldrake to move the stones into a new ordering, and for Glynis to record the same.
+After that, Meldrake had only to move the stones into a new ordering, and Glynis recorded the same.
 
 A moment later, all was said and done, and Glynis and Meldrake had seen the following combinations (some of which we've already seen, but we shall leave this as a reference):
 
@@ -1484,7 +1485,7 @@ A moment later, all was said and done, and Glynis and Meldrake had seen the foll
 
 "As you can see from your own meticulously-kept record of events, my dear Avis, there are six combinations of these three humble stones."  So Meldrake continued with his delightful habit of summing up the obvious. "Shall we try four?" he asked, reaching once more into the velvet pouch which held the white stones.
 
-"I think I'm beginning to see the pattern, but I'd like to see another round to be sure," replied Glynis-the-girl-from-Lake-William.
+"I think I'm beginning to see the pattern, but I'd like to see another round to be sure," replied Glynis.
 
 "Why certainly!" was the reply from the ever-helpful Meldrake. "Be at the ready with the stylus."
 
@@ -1505,7 +1506,7 @@ And so the raven marked a fourth stone, and arranged the stones in their various
 
 "Take a few moments and look only at the pattern," said Meldrake as he handed the sheet of paper back to Glynis. "Do not try to find the `solution;' just test a few patterns in your mind using the numbers available to you."
 
-Glynis looked at the paper again, her brow knitted against the difficulty of her task. Certainly nothing in her experience at the Lake William Schoolhouse had prepared her in any explicit way for this sort of task; her teachers, though earnest and diligent, had presented mathematics to the children of that small town as a series of recipes of the kind one might find written on the side of a box of dried pasta.
+Glynis examined the paper again, her brow knitted in concentration. Certainly nothing in her experience at the Lake William Schoolhouse had prepared her in any explicit way for this sort of task; her teachers, though earnest and diligent, had presented mathematics to the children as a series of recipes of the kind one might find written on the side of a box of dried pasta, which is to say: ingredients you put together on the stovetop without understanding the resulting meal.
 
 "I don't know," replied Glynis. "Let me take another look at what we've got so far." She began writing as she spoke: "One stone has one combination. Two, two. Three, six. And four? Twenty-four. I still don't have it. Maybe we can do another one? No, that would be much too big, I think," she added after a half-second's pause.
 
@@ -1519,7 +1520,7 @@ Glynis looked at the paper again, her brow knitted against the difficulty of her
 | 3 |  6 | 1, 2, 3    |
 | 4 | 24 | 1, 2, 3, 4 |
 
-Even so, thought Glynis, what are recipes if not patterns? Ways of doing things to get a certain result, like a chicken pot pie. So the question is: how do I make this particular chicken pot pie?
+"/Even so/," thought Glynis, "/what are recipes if not patterns? Ways of doing things to get a certain result, like a chicken pot pie. So the question is: how do I make this particular chicken pot pie/?"
 
 Glynis took up the stylus and, in an empty corner of the backside of her single sheet, wrote this little chart:
 
@@ -1532,7 +1533,7 @@ Glynis took up the stylus and, in an empty corner of the backside of her single 
 | 3             |                | 6                 |
 | 4             |                | 24                |
 
-Peering down each column of numbers, she wondered how to write the recipe. Since I don't understand the whole thing yet (she thought), I'll just write the instructions to get from one number to the next.
+Peering down each column of numbers, she wondered how to write the recipe. "/Since I don't understand the whole thing yet/," she thought, "/I'll just write the instructions to get from one number to the next/."
 
 [Figure 10.9]
 [[./img/10.9.jpg]]
@@ -1554,15 +1555,15 @@ Peering down each column of numbers, she wondered how to write the recipe. Since
 | 4 | Times 6  |  24 |
 | 5 | Times 24 | 120 |
 
-"I have it, Meldrake! Look!" she cried in triumph as she showed Meldrake the scribbles which contained the answer, or the road leading to it, and with a smile, we might as well add.
+"I have it, Meldrake! Look!" she cried in triumph, grinning broadly as she showed Meldrake the scribbles which contained the answer, or at least the road leading to it.
 
-"You've got it, Avis. Very nice work there, very nice! You've uncovered the mechanics of the operation, its bones, if you will. The rest is simply application, which is nearly a triviality best left as an exercise for the reader, I'm afraid. Nonetheless, can you extend your results to answer the question in question?" All this Meldrake said in a voice which was that one which we use when we are delighted, filled with joy, such as when a favorite pupil has an insight of her own, a precursor to more to come.
+"You've got it, Avis. Very nice work there, very nice! You've uncovered the mechanics of the operation, its bones, if you will. The rest is simply application, which is nearly a triviality best left as an exercise for the reader, I'm afraid. Nonetheless, can you extend your results to answer the question at hand?" All this Meldrake said in a voice that could scarce contain his delight, so filled with joy was he at his pupil revealing an insight of her own. It was, he hoped, a precursor of more to come.
 
 "Well, according to my chart, if we were to add another stone to our current total, we'd have five times twenty-four, which is . . ." (and here Glynis returned to her worksheet to perform the relevant calculation) ". . . one hundred and twenty combinations! It's a good thing, we stopped doing everything by hand just when we did, Meldrake."
 
-"Yes it is," replied the raven. "I'm afraid I'm much too lazy to do all of that shifting-stones-around business. Though of course," he added, "true laziness is one of the Numbermaster's Great Virtues. Laziness, and the unwillingness to keep doing the same work over and over again, are what drives one to seek out a general solution. As such, you can see that we still have a bit further to go before we can call this problem solved."
+"Yes it is," replied the raven. "I'm afraid I'm much too lazy to do all of that shifting-stones-around business. Though of course," he added, "true laziness is one of the Numbermaster's Great Virtues. Laziness, and the unwillingness to keep doing the same work over and over again, is what drives one to seek out a general solution. As such, you can see that we still have a bit further to go before we can call this problem solved."
 
-"You wanted to know how many combinations of letters can be made from H-O-L-C-R-E-D-T. There are eight letters, and we know that with five letters, there would be one hundred and twenty combinations," said Glynis-fair.
+"You wanted to know how many combinations of letters can be made from H-O-L-C-R-E-D-T. There are eight letters, and we know that with five letters, there would be one hundred and twenty combinations," said Glynis.
 
 "Go on."
 
@@ -1582,9 +1583,9 @@ Glynis returned to her worksheet, which was by now so covered in marks that she 
 
 (As it turned out, Glynis was quite good at multiplications involving largish numbers, thanks to her teachers' rigorous schedule of drills. This marked the first time she'd used it to solve a problem where the need for multiplication wasn't baldly obvious to her.)
 
-"40,320," was Glynis's response post-scribbling. "That is the answer to the question in question."
+"40,320," was Glynis's response post-scribbling. "That is the answer."
 
-"Yes, that sounds about right," replied the raven. "Forty-thousand combinations, and this from only eight items, which are in this case letters. Imagine instead we were faced with dozens of items to choose from, such as this: you are presented with a glass jar, and placed before a great hall, one with many doors. All of the doors are locked, and inside the jar are hundreds of small keys. Your adversary --"
+"Yes, that sounds about right," replied the raven. "Forty-thousand combinations, and this from only eight items, which in this case, are letters. Imagine instead we were faced with dozens of items to choose from, such as this: You are presented with a glass jar, and placed before a great hall, one with many doors. All of the doors are locked, and inside the jar are hundreds of small keys. Your adversary --"
 
 "Meldrake!"
 
@@ -1598,15 +1599,15 @@ Glynis returned to her worksheet, which was by now so covered in marks that she 
 
 "Grant me my mysteries! Poke, prod, and question as you will, but grant me my mysteries. Besides which, you shall know soon enough, since it is you who must carry yourself there, under your own wing's power," said Meldrake.
 
-"We're flying, then," said Glynis (more to herself than Meldrake) in a matter-of-fact sort of way, a way that might have surprised an earlier, earth-bound Glynis.
+"We're flying, then," said Glynis (more to herself than Meldrake) in a matter-of-fact sort of way, a manner that might have surprised an earlier, earth-bound Glynis.
 
 "Indeed," replied the raven Meldrake. "We haven't time for any more of this `let's stroll about the countryside taking our time and smelling the flowers whilst ouxr Adversary gathers his forces' business. Though it is a nice business to be in, if one has the time," he added.
 
-And with that Meldrake began to unfurl his great, shaggy wings from his equally shaggy body, and he began his ungainly run across the meadow they had been resting in. This run was one Glynis hadn't seen before, though it was clearly a way in which to gather speed for takeoff.
+And with that Meldrake unfurled his great, shaggy wings from his equally shaggy body, and began his ungainly run across the meadow they had been resting in. This run was one Glynis hadn't seen before, though it was clearly a way in which to gather speed for takeoff.
 
 And so Meldrake did take off, and his wings held him up, as they had so many times before, and in fact they carried him rather nicely for a bird of his size, Glynis thought.
 
-It was then that she realized that the black creature which was the raven was now becoming a black dot against the sky, something very far away indeed. Thus she looked to her own bones and asked them once more to lengthen and grow hollow, and she asked her flesh to sprout its feathers, and it did that, too, until she was in fact once again Avis Whitehawk, and she leapt into the air after Meldrake with all the urgency of one who is being left behind.
+It was then that she realized that the black creature which was the raven was now becoming a mere dot against the sky, something very far away indeed. Thus she looked to her own bones and asked them once more to lengthen and grow hollow, and she asked her flesh to sprout its feathers, and it did that too, until she was in fact once again Avis Whitehawk. She leapt into the air after Meldrake with all the urgency of one who is being left behind.
 
 ---
 
@@ -1616,9 +1617,9 @@ It was then that she realized that the black creature which was the raven was no
 
 As the white bear slept, the seasons turned. Over and over he rolled, stirring for a moment here or there. Now and again he would absently paw at the air, a rumbling deep in his chest, a distant thunder before the lightning's strike. Through it all, he dreamed.
 
-And what dreams were these, the dreams of a being imbued with such stuff as to command the awe of even the redoubtable Meldrake?  We cannot say. Perhaps they were kingly dreams, they that could raise even the paw of the Protector from its rest at his side, dreams of battles that would shake the very earth.
+And what dreams were these, the dreams of a being imbued with such might as to command the awe of even the redoubtable Meldrake?  We cannot say. Perhaps they were kingly dreams, such as could raise even the paw of the Protector from its rest -- dreams of battles that would shake the very earth.
 
-Then again, who are we to wonder what dreams lurk in the hearts of kings? And would we recognize what we found there, even were it given to us to know such things as these?
+Then again, who are we to wonder what dreams lurk in the hearts of kings? And would we recognize what we found there, even were it given to us to know such things?
 
 Surely, we would like to believe, as all men do, that the heart of the King is no different than our own, filled with the same hopes, haunted by the same fears, and that the King's mind, distant though it may be from our own, can be known.
 
