@@ -8,8 +8,8 @@
    A poem, naturally, which is the mother of song.
 
 ** RETCON
-   1.  hotel manager name inconsistent
-   2.  ruby v. diamond brooch
+   1.  FIXED hotel manager name inconsistent
+   2.  FIXED ruby v. diamond brooch
    3.  scoville jeweler name inconsistent: patrick -> richard
    4.  jeweler: neville -> scoville
    5.  there were 12 previous visitors -- what of them?
@@ -314,4 +314,14 @@ sharpened, made sharp, sharp, having been sharpened
 *** D: Induction
 
 * 2. The BREATH Of JELLECK
+** Creatures of Speech
+   First talked about here: [[file:jelec-02.org::*THE%20SMALLWOOD][THE SMALLWOOD - Arctoryx]]
+
+   I wonder: what did Jelec have to do with the Creatures of Silence
+   vs. Speech distinction? What were the conditions that brought about
+   the current situation, whereby some speak and some don't?
+
+** Honey Dragon
+   Meldrake may be fated to die. Perhaps he should return as a golden raven?
+
 * 3. LAND Of JELLECK, LAND Of ICE And SNOW
