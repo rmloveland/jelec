@@ -326,10 +326,31 @@ sharpened, made sharp, sharp, having been sharpened
 
 ** Where are Silverbird, the Starling King, and Kell?
 ** Math Problems/Discussions
+*** Misc., to be Included if Possible
    First, see the notes for Book 1 above.
 
    "You are presented with a glass jar, and placed before a great hall,
    one with many doors. All of the doors are locked, and inside the jar
    are hundreds of small keys. Your adversary --"
+
+** THE TUTOR
+   "Well, I put that there to raise the Elemental Force along that
+   road, but ..." The boy frowned, and didn't speak for several long
+   seconds. Finally even his meager intellect was able to distinguish
+   what the teacher was implying, and he realized his error. This
+   time, at least. "Of course! I raised the Elemental Force, but at
+   the cost of rising Innate Friction! Continuity of Flow remained the same,
+   of course, but it was no longer enough to overcome the Innate Friction!
+   Thanks, Tutor! I guess it's back to the drawing board. I only hope
+   it's ready by the next moonturn, since that's when the next
+   Evaluation begins." With that the young boy scurried out the door
+   of Acutus the Head Tutor, presumably back to the little workbench
+   he shared with two other Acolytes in the common study rooms.
+
+   V = IR
+   voltage = current * resistance
+   V = "Elemental Force"
+   I = "Continuity of Flow"
+   R = "Innate Friction"
 
 * 3. LAND Of JELLECK, LAND Of ICE And SNOW
