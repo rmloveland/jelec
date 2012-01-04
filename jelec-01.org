@@ -1,7 +1,7 @@
 #+TITLE: Jelec, the White Bear, or, /Beware an Encounter with a Raven and his Friends/
 #+AUTHOR: R.M. Loveland
 
-Book One of /Adventures from the Realm of the White Bear/
+Book One of /Adventures from the Realm of the White Bear/.
 
 by R. M. Loveland
 #+begin_html
@@ -1624,3 +1624,7 @@ Then again, who are we to wonder what dreams lurk in the hearts of kings? And wo
 Surely, we would like to believe, as all men do, that the heart of the King is no different than our own, filled with the same hopes, haunted by the same fears, and that the King's mind, distant though it may be from our own, can be known.
 
 The truth, however, requires us to travel into and through some rather darker places, and deeper, too . . .
+
+* ABOUT THE AUTHOR
+
+R. M. Loveland lives with his wife in in High Falls, New York. He maintains a blog at http://jelec.wordpress.com.
