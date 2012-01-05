@@ -30,5 +30,6 @@ foreach my $para (@paras) {
   }
 }
 
-print $root->as_HTML;
-$root->delete;
+no warnings;
+print $root->as_HTML('<>&', " " x 2);
+$root = $root->delete;
