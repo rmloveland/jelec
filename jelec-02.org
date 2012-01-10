@@ -565,6 +565,26 @@ Glynis did not know, since she was only twelve, and could remember almost everyt
 
 ("I'd hoped to stop boring you with these Number bits, but it seems that I can't tell the story without them, since they are in fact integral to the way that I escaped!" -- adapt the `binary cups' puzzle from Merrill)
 
+#+name: The 'Cups and Pennies' puzzle
+#+begin_src ruby :tangle cups_and_pennies :noweb yes
+  # -*- mode: ruby -*-
+  
+  module Jelec
+    def cups_and_pennies(n)
+      @saucers=[]
+      while n > 0
+        if n.even?
+          @saucers.push nil
+        else
+          @saucers.push 1
+        end
+        n /= 2
+      end
+      return @saucers
+    end
+  end
+#+end_src
+
 * LITTLE SISTERS AND THEIR GAMES
 * THE HERMIT AND HIS MOUNTAIN
 * CREATURES OF SPEECH, CREATURES OF SILENCE
