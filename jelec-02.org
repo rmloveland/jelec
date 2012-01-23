@@ -1,4 +1,4 @@
-#+TITLE: Unknown
+#+TITLE: Breath of Jelec, Breath of Cold
 #+AUTHOR: R.M. Loveland
 
 Book Two of /Adventures from the Realm of the White Bear/
@@ -535,11 +535,11 @@ Meldrake, for his part, was strangely and uncharacteristically silent.
 
 "So, how exactly did you escape? And where exactly are we right now?" asked Glynis. She thought it better to change the subject.
 
-"As for where we are right now, you know almost as well as I do, since you flew here behind me. This is the Ravenslair, which is of course my humble home. Though it has a funny name, and though I perform some magics here, and others from here, as it were, it is still just a humble crofter's cottage, as you've no doubt already seen. There are many others like it, but this one is mine, as the saying goes. We're in my study at the moment, which again I'm sure a smart young girl such as yourself will already have deduced from the books, scrolls, candles, and many comfortable chairs which are to be found within.
+"As for where we are right now, you know almost as well as I do, since you flew here behind me. This is the Ravenslair, which is of course my humble home. Though it has a funny name, and though I perform some magics while here, and others from here, as it were, it is still just a humble crofter's cottage, as you've no doubt already seen. There are many others like it, but this one is mine, as the saying goes. We're in my study at the moment, which again I'm sure a smart young girl such as yourself will already have deduced from the books, scrolls, candles, and many comfortable chairs which are to be found within.
 
 "You are my guest now, even more so than before, for just as there are certain rules of comportment that hold when one is escorting a stranger about one's own country, even more so are there additional rules regarding those one invites to become a guest in one's home, and how they should be treated, addressed, and so forth. I won't bore you with them now, since we have more pressing work in front of us, and many busy days lie ahead, filled with many preparations. To what end those preparations will bring us is still a mystery. I only know that I am becoming filled with a purpose, and strange stirrings within me have become my masters, and that I must and shall heed them. They are the product of long years spent in training, and in fact I think that you have experienced a similar awakening of purpose, if your deeds be any indication." Thus spake Meldrake the raven to his guest and friend.
 
-"I do feel that there's some kind of purpose for me here, and I might even be beginning to learn what it is. I felt it before, but I know it now. I still don't know why I said some of the things I did, about portents and such, but I'm starting to believe quite strongly that I do have a reason to be here. As I said to the Silverbird and Starling King before, it's to save those children. I can only imagine how strange and alone they must feel here. Wouldn't they like to go home? Don't they miss their parents? That's what I think about, when I think about a reason for doing these things we're doing. And now my friend is also lost, though not in danger, you claim. I have to believe that," said Glynis.
+"I do feel that there's some kind of purpose for me here, and I might even be beginning to learn what it is. I felt it before, but I know it now. I still don't know why I said some of the things I did, about portents and such, but I'm starting to believe quite strongly that I do have a reason to be here as well. As I said to the Silverbird and Starling King before, it's to save those children. I can only imagine how strange and alone they must feel here. Wouldn't they like to go home? Don't they miss their parents? That's what I think about, when I think about a reason for doing these things we're doing. And now my friend is also lost, though not in danger, you claim. I have to believe that," said Glynis.
 
 "Believe it. Believe also that the things we do here, the training, will lead us to Ursus, and also to those children who are even now in the Adversary's power. And as for Ursus in particular, I think you need worry but little. I do not know the ways of badgers, but I do know the ways of Verse, and I can read both the lines and the spaces between, and for my part, I do not believe that the badger with whom I traded words was evil, or would permit evil to come to yoru friend. There is also something about this Ursus fellow that leads me to think that, before long, he will not need much protection from the likes of you or I."
 
@@ -571,7 +571,7 @@ Hearing this, I was shamed, and knew him to be right. For though I call him Meld
 
 "As you can see, we are on an island," was his simple reply.
 
-"As you wish, good Master, but we are birds," I said. Sometimes one needs to state the obvious.
+"As you wish, good Master, but we are birds, and blessed with flight," I said. Sometimes one needs to state the obvious.
 
 "Do me a small favor, then, and fetch a pebble," responded Meldrake-2.
 
@@ -579,9 +579,55 @@ This I did without complaint or question. I was curious, I admit. This creature 
 
 "My thanks, young crow," he replied, and then tossed the pebble in the air.
 
----
+The small stone traced an arc upward, away from the island and its black tower. As it reached the peak of its flight, we heard a series of sharp "twangs" from above. A flurry of arrows filled the sky around the pebble, nearly blocking it from our sight completely. The pebble and several dozen arrows fell into the lake's green waters below. As I turned my eyes upward, I could see dozens of crossbows being retracted from windows higher up in the tower.
 
-("I'd hoped to stop boring you with these Number bits, but it seems that I can't tell the story without them, since they are in fact integral to the way that I escaped!" -- adapt the `binary cups' puzzle from Merrill)
+"It seems we're not alone," I said to Meldrake-2.
+
+"We never were. It's just another of the Adversary's tricks. He likes to haunt you silently, if he can, and let you believe that you are safe, that you are away. When you first discover that you are not in fact safe from his manipultions, he shrinks away yet again, the better to let you create your own monsters to fear. After all, most of your fears are greater than anything he can bring forth against you, so he's content to let you do his work for him. Then, when you've driven yourself almost wild with fear, he steps in for the easy prey you've become," replied my guide. "Of course, it's worth keeping in mind that this is a real tower, and those are real arrows," added Meldrake-2. "Also: the waters of this lake are chilly enough, and those mountains are high enough, especially when you freeze your bones flying over them in a storm."
+
+"I don't suppose we can swim either," I said.
+
+"Leaving aside the fact that, as a rule, we ravens don't swim, I'm quite sure that there are nets, or worse, hungrier things, hidden beneath the surface of this lake," he replied.
+
+"So what shall it be, then?" I tried to sound as cheerful as possible. Cheerfulness and bravery can sometimes fly together, it is said.
+
+"Why, a trick, a puzzle, a contrivance, a ploy!" came the reply of Meldrake-2. He sounded like he was relishing the coming challenge, and so I decided it couldn't be all that bad after all.
+
+At that he began to chant again, in much the same way he had when he was first arrived at my cell:
+
+#+begin_verse
+/A trick, a puzzle, contrivance, a ploy!/
+/O when can we play with your next wonderous toy?/
+/Contraption, essence, sling and arrow,/
+/What have you got there beneath your barrow?/
+
+/Cloth of Red, cloth of iron!/
+/Show me flashing, cadenced fire!/
+/Number's my master, this much you know./
+/With Verse at its back, a seedling will grow./
+
+/A tree, constrained, a discipline learns/
+/It drinks of earth and air by turns./
+/And as it climbs to sky and glory/
+/It tells one part of the Maker's story./
+
+/If you'd write your own, and set it against/
+/That of Creation, as well as Good Sense,/
+/You'd do well to watch what came Before,/
+/For many's the spice in the Cosmic Store,/
+
+/That will make you screw up your face in disgust/
+/When your power, beloved, transmutes into rust./
+/For it's a gentle heart that learns to wield/
+/What the Maker gave freely to the beasts of the field./
+
+/So I call on you now, Wrong One, Fool!/
+/Present your malice, in the guise of a tool./
+/Call forth contraption, lever, wheel/
+/That I may defeat it, or dying, reveal/
+#+end_verse
+
+---
 
 #+name: The 'Cups and Pennies' puzzle
 #+begin_src ruby :tangle cups_and_pennies :noweb yes
@@ -606,6 +652,7 @@ This I did without complaint or question. I was curious, I admit. This creature 
 * LITTLE SISTERS AND THEIR GAMES
 * THE HERMIT AND HIS MOUNTAIN
 * CREATURES OF SPEECH, CREATURES OF SILENCE
+* BREATH OF JELEC
 * APPENDIX A: CONCERNING HEXADIC AND DYADIC NUMBERS AS UNDERSTOOD BY MACHINE.
 ** INTRODUCTION. THE STUDY OF NUMBER, ITSELF.
 
