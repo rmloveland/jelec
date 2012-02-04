@@ -583,7 +583,7 @@ The small stone traced an arc upward, away from the island and its black tower. 
 
 "It seems we're not alone," I said to Meldrake-2.
 
-"We never were. It's just another of the Adversary's tricks. He likes to haunt you silently, if he can, and let you believe that you are safe, that you are away. When you first discover that you are not in fact safe from his manipultions, he shrinks away yet again, the better to let you create your own monsters to fear. After all, most of your fears are greater than anything he can bring forth against you, so he's content to let you do his work for him. Then, when you've driven yourself almost wild with fear, he steps in for the easy prey you've become," replied my guide. "Of course, it's worth keeping in mind that this is a real tower, and those are real arrows," added Meldrake-2. "Also: the waters of this lake are chilly enough, and those mountains are high enough, especially when you freeze your bones flying over them in a storm."
+"We never were. It's just another of the Adversary's tricks. He likes to haunt you silently, if he can, and let you believe that you are safe, that you are away. When you first discover that you are not in fact safe from his manipulations, he shrinks away yet again, the better to let you create your own monsters to fear. After all, most of your fears are greater than anything he can bring forth against you, so he's content to let you do his work for him. Then, when you've driven yourself almost wild with fear, he steps in for the easy prey you've become," replied my guide. "Of course, it's worth keeping in mind that this is a real tower, and those are real arrows," added Meldrake-2. "Also: the waters of this lake are chilly enough, and those mountains are high enough, especially when you freeze your bones flying over them in a storm."
 
 "I don't suppose we can swim either," I said.
 
@@ -653,6 +653,30 @@ And then the creature spoke. Its voice was large, larger even than Meldrake-2's,
 /%<<Divine the secret and save your blood>>%/
 /%<<Weigh them wrong, and drink the flood!>>%/
 #+end_verse
+
+With that, the dreadful creature launched itself into the air anew, crouching, leopard-like as an old T'ai Chi master, before springing upward with a force so violent that its footprints, two inches deep, were left in the ground before us. And I needn't mention, I'm sure, the gust of wind created by the Adversary's departure, such that my companion good Meldrake-2's hat was nearly blown off his head! I began to get an inkling of what we were up against.
+
+Another clue presented itself a moment later. The ground beneath our feet began to vibrate slightly, and at first I suspected supernatural, perhaps even daemonic forces at work, turning their every evil intent towards my rescuer and I, in an attempt to keep us there on that island. Such was the power of suggestion which this creature possessed.
+
+However, as I soon discovered, the vibration in question was profane rather than sacred in its origins, as it were. For it soon became evident that there was a mechanical regularity hidden within that vibration, and something was moving. Something heavy.
+
+My hypothesis was confirmed by observation but a moment later. Meldrake-2 and I were forced to jump back a few feet when, directly beneath the footprints left by our aforementioned Adversary, a trap door of some size swung open and outward, nearly crushing our toes in the process as it slammed into the earth with a thud.
+
+"Let's have a look, young crow," said Meldrake-2, as he stepped forth onto the exposed timbers of the newly opened door, and from there to the edge of the opening which it had covered.
+
+It now became obvious, what with the squeaking of pulleys, rattling of chains, &c., that we did indeed have a contraption of some description in store for us.
+
+Just then Meldrake-2 began to back away from the opening. By now, the rattling and squeaking had become rather loud. He turned and said something to me, which I couldn't hear over the mechanical din. Luckily for me, he was kind enough to repeat himself, and loudly: "Back! Get back!"
+
+I did as I was told, for if a creature as formidable and skilled as he was looking to put distance between himself and whatever was coming up out of that shaft ... let's just say that I knew when to listen to my betters.
+
+Well that I do, and did then, for what emerged from that shaft was very nearly beyond my admittedly limited powers of comprehension. Naturally, it was the very top of the thing that emerged first and, as slowly as the (apparent) systems of pulleys and chains were able to drag it up from the depths, my eyes began to assemble a picture for my brain to do its work on, and here is some little bit of what they saw: two round ears had been attached to the sides of a head the shape of an inverted bucket. A snout, also roughly bucket-shaped, protruded from the front of said head, and that snout had cut into it a mouth of jagged teeth placed almost at random, densely, row upon row stacked one behind the other like soldiers. This conflagration of ears, snout, and bucket head were themselves attached to a body which was no more (and no less) than a giant barrel, a cask for ale or wine, reinforced with iron, and of the type one might find at a brewery or winery of some size.
+
+And the eyes! Predictably enough, they glowed a most menacingly bright red, powered by some then-secret magicks which were presumably only available to the Adversary and his ilk at that time. Since then, we've learned a great deal more of such things, and have gone beyond them, but at that time it was most unsettling, most terrifying indeed.
+
+The legs of this creature-contraption were also of oak, and hinged at the joints in the common way; common also were the curved claws at each foot, though of course these were of metal rather than of bone and such.
+
+All these things I had time to observe thanks to the ...
 
 #+name: The 'Cups and Pennies' puzzle
 #+begin_src emacs-lisp :tangle cups_and_pennies :noweb yes
