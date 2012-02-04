@@ -321,12 +321,23 @@ sharpened, made sharp, sharp, having been sharpened
    vs. Speech distinction? What were the conditions that brought about
    the current situation, whereby some speak and some don't?
 
+*** 4 Feb 12
+    I think the GARVIKs should be able to be communicated with via
+    "clicksong", or such. Like a telephone modem. Perhaps each could
+    travel with a "Speaker," who is a translator to/from the machines,
+    a sort of low, dark magician/technician in the service of
+    Redcloth.
+
+    This plays into CREATURES OF SPEECH, CREATURES OF SILENCE in some
+    way. By adding a sound-based communicative element to his
+    machines, the Adversary is further corrupting that which he
+    parrots (namely, the PROTECTOR).
+
 ** Honey Dragon
    Meldrake may be fated to die. Perhaps he should return as a golden raven?
 
 ** Where are Silverbird, the Starling King, and Kell?
 ** Math Problems/Discussions
-*** Misc., to be Included if Possible
    First, see the notes for Book 1 above.
 
    "You are presented with a glass jar, and placed before a great hall,
@@ -360,5 +371,21 @@ sharpened, made sharp, sharp, having been sharpened
    V = "Elemental Force"
    I = "Continuity of Flow"
    R = "Innate Friction"
+
+** GARVIK I ALPHA
+   The first of the Adversary's corruptions of JELEC, who is also the
+   WHITE BEAR, PROTECTOR.
+
+   G eneral-purpose
+   A utonomous
+   R oving
+   V ehicle for
+   I nformation
+   K apture
+
+   or...
+
+   I ndiscriminate
+   K illing?
 
 * 3. LAND Of JELLECK, LAND Of ICE And SNOW
