@@ -509,7 +509,7 @@ Arctoryx shrugged, and Vellus replied. "We are on a journey together, young Ursu
 "Badgers are not bears or ravens, but in one thing we're all the same: we do not like to be ruled over by anyone," added Vellus the Verse Badger.
 
 * ACUTUS MEETS WITH REDCLOTH
-* CUPS AND PENNIES
+* AN ABERRATION IN WOOD AND STEEL
 
 "Where was I, dear child? Oh yes, I was telling you all about my escape from the Adversary's tower."
 
@@ -670,13 +670,17 @@ Just then Meldrake-2 began to back away from the opening. By now, the rattling a
 
 I did as I was told, for if a creature as formidable and skilled as he was looking to put distance between himself and whatever was coming up out of that shaft ... let's just say that I knew when to listen to my betters.
 
-Well that I do, and did then, for what emerged from that shaft was very nearly beyond my admittedly limited powers of comprehension. Naturally, it was the very top of the thing that emerged first and, as slowly as the (apparent) systems of pulleys and chains were able to drag it up from the depths, my eyes began to assemble a picture for my brain to do its work on, and here is some little bit of what they saw: two round ears had been attached to the sides of a head the shape of an inverted bucket. A snout, also roughly bucket-shaped, protruded from the front of said head, and that snout had cut into it a mouth of jagged teeth placed almost at random, densely, row upon row stacked one behind the other like soldiers. This conflagration of ears, snout, and bucket head were themselves attached to a body which was no more (and no less) than a giant barrel, a cask for ale or wine, reinforced with iron, and of the type one might find at a brewery or winery of some size.
+Well that I do, and did then, for what emerged from that shaft was very nearly beyond my admittedly limited powers of comprehension. Naturally, it was the very top of the thing that emerged first and, as slowly as the (apparent) systems of pulleys and chains were able to drag it up from the depths, my eyes began to assemble a picture for my brain to do its work on, and here is some little bit of what they saw: two round metallic ears had been attached to the sides of a head the shape of an inverted bucket. In fact, it appeared to be just that: an inverted bucket. A snout, also roughly bucket-shaped, though smaller, protruded from the front of the head, and that snout had cut into it a mouth of jagged teeth placed almost at random, densely, row upon row stacked one behind the other like soldiers, or rusty knives. This rough conflagration of ears, snout, and bucket-like head were themselves attached to a body which was no more (and no less) than a giant barrel, a cask for ale or wine, reinforced with iron, and of the type one might find at a brewery or winery of some size.
 
-And the eyes! Predictably enough, they glowed a most menacingly bright red, powered by some then-secret magicks which were presumably only available to the Adversary and his ilk at that time. Since then, we've learned a great deal more of such things, and have gone beyond them, but at that time it was most unsettling, most terrifying indeed.
+And the eyes! Predictably enough, they glowed a most menacingly bright red, powered by some then-secret magicks which were presumably only available to the Adversary and his ilk at that time. Since then, we've learned a great deal more of such things, and have in fact gone beyond them, but at that time it was most unsettling, most terrifying indeed. For you must understand that this was a graven image of the Protector -- there can be no doubt of it -- and what's more, this was no mere image, it was in fact a mechanical avatar, an aberration in wood and steel that, by all appearances, was designed to walk the land as the Protector Himself might have done. Everything inside of me screamed: /corruption! abomination!/
 
-The legs of this creature-contraption were also of oak, and hinged at the joints in the common way; common also were the curved claws at each foot, though of course these were of metal rather than of bone and such.
+Finally, the rattling machinery had delivered its payload, which was yet another machine, and I could see the full measure of this contraption, this false being. It turned out that the legs of this creature-contraption were also of wood -- oak, to be precise -- and hinged at the joints in the common way; common also were the curved claws at each foot, though of course these were of metal rather than of bone and such, as one might imagine. Unfortunately for me, there was no need to imagine such horrors and abominations, for in fact they had conjured themselves right there in front of me. All of this that I have described came in a package that stood, by the measure of my eyes, over fourteen feet tall, or near enough as makes no matter.
 
-All these things I had time to observe thanks to the ...
+I had time to make these observations thanks to the low gearing ratios of the pulleys which were delivering the platform -- and the mechanical beast which stood upon it -- to the surface. Have we spoken at all about pulleys and levers, Avis? They're quite important! But I'm sorry, I was telling you about the escape.
+
+So, the creature was delivered to the surface where we stood, if creature it was. I stood there, in awe and rage, for this was blasphemy if ever there had been blasphemy. To think that the Protector was being mocked in this way by the Adversary in this way was too much to bear. I wasn't paying particular attention to my companion at the moment, incensed thing that I was, but one can imagine that he was feeling something similar.
+
+And then the thing spoke.
 
 #+name: The 'Cups and Pennies' puzzle
 #+begin_src emacs-lisp :tangle cups_and_pennies :noweb yes
@@ -694,10 +698,11 @@ All these things I had time to observe thanks to the ...
 #+end_src
 
 * LITTLE SISTERS AND THEIR GAMES
+* CUPS AND PENNIES
 * THE HERMIT AND HIS MOUNTAIN
 * CREATURES OF SPEECH, CREATURES OF SILENCE
-* BREATH OF JELEC
-* APPENDIX A: CONCERNING HEXADIC AND DYADIC NUMBERS AS UNDERSTOOD BY MACHINE.
+* THE BREATH OF JELEC
+* APPENDIX A: CONCERNING HEXADIC AND DYADIC NUMBERS
 ** INTRODUCTION. THE STUDY OF NUMBER, ITSELF.
 
 Being, in the first part, that method by which one enumerates lesser quantities in the world around us: which is to say, those quantities which can be seen in workshop, market, and the like, and thus useful in the attainment of everyday tasks and concerns.
@@ -786,3 +791,4 @@ Given the array x above, we can see that each cell can contain either a one or z
 #+TBLFM: $2=@1*@2::$3=@1*@2::$4=@1*@2::$5=@1*@2
 
 [1]See Morningstar, N. /Treatise Upon the Machin
+* APPENDIX B: CONCERNING GEARS AND LEVERS
