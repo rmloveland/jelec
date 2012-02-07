@@ -682,6 +682,9 @@ So, the creature was delivered to the surface where we stood, if creature it was
 
 And then the thing spoke.
 
+* LITTLE SISTERS AND THEIR GAMES
+* CUPS AND PENNIES
+
 #+name: The 'Cups and Pennies' puzzle
 #+begin_src emacs-lisp :tangle cups_and_pennies :noweb yes
   ;; -*- mode: emacs-lisp -*-
@@ -697,8 +700,20 @@ And then the thing spoke.
   
 #+end_src
 
-* LITTLE SISTERS AND THEIR GAMES
-* CUPS AND PENNIES
+#+begin_src scheme geiser
+  (define cups-and-pennies
+    (lambda (p)
+      (let ((saucers '()))
+        (while (> p 0)
+          (if (even? p)
+              (set! saucers
+                    (cons '() saucers))
+              (set! saucers
+                    (cons 1 saucers)))
+          (set! p (ash p -1)))
+        saucers)))
+#+end_src
+
 * THE HERMIT AND HIS MOUNTAIN
 * CREATURES OF SPEECH, CREATURES OF SILENCE
 * THE BREATH OF JELEC
