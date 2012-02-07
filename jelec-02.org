@@ -70,14 +70,16 @@ As they'd come South, the river had grown wider and deeper. The cottages in the 
 
 "Who goes there?" A voice from a slit above the door had the temerity to ask.
 
-| "Why, 'tis I, the Badger of the Sunlit Field, |
-| And I might command this door to Yield!        |
-| Were I you, And on the Other Side,             |
-| I'd set aside my Foolish Pride,                |
-| Open for a pair of Halfmoon's sons,            |
-| Returned from the Forest with a Stranger One,  |
-| Than even you have seen, good Sir!             |
-| Arise! Unlock! Awake! Bestir!"                 |
+#+begin_verse
+/"Why, 'tis I, the Badger of the Sunlit Field /
+/And I might command this door to Yield!/
+/Were I you, And on the Other Side/
+/I'd set aside my Foolish Pride/
+/Open for a pair of Halfmoon's sons/
+/Returned from the Forest with a Stranger One/
+/Than even you have seen, good Sir!/
+/Arise! Unlock! Awake! Bestir!/
+#+end_verse
 
 Thus did the Verse Badger gain their entry to Halfmoon. Oaken door groaned open, and John and his captor-companions strolled in. The wall through which they walked was several feet thick, and above their heads John saw some trapdoors. "What are those, I wonder?" asked the young man from Lake William. "Why, they're holes from which to dump boiling oil, the better to scald the hides from our flesh," came the Verse Badger's casual reply.
 
