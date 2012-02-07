@@ -344,6 +344,8 @@ sharpened, made sharp, sharp, having been sharpened
    one with many doors. All of the doors are locked, and inside the jar
    are hundreds of small keys. Your adversary --"
 
+   Gears and levers.
+
 ** HALFMOON
 *** RETCON
     At the end of the first book, it seems that M, G, and J are at the
@@ -374,7 +376,7 @@ sharpened, made sharp, sharp, having been sharpened
 
 ** GARVIK I ALPHA
    The first of the Adversary's corruptions of JELEC, who is also the
-   WHITE BEAR, PROTECTOR.
+   WHITE BEAR, PROTECTOR of the REALM.
 
    G eneral-purpose
    A utonomous
@@ -387,5 +389,33 @@ sharpened, made sharp, sharp, having been sharpened
 
    I ndiscriminate
    K illing?
+
+** Breath of Jelleck
+#+begin_verse
+
+breath of jelec, breath of cold
+cov'ring the land in days of old
+cov'ring all in snow and white
+frozen stars in the frozen night
+where the lights would shine in colors many
+and the sky, alight, revealed the en'my.
+for all was nearly lost, or worse
+when the Protector laid down his awesome curse
+that some should speak, and some only listen
+and the first one asked, warum wir wissen?
+through that speech, he aligned the horde
+bears, eagles, and wolves, all swords
+to stab at the black ones, the hearts of iron
+we drove them back once, blood afire
+to the precipice from whence they came,
+and they left this place, but not the same
+for as a vessel, cracked, lets in the light
+they changed us when they taught us
+the meaning of fright.
+
+frozen stars in the frozen night
+frozen stars in the frozen night
+
+#+end_verse
 
 * 3. LAND Of JELLECK, LAND Of ICE And SNOW
