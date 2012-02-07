@@ -391,8 +391,9 @@ sharpened, made sharp, sharp, having been sharpened
    K illing?
 
 ** Breath of Jelleck
-#+begin_verse
+   I think this is the introduction to the book.
 
+#+begin_verse
 breath of jelec, breath of cold
 cov'ring the land in days of old
 cov'ring all in snow and white
@@ -415,7 +416,35 @@ the meaning of fright.
 
 frozen stars in the frozen night
 frozen stars in the frozen night
-
 #+end_verse
 
-* 3. LAND Of JELLECK, LAND Of ICE And SNOW
+** Chapter Word Counts, 7 Feb 12
+   - Halfmoon
+     4404
+   - The Tutor
+     2287
+   - A Ladder to the Stars
+     5871
+   - The Smallwood
+     2701
+   - Acutus meets with Redcloth
+     0
+   - An Aberration in Wood and Steel
+     3887
+   - Little Sisters and their Games
+     0
+   - Cups and Pennies
+     0
+   - The Hermit and his Mountain
+     0
+   - Creatures of Speech, Creatures of Silence
+     0
+   - The Breath of Jelec
+     0
+
+** Things to Clean up before Publication
+   1. Redcloth's tower seems to have become the ``Dark Tower." Not the best name.
+      Keep
+      Cloud Buster
+
+* 3. LAND OF JELLECK, LAND OF ICE AND SNOW
