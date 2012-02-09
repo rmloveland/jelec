@@ -400,7 +400,7 @@ And what's more, I found myself standing in the hallway outside my cell door.
 
 "I'm sure you're right, though this fellow is newly arrived here, and rather a different creature altogether from that lot, I dare say."
 
-"One hopes".
+"One hopes."
 
 John Sharp was not entirely sure who or what they were talking about (e.g., Who was the "grey wretch"?), but he had learned, again from his father, that often it was best not to ask questions and make oneself a nuisance generally; rather, the best course of action was usually to listen, learn by seeing, and to see only what was there, and not what you wanted to see. This method was generally more trustworthy, even in John's limited experience, than listening to voices coming out of mouths (a phenomenon otherwise known to John's father as "hot air"). Talk fell under the same category as all of those other things that John's father mistrusted, along with feelings, emotions, desires, and so on, up to and including people who didn't keep their pocketknives clean and sharp. Even more untrustworthy were those who didn't carry pocketknives at all.
 
@@ -412,7 +412,7 @@ John stood and looked up at the pines. This was an evergreen forest, a good /nor
 
 It was, John decided, a place of great peace. He instantly began to relax. Even so, his thoughts turned to Glynis. "Will she and Meldrake ever be able to find me, here on the forest floor? How could they see me?" He wasn't especially worried about his safety --after all, Glynis was in more danger than he-- so much as about losing track of his friend in this strange, great wide world.
 
-"Well, we've quite a trip ahead!" All thoughts of reflection were dismissed immediately upon any occasion when Vellus opening his mouth. "I do so enjoy a nice trip abroad!"
+"Well, we've quite a trip ahead!" All thoughts of reflection were dismissed immediately upon any occasion when Vellus opened his mouth. "I do so enjoy a nice trip abroad!"
 
 "How long do you think it will take?" asked John. He wanted to see how Vellus would answer the question.
 
@@ -434,39 +434,43 @@ So it was that John settled on the idea of becoming an amateur heliographer and 
 
 By now it was approaching late afternoon. John's best guess, based on the shadows in the forest, and the spare light coming down, put the time at around five. So far the length of the days seemed to be about what he was used to at home, which gave him some hope that the sun's movements would prove to be, well, similarly similar. Indeed, as the small troupe continued through the evergreen forest, the sun's rays entered at an increasingly steep angle, until they appeared to be entering from the side, and from time to time would even shine into one's eyes.
 
-Contrasted with this sudden brightness, the rest of the forest grew ever darker. There were of course pine trees all around, many growing to heights of what John guessed was about 60 to 70 feet. They provided a canopy of sorts, under which John could see stands of spruce, wet areas dominated by red or "swamp" cedar growth, and of course the indomitable birches which lined the small open meadows and other open areas, such as those along several streams they passed. Or was it the same long stream? John decided that this was most likely, or rather that it was unlikely that there would be several streams in an area with almost exactly the same characteristic width and rate of flow. Yes, the birches. They were always the first trees to recolonize an area that had been lost to the forest. Those which grew here were whiter than any John had ever seen, much more even than those he knew from his home. Gone were the patches of grey and black bands which lined the trunks of many of the trees he had known. These were unblemished and stunning.
+Contrasted with this sudden brightness, the rest of the forest grew ever darker. There were of course pine trees all around, many growing to heights of what John guessed was about 60 to 70 feet. They provided a canopy of sorts, under which John could see stands of spruce, wet areas dominated by red or "swamp" cedar growth, and of course the indomitable birches which lined the small open meadows and other open areas, such as those along several streams they passed. Or was it the same long stream? John decided that this was most likely, or rather that it was unlikely that there would be several streams in an area with almost exactly the same characteristic width and rate of flow. Yes, the birches. They were always the first trees to recolonize an area that had been lost to the forest. Those which grew here were whiter than any John had ever seen, much more so than those he knew from his home. Gone were the patches of grey and black bands which lined the trunks of many of the trees he had known. These were unblemished and stunning.
 
-Beneath all this, there was the ubiquitous carpet of red needles and various small flora of the forest floor. Most important of all these were the humble ferns which throve amid complementary blankets of moss. Thus was the forest floor divided among a few states, each equally beautiful: covered in a blanket of red pine and other needles (this described the path upon which our little group travelled); almost invisible under a symphony of bright green ferns, gentle harpsichords strewn about the forest floor wherever there was soil enough to meet their humble needs; and wherever needle and fern failed, such as upon the large rock outcroppings which were everywhere inside the smallwood, there grew the tenacious yet fragile green moss that John loved, that said to him: "You are in a real forest now; be at peace."
+Beneath all this, there was the ubiquitous carpet of red needles and various small flora of the forest floor. Most important of all these were the humble ferns which throve amid their complementary blankets of moss. Thus was the forest floor divided among a few states, each equally beautiful: covered in a blanket of red pine and other needles (this described the path upon which our little group travelled); almost invisible under a symphony of bright green ferns, gentle harpsichords strewn about the forest floor wherever there was soil enough to meet their humble needs; and wherever needle and fern failed, such as upon the large rock outcroppings which were everywhere inside the smallwood, there grew the tenacious yet fragile green moss that John loved, that said to him: "You are in a real forest now; be at peace."
 
 As the four creatures wended their way through the tall pines, the day wore on. The shadows, already long, grew longer still. Bright shafts pierced the dark stillness and came to rest against tree trunks, and were beautiful to look upon. Were one to raise his eyes and look towards the setting sun at the wrong moment, though, he might take one of those bright arrows of light directly in the eye, and at that time of day, they are blinding. Therefore John was content to look around him in wonder, and not speak.
 
-The bear led the little new-formed troupe, followed by Vellus, John/Ursus, and finally Second. As the rearguard, John supposed that Second was nominally charged with ensuring that the badgers' prisoner didn't escape. Of course, in that forest, surrounded by those creatures, the idea of escape was folly itself. No human living can outrun a bear. And even if Arctoryx weren't interested in chasing humans (and we can be reasonably certain that he wouldn't be, without a very good reason indeed), one imagines that badgers such as these, of such size and ferocity, would prove difficult adversaries and pursuers indeed.
+The bear led the new-formed troupe, followed by Vellus, John, and finally Second. As the rearguard, John supposed that Second was nominally charged with ensuring that the badgers' prisoner didn't escape. Of course, in that forest, surrounded by those creatures, the idea of escape was folly itself. No human living can outrun a bear. And even if Arctoryx weren't interested in chasing humans (and we can be reasonably certain that he wouldn't be, without a very good reason indeed), one imagines that badgers such as these, of such size and ferocity, would prove difficult adversaries and pursuers indeed.
 
-For all that, John didn't feel at all threatened. Though clearly these were creatures who could be ferocious at need, they did not seem to revel in it, at least by John Sharpe's reckoning. And given his young age, John's reckoning of the situation was a rather good one, we should think.
+For all that, John didn't feel at all threatened. Though clearly these were creatures who could be ferocious at need, they did not seem to revel in it, at least by John Sharpe's reckoning. And despite his young age, John's reckoning of the situation was a rather good one, I should think.
 
-Finally the arrows of light fell short, the sun was very nearly set, and the forest was fast approaching darkness. John was having some difficulty seeing, but luckily he had badgers ahead and behind. And so they walked along in darkness for some time. John was sure that the smallwood, or at least that part of it which they had perceived from the street in Halfmoon, was much smaller indeed than that place through which they were now travelling. And of course he was right. Since the smallwoods are, by definition, rather magical (what with their various properties, both supernatural and not, which we've discussed thus far), their passage through the oaken gates had indeed marked a passage of an altogether different kind.
+Finally the arrows of light fell short of their marks, for the sun was very nearly set, and the forest was fast approaching darkness. John was having some difficulty seeing, but luckily he had badgers ahead and behind. And so they walked along in darkness for some time. John was sure that the smallwood, or at least that part of it which they had perceived from the street in Halfmoon, was much smaller indeed than the place through which they were now travelling. And of course he was right. Since the smallwoods are, by definition, rather magical (what with their various properties, both supernatural and not, which we've discussed thus far), their passage through the oaken gates had indeed marked a passage of an altogether different kind.
 
-John both knew this and didn't, if one can be in such a state. "/Of course this place isn't really in the middle of a park in Halfmoon/, " he thought to himself. "/The light was coming in almost completely from the side at sunset. The buildings on the street would've blocked that light, if we'd been in town. Therefore, we are no longer in a small park in the middle of town, but someplace else/."
+John both knew this and didn't, if one can be in such a state. "/Of course this place isn't really in the middle of a park in Halfmoon/, " he thought to himself. "/The light was coming in almost completely from the side at sunset. The buildings on the street would've blocked that light, if we'd been in town. Therefore, we are no longer in a small park in the middle of town, but someplace else/." John also suspected that any readings he might gather from observing the stars in this place would have a usefulness which was also confined to this place. Despite that technicality, he resolved to begin charting his observations of the night sky at the earliest convenience.
 
-More trudging ensued. Thankfully, the bear was both capable of great speed and indolent in general, an unusual combination. No doubt if John had been travelling with the badgers alone he would've needed carrying again, and he was tired of feeling like someone else's cargo. "/When can I get my own powers/?" he wondered. "/I'd like to be able to do some neat things, too. Like change into a bear, or a wolf, or an eagle. But especially a bear. Then maybe I could find my way around this place more easily, and most of all find Glynis, and help her/." Unfortunately, hoping for a single great power you don't have while ignoring the many important, if humbler, powers that you do is a fairly common human trait. And John was not immune to such folly, human boy that he was.
+"/Yes/," he thought. "/I can begin noting the locations of certain constellations tonight, whenever we get where we're going. Then I can compare their locations to whatever direction the sun comes up from tomorrow. That should give me some notion of the East and West of this place, and it will allow me to start navigating by the stars. At least it's more than I know how to do right now, and every bit will help if I'm going to be able to travel on my own/."
 
-Some little time later they began to see a tiny red glowing point far ahead through the trees. Arctoryx stopped abruptly and turned, presumably to address the group. They'd now been walking for several hours. Vellus, who'd been following him closely -- and perhaps a bit impatiently--, helpfully bumped right into him and then fell down.
+More trudging ensued. Thankfully, the bear was both capable of great speed and indolent in general, an unusual combination. No doubt if John had been travelling with the badgers alone he would've needed carrying again, and he was tired of feeling like someone else's cargo. "/When can I get my own powers/?" he wondered. "/I'd like to be able to do some neat things, too. Like change into a bear, or a wolf, or an eagle. But especially a bear. Then maybe I could find my way around this place more easily, and most of all find Glynis, and help her/." Unfortunately, hoping for a single great power you don't have while ignoring the many important, if humbler, powers that you do is a fairly common human trait. And John was not immune to such folly, human boy that he was. And little did he know that he had a diamond in his pocket! But that is a story which we'll hear soon enough, Gentle Reader...
 
-John had to laugh. Then Second started in, and Vellus, after recovering from the initial shock of it, started laughing too. Arctoryx seemed unable to laugh, or perhaps just unwilling in this company. Instead, he simply spoke. "In a few moments, we'll be approaching the Great Camp which is called O-Kwa-Ri-Ga. When we arrive, I'll be the first to speak. The rule for guests in the Smallwoods is simple: never speak unless spoken to. Vellus, you and Second know my meaning." He gave John what John imagined was a meaningful look. "As for you, Ursus, that warning is doubled. I have not followed that rule to the letter with you thus far, but you'd do well to understand that all bears are not the same as me, and mind your tongue. There are some who would rather not see the other Creatures of Speech in our woods, for they are considered dangerous by many."
+Some little time later they began to see a tiny red glowing point far ahead through the trees. Arctoryx stopped abruptly and turned, presumably to address the group. They'd now been walking for several hours. Vellus, who'd been following him closely -- and perhaps a bit impatiently -- helpfully bumped right into him and then fell down.
+
+John had to laugh. Then Second started in, and Vellus, after recovering from the initial shock of it, started laughing too. Arctoryx seemed unable to laugh, or perhaps just unwilling in this company. Instead, he simply spoke. "In a few moments, we'll be approaching the Great Camp which is called O-Kwa-Ri-Ga. When we arrive, I'll be the first to speak. The rule for guests in the Smallwood is simple: never speak unless spoken to. Vellus, you and Second know my meaning." He gave John what John imagined was a meaningful look. "As for you, Ursus, that warning is doubled. I have not followed that rule to the letter with you thus far, but you'd do well to understand that all bears are not the same as me, and mind your tongue. There are some who would rather not see the Creatures of Speech in our woods, for they are considered dangerous by many."
 
 John remembered at that moment some of the things Meldrake had said about the power of language and speech, both those which he had heard directly and those which Glynis had told him about. Arctoryx apparently believed similar things, and John had to admit that he was beginning to wonder if there wasn't some truth to those beliefs. Of course, if witnessing your friend's transformation into a flying creature doesn't convince you of the power of a place's magic...
 
-"/Wait/," thought John. "/What does he mean, Creatures of Speech? Are there some here that don't talk/?" Based upon his experiences thus far, it would have been reasonable for John to assume that all of the animals in the Realm of the White Bear spoke. "/On second thought, there are so many animals everywhere, it would be strange if they all did. And I've only met a few of the total number here, after all. It makes sense that there would be a mixture, I guess. But how did that come about -- why some, and not others/?"
+"/Wait/," thought John. "/What does he mean, Creatures of Speech? Are there some here that don't talk/?" Based upon his experiences thus far, it would have been reasonable for John to assume that all of the animals in the Realm of the White Bear spoke. "/On second thought, there are so many animals everywhere, it would be strange if they all did. And I've only met a few of the total number here, after all. It makes sense that there would be a mixture of the two, I guess. But how did that come about -- why some, and not others/?"
 
 John thought briefly of asking Arctoryx about this and other things that had occurred to him. Then he thought better of it.
 
-Arctoryx went on. "Ursus, you are also in peril for different reasons. I don't know you, and cannot vouch for you, but as Vellus and Second are trusted, you are trusted. Do not abuse that privilege which they have extended to you."
+Arctoryx went on. "Ursus, you are also in peril for different reasons. I do not know you, and cannot vouch for you, but as Vellus and Second are trusted, you are trusted. Do not abuse that privilege which they have extended to you."
 
 "Wait. How can I think of this as a privilege? Aren't I a prisoner?" asked John.
 
-Arctoryx shrugged, and Vellus replied. "We are on a journey together, young Ursus, and it is one as much of curiosity as of duty. My brother and I have been ordered to deliver you to the headquarters of the so-called 'HOLDCREDT CONSORTIUM,' and we may in fact do just that, if it pleases us. Or mayhaps it won't after all -- we may go there for a visit on a lark, decide we don't like the looks of the place, and then turn and leave, and help you go and find your friends. We are not beholden to some distant and abstract power, even if it may appear so. Just remember that the crazed leader of our little band is my mother's brother. That's why we humor him, and do little things for him here and there, but we don't truly serve him or his so-called masters."
+Arctoryx shrugged, and Vellus replied. "We are on a journey together, young Ursus, and it is one as much of curiosity as of duty. My brother and I have been ordered to deliver you to the headquarters of the so-called 'HOLDCREDT CONSORTIUM,' and we may in fact do just that, if it pleases us. Or mayhaps it won't after all -- we may go there for a visit on a lark, decide we don't like the looks of the place, and then turn and leave, and help you go and find your friends. We are not beholden to some distant and abstract power, even if it may appear so. Just remember that the crazed leader of our little band is my mother's brother. That's why we humor him, and do little things for him here and there, but we don't truly serve him or his so-called masters. Badgers are not bears or ravens, but in one thing we're all the same: we do not like to be ruled over by anyone," added Vellus the Verse Badger.
 
-"Badgers are not bears or ravens, but in one thing we're all the same: we do not like to be ruled over by anyone," added Vellus the Verse Badger.
+And so the unlikely troupe traveled along the winding path. They had already come so far as to exhaust poor John's human legs, but not his human will. Thus was his body delivered, along with the rest of him, heart and soul, to their destination for the evening. As they followed the path to O-Kwa-Ri-Ga, it wound this way and that through the forest, a deliberately oblique route if ever there was one. Yet it seemed clear from Arctoryx's little speech that this was a "Great Camp," and a place of importance. For all John knew it was a place of some as-yet-undiscovered power as well. Whether that power would belong to the bears, the forest, the odd badgers, John himself, in the form of Ursus, or more likely, the earth and trees and wind themselves, would be revealed. "/Or nothing will happen at all/," thought John. "/It could just be a camp in the forest, like people have back home/." These were his words, but his secret hope was that his words were false, and that his dreams might be true.
+
+Whatever the truth of the place was, it included this -- and this is what John and his captor-companions saw as they emerged from the trees -- : O-Kwa-Ri-Ga was a "Great Camp" indeed, a four-story behemoth hunched in the moonlight. Fires were lit throughout the upper and lower halls, and a red glow emerged from the place that lit the clearing upon which it stood as if by a sunrise.
 
 * AN ABERRATION IN WOOD AND STEEL
 
@@ -645,7 +649,7 @@ And then the thing spoke.
 * CUPS AND PENNIES
 
 #+name: The 'Cups and Pennies' puzzle
-#+begin_src emacs-lisp :tangle cups_and_pennies :noweb yes
+#+begin_src emacs-lisp :tangle cups_and_pennies.el :noweb yes
   ;; -*- mode: emacs-lisp -*-
   
   (defun cups-and-pennies (p)
@@ -659,7 +663,7 @@ And then the thing spoke.
   
 #+end_src
 
-#+begin_src scheme geiser
+#+begin_src scheme geiser :tangle cups_and_pennies.scm :noweb yes
   (define cups-and-pennies
     (lambda (p)
       (let ((saucers '()))
@@ -671,6 +675,23 @@ And then the thing spoke.
                     (cons 1 saucers)))
           (set! p (ash p -1)))
         saucers)))
+#+end_src
+
+#+begin_src ruby :tangle cups_and_pennies.rb :noweb yes
+  module Jelec
+    def self.cups_and_pennies (n)
+      saucers = []
+      while n > 0
+        if n.even?
+          saucers.push nil
+        else
+          saucers.push 1
+        end
+        n = n / 2
+      end
+      saucers
+    end
+  end
 #+end_src
 
 * THE HERMIT AND HIS MOUNTAIN
