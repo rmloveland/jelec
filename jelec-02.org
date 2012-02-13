@@ -197,12 +197,12 @@ John heard the rattling of heavy chain against oak. Three seconds later, the doo
 
   No, no, no, and no. He muttered something and pulled from the aforementioned pouch at his hip a smattering of tiny seeds, which he tossed nonchalantly onto the stones at the floor of the tunnel. He then withdrew one of the scrolls I've just told you about, and he spoke a few simple lines which, even to this day, I remember well:
 
-| For each of you, seeds numbered 1 through /n/,     |
-| Please, and Thank You, and Thank You again.        |
-| Until you meet an obstacle, grow up straight,      |
-| Branch left and right once you meet that gate, and |
-| Naturally, branching, do the same as before,       |
-| A tree at each tip, your roots in the floor.       |
+/For each of you, seeds numbered 1 through /n//
+/Please, and Thank You, and Thank You again./
+/Until you meet an obstacle, grow up straight/
+/Branch left and right once you meet that gate, and/
+/Naturally, branching, do the same as before/
+/A tree at each tip, your roots in the floor./
 
   With that, he reached into his pouch yet again, and brought forth a clear flask. I must assume that it was filled with water, but it was like no water which I had ever had the pleasure to see or taste, for as soon as he had sprinkled it over the seeds, he motioned for me to step back a few paces. And a good thing he did so! For no sooner had I done as he'd bid than the first shoots emerged from those seeds and began burrowing into the stones in the floor. Presumably, they wanted each to secure a proper footing before beginning their upward growth. I could hardly believe my eyes as I watched them quite literally `shoot' up from the ground and meet the iron bars, which, as it turned out, formed a portcullis. Just as the raven's verse had requested of them, the vines (as they now clearly were) grew to the first bar and branched in two, forming a `V'. Each arm of this `V' then wrapped over the bar, at which point the arms met, and each grew around the other in brief embrace, after which time they continued growing ever upward, finding a new partner with which to continue the dance at the next level. In this way they grew upward and outward, each shoot becoming vine and then thick branch, until at last they had covered the entire portcullis of iron in a sort of regular "web" pattern or latticework.
 
@@ -294,25 +294,27 @@ Needless to say, I was rather flattered that the dread Redcloth had had a specia
 
   Therefore I decided that there was little chance of some flatterer having made his way down into the bowels of the tower, and so I began to wonder: who else could it be? Over time, and by mustering intense concentration, I was able to discern but a few lines, of which I'll repeat a small part here:
 
-| grass. (1)                                                               |
-| milk. (1)                                                                |
-| sour! (2)                                                                |
-| brick by brick, (3)                                                      |
-| flower by flower, (5)                                                    |
-| black oak, iron, parchment, power! (8)                                   |
-|                                                                          |
-| I call upon you now as the Son to his Father: (13)                       |
-| (mortar, stoneways, parchment, bother!) (8)                              |
-|                                                                          |
-| Burn the Tree of Life where we all began, from cavespeech to mountain    |
-| to querulous plain. (21)                                                 |
-|                                                                          |
-| 'Twas for nought if a child in the darkness lays, there's nought in Good |
-| if Good this stays, and Good hath nought to teach these Days --          |
-| If true, and can't we hope for isn't?                                    |
-| When was the last the Protector listen'd?                                |
-| Who knows, for the old were then young at that!                          |
-| Mortar, stoneways, parchment, drat!                                      |
+#+begin_verse
+/grass./
+/milk./
+/sour!/
+/brick by brick/
+/flower by flower/
+/black oak, iron, parchment, power!/
+
+/I call upon you now as the Son to his Father:/
+/(mortar, stoneways, parchment, bother!)/
+
+/Burn the Tree of Life where we all began, from cavespeech to mountain/
+/to querulous plain./
+
+/'Twas for nought if a child in the darkness lays, there's nought in Good/
+/if Good this stays, and Good hath nought to teach these Days --/
+/If true, and can't we hope for isn't?/
+/When was the last the Protector listen'd?/
+/Who knows, for the old were then young at that!/
+/Mortar, stoneways, parchment, drat!/
+#+end_verse
 
   The whispers kept on going like this, fading in and out of my hearing, each verse getting longer and longer. From time to time they would `return to zero', so to speak, and begin again from the same place, though as you might imagine they would travel in slightly different paths at first, and the paths traversed by those verses as they grew and grew would diverge more and more, until they had wended their way into topics and territories new and strange, completely different from those which had come before.
 
