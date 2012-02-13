@@ -321,30 +321,42 @@ sharpened, made sharp, sharp, having been sharpened
    vs. Speech distinction? What were the conditions that brought about
    the current situation, whereby some speak and some don't?
 
-*** 4 Feb 12
-    I think the GARVIKs should be able to be communicated with via
-    "clicksong", or such. Like a telephone modem. Perhaps each could
-    travel with a "Speaker," who is a translator to/from the machines,
-    a sort of low, dark magician/technician in the service of
-    Redcloth.
+   Some answers have been revealed in the poem which opens the book.
 
-    This plays into CREATURES OF SPEECH, CREATURES OF SILENCE in some
-    way. By adding a sound-based communicative element to his
-    machines, the Adversary is further corrupting that which he
-    parrots (namely, the PROTECTOR).
+   I think the GARVIKs should be able to be communicated with via
+   "clicksong", or such. Like a telephone modem. Perhaps each could
+   travel with a "Speaker," who is a translator to/from the machines,
+   a sort of lower-end magician/technician in the service of
+   Redcloth.
+
+   This plays into CREATURES OF SPEECH, CREATURES OF SILENCE in some
+   way. By adding a sound-based communicative element to his
+   machines, the Adversary is further corrupting that which he
+   parrots (namely, the PROTECTOR, and his servant MELDRAKE).
 
 ** Honey Dragon
    Meldrake may be fated to die. Perhaps he should return as a golden raven?
 
 ** Where are Silverbird, the Starling King, and Kell?
+
+   This is a good question. Perhaps John, having just been abandoned
+   at O-Kwa-Ri-Ga (or so he believes), is about to have a visitation
+   from the Silverbird herself? That would explain why everyone is
+   gone...
+
 ** Math Problems/Discussions
-   First, see the notes for Book 1 above.
+   First, see the notes for Book 1 above. There will be some leftover
+   tidbits there.
 
    "You are presented with a glass jar, and placed before a great hall,
    one with many doors. All of the doors are locked, and inside the jar
    are hundreds of small keys. Your adversary --"
 
-   Gears and levers.
+   Gears and levers might play a role. Some research into their theory
+   and use would be appropriate.
+
+   See the section `Arithmetical Games' from p. 83 of Kraitchik,
+   /Mathematical Recreations/.
 
 ** HALFMOON
 *** RETCON
@@ -374,6 +386,10 @@ sharpened, made sharp, sharp, having been sharpened
    I = "Continuity of Flow"
    R = "Innate Friction"
 
+   Note 13 Feb 12:
+   This whole thread has been removed, since I hadn't that much
+   interest.
+
 ** GARVIK I ALPHA
    The first of the Adversary's corruptions of JELEC, who is also the
    WHITE BEAR, PROTECTOR of the REALM.
@@ -389,6 +405,13 @@ sharpened, made sharp, sharp, having been sharpened
 
    I ndiscriminate
    K illing?
+
+   We first meet him/it in `An Aberration in Wood and Steel,' though
+   perhaps that should be changed to iron, since they undoubtedly do
+   not have steel just yet. Or maybe they do?
+
+   In any case, if Meldrakes 1 and 2 fail to solve the mystery of the
+   cups and pennies, they will be forced to face the wrath of GARVIK!
 
 ** Breath of Jelleck
    I think this is the introduction to the book.
@@ -411,8 +434,7 @@ we drove them back once, blood afire
 to the precipice from whence they came,
 and they left this place, but not the same
 for as a vessel, cracked, lets in the light
-they changed us when they taught us
-the meaning of fright.
+they changed us when they taught us the meaning of fright.
 
 frozen stars in the frozen night
 frozen stars in the frozen night
