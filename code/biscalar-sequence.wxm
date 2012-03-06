@@ -1,0 +1,272 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 0.8.7 ] */
+
+/* [wxMaxima: input   start ] */
+? sum;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+:lisp (defun fib-iter (a b count)
+        (if (= count 0)
+            b
+            (fib-iter (+ a b) a (- count 1))))
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+:lisp (defun fib (n) (fib-iter 1 0 n))
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+fib(99);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+sum(1/fib(i),i,1,inf);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%i3, simpsum;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%psi;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+''%psi;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+ev(%o6);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%o7, numer;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%psi : %o4;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%psi;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%psi, numer, simpsum=true;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%psi, numer;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+''%psi;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+fib(1234);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+fibtophi(fib(15));
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+fib(15);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+kill %phi;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+kill(%phi);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%i15;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+fibtophi(fib(15));
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+next_prime(19);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+next_prime(1.23e3);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+next_prime(2345);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+totient(1233);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%o13, nouns;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+add(5,6);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+:lisp (defun add (a b) (+ a b))
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+add(4,5);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+''add(4,5);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+ADD(4,5);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%o28, numer;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+add(x, y) := x + y;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%o29;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+''%o31;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+add(x,y) := ''(x + y);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+add(4,5);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+phi (n) := ''(sum(1/fib(i),i,1,n));
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+phi(19);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%i36, numer;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+expand(%o37);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%o38, nouns;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%o39, numer;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+phi(n) := ''(sum(1/fib(i),i,1,inf)),nouns,numer;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+phi(19);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%o42, nouns;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+phi(n) := ''(sum(1/fib(i),i,1,n));
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+phi(32), nouns;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%o45, numer;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+kill(phi);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%phi;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%phi, numer;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%psi, numer;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+kill(%psi);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%psi;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+psi;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+psi, numer;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+psi(n) := ''(sum(1/fib(i),i,1,n));
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+''psi(19);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+%o56, nouns, numer;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+psi(102), nouns, numer;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+:lisp (defun biscalar (n) (fib-iter 1 0 n))
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+biscalar(19);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+''biscalar(19);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+BISCALAR(19);
+/* [wxMaxima: input   end   ] */
+
+/* Maxima can't load/batch files which end with a comment! */
+"Created with wxMaxima"$
