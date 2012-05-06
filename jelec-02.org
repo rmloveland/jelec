@@ -17,35 +17,47 @@ All Rights Reserved.
 <p style="page-break-before:always"></p>
 #+end_html
 
-/For Cari Suzanne, again./
+
 #+begin_html
 <p style="page-break-before:always"></p>
 #+end_html
 
+* FRONT MATTER
+
+  The first time John Sharp found out that he could transform into a bear, and could speak the language of bears, was sometime after his twelfth birthday.
+
+  It seemed so long ago that he had first journeyed to the Realm of the White Bear with his good friend Glynis McGinty, there to encounter the raven Meldrake, along with the gruff farmer of cows and numbers called Kell, and the mysterious king and queen of lesser birdkind, Starling and Silverbird. And in fact it was.
+
+  His travels with Glynis and Meldrake had come to an end at the hands of Vellus the Verse Badger and his cohorts, who had stolen him away from his friends in order to deliver him to that strange avian creature known as Redcloth, who is often called simply ``The Adversary", at least in that far-away place.
+
+  Meanwhile, Glynis has much yet to learn of magic, and of the ways of Number and Verse in particular. This tale begins for her in the house of Meldrake, which is also called the Ravenslair, where she will begin preparing for a journey the likes of which perhaps only Meldrake, alone among all living creatures, has taken before, in the strange days before he became Meldrake. Drawn inexorably to the Dark Tower, the pair will nevertheless encounter a surprise or three along the way.
+
+  And of course, Dear Reader, you know what they say about the best-laid plans of mice and men -- it turns out that this saying applies to the plans of big sisters, too. Especially where little sisters are concerned . . .
+
 * INVOCATION
 
 #+begin_verse
-breath of jelec, breath of cold
-cov'ring the land in days of old
-cov'ring all in snow and white
-frozen stars in the frozen night
-where the lights would shine in colors many
-and the sky, alight, revealed the en'my.
-for all was nearly lost, or worse
-when the Protector laid down his awesome curse
-that some should speak, and some only listen
-and the first one asked, warum wir wissen?
-through that speech, he aligned the horde
-bears, eagles, and wolves, all swords
-to stab at the black ones, the hearts of iron
-we drove them back once, blood afire
-to the precipice from whence they came,
-and they left this place, but not the same
-for as a vessel, cracked, lets in the light
-they changed us when they taught us the meaning of fright.
+Breath of jelec, breath of cold
+Cov'ring the land in days of old
+Cov'ring all in snow and white
+Frozen stars in the frozen night
+Where the lights would shine in colors many
+And the sky, alight, revealed the en'my.
+For all was nearly lost, or worse
+When the Protector laid down his awesome curse
+That some should speak, and some only listen
+And the first one asked, warum wir wissen?
+Through that speech, he aligned the horde
+Bears, eagles, and wolves, all swords
+To stab at the black ones, the hearts of iron
+We drove them back once, blood afire
+To the precipice from whence they came
+And they left this place, but not the same
+For as a vessel, cracked, lets in the light
+They changed us when they taught us the meaning of fright.
 
-frozen stars in the frozen night
-frozen stars in the frozen night
+Frozen stars in the frozen night
+Frozen stars in the frozen night
 #+end_verse
 
 * HALFMOON
