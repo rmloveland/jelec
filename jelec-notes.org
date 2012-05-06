@@ -1,3 +1,7 @@
+#+title: Jelec Notes
+#+author: Rich Loveland
+#+email: loveland.richard@gmail.com
+
 * 1. JELLECK, THE WHITE BEAR, OR, BEWARE AN ENCOUNTER WITH A RAVEN AND HIS FRIENDS
 ** MAGIC ITEM CHECKLIST
 1. TOKEN OF YOUR FAMILY LINE
@@ -169,9 +173,9 @@ Hereby all is revealed.
     recursively -- think `Garden of Forking Paths', &c.).
 *** counting problems
    1. first example from book is in Ch. 10. In fact, pretty much the
-      entire chapter is a counting problem.
+      entire chapter is a counting problem (*DONE* Ch. 10).
 *** geometry
-   1. hexagonal pie-slicing problem at breakfast (Ch. 6, near line 2295) 
+   1. hexagonal pie-slicing problem at breakfast (*DONE* Ch. 6, near line 2295)
    2. radius of Kell's compound wall? (ADD SCENE?) Perhaps this could be
       computed recursively, given the smaller dimensions of the
       hexagonal path 'round his house? Hexagons, stepped out at given
@@ -313,7 +317,15 @@ sharpened, made sharp, sharp, having been sharpened
     - Fractals. Something simple.
 *** D: Induction
 
-* 2. The BREATH Of JELLECK
+* 2. BREATH Of JELLECK, BREATH OF COLD
+** RETCON
+   At the end of the first book, it seems that M, G, and J are at the
+   outskirts of town when they encounter the hawk and
+   badger. HOWEVER: at the beginning of book 2, John is described as
+   travelling through a rather large transitional area of fields,
+   cottages, etc. This must be made to gibe somehow with the earlier
+   work.
+
 ** Creatures of Speech
    First talked about here: [[file:jelec-02.org::*THE%20SMALLWOOD][THE SMALLWOOD - Arctoryx]]
 
@@ -358,39 +370,7 @@ sharpened, made sharp, sharp, having been sharpened
    See the section `Arithmetical Games' from p. 83 of Kraitchik,
    /Mathematical Recreations/.
 
-** HALFMOON
-*** RETCON
-    At the end of the first book, it seems that M, G, and J are at the
-    outskirts of town when they encounter the hawk and
-    badger. HOWEVER: at the beginning of book 2, John is described as
-    travelling through a rather large transitional area of fields,
-    cottages, etc. This must be made to gibe somehow with the earlier
-    work.
-** THE TUTOR
-   "Well, I put that there to raise the Elemental Force along that
-   road, but ..." The boy frowned, and didn't speak for several long
-   seconds. Finally even his meager intellect was able to distinguish
-   what the teacher was implying, and he realized his error. This
-   time, at least. "Of course! I raised the Elemental Force, but at
-   the cost of rising Innate Friction! Continuity of Flow remained the same,
-   of course, but it was no longer enough to overcome the Innate Friction!
-   Thanks, Tutor! I guess it's back to the drawing board. I only hope
-   it's ready by the next moonturn, since that's when the next
-   Evaluation begins." With that the young boy scurried out the door
-   of Acutus the Head Tutor, presumably back to the little workbench
-   he shared with two other Acolytes in the common study rooms.
-
-   V = IR
-   voltage = current * resistance
-   V = "Elemental Force"
-   I = "Continuity of Flow"
-   R = "Innate Friction"
-
-   Note 13 Feb 12:
-   This whole thread has been removed, since I hadn't that much
-   interest.
-
-** GARVIK I ALPHA
+** GARVIC I ALPHA
    The first of the Adversary's corruptions of JELEC, who is also the
    WHITE BEAR, PROTECTOR of the REALM.
 
@@ -399,7 +379,7 @@ sharpened, made sharp, sharp, having been sharpened
    R oving
    V ehicle for
    I nformation
-   K apture
+   C apture
 
    or...
 
@@ -411,46 +391,15 @@ sharpened, made sharp, sharp, having been sharpened
    not have steel just yet. Or maybe they do?
 
    In any case, if Meldrakes 1 and 2 fail to solve the mystery of the
-   cups and pennies, they will be forced to face the wrath of GARVIK!
-
-** Breath of Jelleck
-   I think this is the introduction to the book.
-
-#+begin_verse
-breath of jelec, breath of cold
-cov'ring the land in days of old
-cov'ring all in snow and white
-frozen stars in the frozen night
-where the lights would shine in colors many
-and the sky, alight, revealed the en'my.
-for all was nearly lost, or worse
-when the Protector laid down his awesome curse
-that some should speak, and some only listen
-and the first one asked, warum wir wissen?
-through that speech, he aligned the horde
-bears, eagles, and wolves, all swords
-to stab at the black ones, the hearts of iron
-we drove them back once, blood afire
-to the precipice from whence they came,
-and they left this place, but not the same
-for as a vessel, cracked, lets in the light
-they changed us when they taught us the meaning of fright.
-
-frozen stars in the frozen night
-frozen stars in the frozen night
-#+end_verse
+   cups and pennies, they will be forced to face the wrath of GARVIC!
 
 ** Chapter Word Counts, 7 Feb 12
    - Halfmoon
      4404
-   - The Tutor
-     2287
    - A Ladder to the Stars
      5871
    - The Smallwood
      2701
-   - Acutus meets with Redcloth
-     0
    - An Aberration in Wood and Steel
      3887
    - Little Sisters and their Games
@@ -464,9 +413,9 @@ frozen stars in the frozen night
    - The Breath of Jelec
      0
 
-** Things to Clean up before Publication
-   1. Redcloth's tower seems to have become the ``Dark Tower." Not the best name.
-      Keep
-      Cloud Buster
-
+** Random Ideas, Notes, &c.
+*** Things to Clean up before Publication
+   
+1. Redcloth's tower seems to have become the ``Dark Tower." Not the best name.
+  
 * 3. LAND OF JELLECK, LAND OF ICE AND SNOW
