@@ -823,19 +823,19 @@ This he did with a rhythm and pitch that Glynis would describe as "sing-song," a
 
 Her hopes in that regard soon faded, as the voice's response was swift.
 
-"*LOOK TO THE WALLS ABOVE YOU, INTERLOPERS. YOU WILL BEGIN TO SEE ARCHERS APPEAR THERE MOMENTARILY. AT MY COMMAND, THEY SHALL TALKE SUCH ACTION AS WILL PUNCTURE YOUR ARROGANT HIDES. FOR THE LAST TIME: GO.*"
+"*LOOK TO THE WALLS ABOVE YOU, INTERLOPERS. YOU WILL BEGIN TO SEE ARCHERS APPEAR THERE MOMENTARILY. AT MY COMMAND, THEY SHALL TAKE SUCH ACTION AS WILL PUNCTURE YOUR ARROGANT HIDES. FOR THE LAST TIME: GO.*"
 
 Upon hearing this, Meldrake couldn't stop himself laughing. After he had cackled away for a moment, he began (to Glynis' horror) to sing again.
 
 It was a new rhyme:
 
 #+begin_verse
-Kell the Farmer's round the bend,
-Doesn't recognize a friend!
-Hides behind his walls and threats,
-What hospitality his vis'tors get,
-When at his gates they beg for cake,
-Can't you spare a few crumbs for your friend MELDRAKE?
+/Kell the Farmer's round the bend/
+/Doesn't recognize a friend!/
+/Hides behind his walls and threats/
+/What hospitality his vis'tors get/
+/When at his gates they beg for cake/
+/Can't you spare a few crumbs for your friend MELDRAKE?/
 #+end_verse
 
 As Meldrake incanted the last line, he spread his wings low at his sides, took a step back with one leg, and performed a low bow in the direction of the gate. Glynis thought it looked rather solemn and formal, in odd contrast with his previous manner. Both she and John looked to the gate, awaiting a response from the creature inside.
@@ -867,7 +867,7 @@ As Kell led the three hungry companions along the path, it became clear to Glyni
 [Figure 6.0a]
 [[./img/6.0a.jpg]]
 
-Though the above method of travel is repetitive, it was not without its rewards. Meldrake, presumably used to the sights and sounds of Kell's strange farm, remarked on them not at all. Instead, he carried on a lively chat with Kell, who as the host and Lord of the Manor, led the way for the others. This freed John and Glynis to bring up the rear, and as they did, here is some part of what they saw: in the outermost ring, six shaggy black ponies, grazing on the long grass; in the next ring, a dozen or so cows, black, brown, and white; then a ring or corn, the better to fatten the cows; a ring of alfalfa, used to make hay for the horses; a ring of pigs, and one of chickens; a ring of scattered trees, a sort of small park for Kell's enjoyment (and that of his family, we must suppose, should any such family exist); within the last concentric ring, nearest to the house itself, a vegetable garden the likes of which Glynis had never seen, except in the pages of books. Surrounded by wooden framing and latticework, there hung a multitude of tomato vines, green beans, and the beautiful espaliéred fruit trees ran along wires wherever the vines exhausted themselves.
+Though the method of travel was repetitive, it was not without its rewards. Meldrake, presumably used to the sights and sounds of Kell's strange farm, remarked on them not at all. Instead, he carried on a lively chat with Kell, who as the host and Lord of the Manor, led the way for the others. This freed John and Glynis to bring up the rear, and as they did, here is some part of what they saw: in the outermost ring, six shaggy black ponies, grazing on the long grass; in the next ring, a dozen or so cows, black, brown, and white; then a ring of corn, the better to fatten the cows; a ring of alfalfa, used to make hay for the horses; a ring of pigs, and one of chickens; a ring of scattered trees, a sort of small park for Kell's enjoyment (and that of his family, we must suppose, should any such family exist); within the last concentric ring, nearest to the house itself, a vegetable garden the likes of which Glynis had never seen, except in the pages of books. Surrounded by wooden framing and latticework, there hung a multitude of tomato vines, green beans, and the beautiful espaliéred fruit trees ran along wires wherever the vines exhausted themselves.
 
 John was the first of the two friends to speak. "This is an amazing place, Mr. Kell."
 
@@ -881,7 +881,7 @@ Kell cracked something resembling a smile through his beard. "Surely you underst
 
 "Well, I suppose I should be honored," said Meldrake. "O, to sit at table with the Great and Glorious Kell, master of shapes, tamer of numbers and cows!" This last he exclaimed with more than a touch of his mocking sarcasm.
 
-"Oh, put a stopper in it," grumbled Kell, "Let's all just sit down and have some breakfast. Sit wherever you like," he added for the children's benefit. "Just don't bother about that dirty old thing you'll be sharing the table with." He said, jutting his chin in Meldrake's direction. John and Glynis laughed, which Meldrake studiously ignored.
+"Oh, put a stopper in it," grumbled Kell, "Let's all just sit down and have some breakfast. Sit wherever you like," he added for the children's benefit. "Just don't bother about that dirty old thing you'll be sharing the table with," he said, jutting his chin in Meldrake's direction. John and Glynis laughed, which Meldrake studiously ignored.
 
 As everyone was settling themselves at the table, Glynis saw that the plates and dishes were also of various geometric shapes. There were octagonal pot pies and hexagonal omelettes. It seemed to her that there was no end to Kell's affection for geometry and all its forms -- and she was right. Once all had been seated comfortably, Kell addressed her directly.
 
@@ -928,7 +928,7 @@ Glynis was the first with a question. "Do we have to use the whole pie?"
 
 A few moments passed as Glynis and John each mulled over the problem. Glynis, for her part, was the rare sort of person who manages always to have pencil and paper at the ready, and this case was no exception. As you will recall, she had, at Meldrake's request, brought with her three very powerful items: a token of her family line, a book whose wisdom she lived by, and a song for a dark time. Like many other young girls her age, she carried her books to school every day in a red nylon bookbag. When the occasion came to honor Meldrake's request, she of course reached for the same red bookbag she was used to carrying to school each day, and she was just the sort of person to slip in a notebook and pencils alongside the other three items he'd asked her to bring.
 
-As such, she was able to supply John and herself with pencils and half-sheets of paper from her notebook, and they immediately began sketching out diagrams of hexagons. Thus aided, each began disecting hexagon into square and triangle variously.
+As such, she was able to supply John and herself with pencils and half-sheets of paper from her notebook, and they immediately began sketching out diagrams. Thus aided, each of them began to dissect his or her hexagon(s) into various squares, triangles, and variations thereof.
 
 John's method was what one might call the "thousand flowers" school: he quickly filled up his halfsheet with a dozen or so tiny hexagons, and set about sectioning them into the asked-for squares and triangles.
 
@@ -995,11 +995,11 @@ Then Glynis, Kell, and Meldrake turned to John, who seemed a bit startled to hav
 /Step Lively, friends! The game's afloat!/
 #+end_verse
 
-With those words Meldrake had enjoined Glynis and John to action: specifically, that they journey with him to a place of his knowledge, that they might learn of the reasons for Glynis' need of the three items Meldrake had asked of her. These were, as the reader may recall, a token of the McGinty family line, a book whose wisdom Glynis lived by, and finally a "Song for a Dark Time." This last, rather cryptic item had been the most difficult for Glynis to choose, and in the end she had settled upon, not a song, but a poem. In fact, it was one which her mother had read to her ever since she was a little girl, and which gave her a sort of comfort each time she heard it. But we shall hear more about that later.
+With those words Meldrake had enjoined Glynis and John to action: specifically, that they journey with him to a place of his knowledge, that they might learn of the reasons for Glynis' need of the three items Meldrake had asked her to bring. These were, as the reader may recall, a token of the McGinty family line, a book whose wisdom Glynis lived by, and finally a "Song for a Dark Time." This last, rather cryptic item had been the most difficult for Glynis to choose, and in the end she had settled upon, not a song, but a poem. In fact, it was one which her mother had read to her ever since she was a little girl, and which gave her a sort of comfort each time she heard it. But we shall hear more about that later.
 
 All things considered, the trio's breakfast with the good, gruff Farmer Kell had gone well enough, and they had resumed their stroll in the woods with rested legs, full bellies, and an invitation from the cow-tending Numbermaster himself to return at their leisure. Glynis, for her part, hoped to be in possession of more mathematics by the time they returned, the better to attack the puzzles which Kell would surely have waiting for her.
 
-Not very long after they had left the house of Kell, they reentered the woods by another path from another gate. It was then that Meldrake's aforementioned call rang out clear and bright, exhorting them to a undertake a journey to a sacred grove, various adventures therewith, et cetera.
+Not very long after they had left the house of Kell, they reentered the woods by another path from another gate. It was then that Meldrake's aforementioned call rang out clear and bright, exhorting them to a undertake a journey to a sacred grove, engage in various adventures thereabouts, et cetera.
 
 Thus it was that Glynis, the eldest daughter of the McGinty family and the only member (to her limited knowledge) ever to speak the language of birds, found herself traipsing along a woodland path behind a giant raven in a land that was not her own.
 
@@ -1011,9 +1011,9 @@ Meldrake had outpaced his friends for the moment, and all Glynis could see was t
 
 In the course of their explorations of the woods and mountains of Lake William, they had developed a simple shorthand using eye and hand movements to cut down on the need for speaking. On more than one occasion they had spent several hours sitting quietly at the edge of a meadow or pond, watching the world go by, as it were. Often, they found that if they were very silent, and very still, then the animals would return after some time had passed. Once it was clear that the two of them posed no threat, all sorts of wonderful things would happen: birds would return to their normal calls and songs, squirrels would resume their endless searching for acorns and other winter foods, and occasionally even that most timid of woodland creatures, the white-tailed deer, would make an appearance. Meanwhile the two friends would sit and take in their surroundings, loathe to do anything that might dissuade the creatures in the forest around them from paying a visit.
 
-And so it was that John was able to silently direct Glynis' attention to the sky. With his eyes, he directed her to a point some distance ahead of them on the path. Through the narrow opening in the trees she saw the thing that John had seen: it was a bird --no, several birds, all floating just above the treetops. Glynis couldn't make out their colors --at this distance they appeared to be black-- but she could tell that their attention was focused on something in the forest below, though it was too soon to tell just what. She gave John a look that said, "I've seen it," and another: "Thanks." His eyes flashed on the forest ahead, as if to say: "We should tell Meldrake." Glynis nodded.
+And so it was that John was able to silently direct Glynis' attention to the sky. With his eyes, he directed her to a point some distance ahead of them on the path. Through the narrow opening in the trees she saw the thing that John had seen: it was a bird --no, several birds-- all floating just above the treetops. Glynis couldn't make out their colors --at this distance they appeared to be black-- but she could tell that their attention was focused on something in the forest below, though it was too soon to tell just what. She gave John a look that said, "I've seen it," and another: "Thanks." His eyes flashed on the forest ahead, as if to say: "We should tell Meldrake." Glynis nodded.
 
-"Meldrake." Glynis spoke the name clearly but quietly, stopping just short of a call. She was worried that her voice might carry too far, to the ears of those birds overhead. Worse, there could be other dangers as yet unseen, for the forest was thick and dark even in the day, and who could say for sure what creatures called it their home?
+"Meldrake." Glynis spoke the name clearly but quietly, stopping just short of a call. She was worried that her voice might carry too far, to the ears of those birds overhead. Worse, there could be other dangers as yet unseen, for the forest was thick and dark even in the daylight hours, and who could say for sure what creatures called it their home?
 
 A moment later, Glynis heard footsteps coming from the trail ahead, and a moment after that, the raven himself appeared.
 
@@ -1039,29 +1039,29 @@ As she said this, she immediately had one thought only: Redcloth!
 /Woe to the fool of the bright long day!/
 #+end_verse
 
-With that, Meldrake turned and began once more his brisk walk along the path. Glynis and John followed as before, each of them more curious than wary of what lay ahead. Certainly, good John had no real concern over this Redcloth character just yet, who was still no more than a name in a story Glynis had told him.
+With that, Meldrake turned and began once more his brisk walk along the path. Glynis and John followed as before, Glynis more wary than curious; John, for his part, felt the other way round. Certainly, John had no real concern over this Redcloth character just yet, who was still no more than a name in a story Glynis had told him.
 
 So the three kept walking, and before long they came to the place where the birds circled overhead, and could see just what the commotion was about.
 
-There was, as Glynis had expected, a clearing in the forest. In the center of that clearing was a place where the granite underlying the forest floor had pushed up a strangely cylindrical tower some twenty or thirty feet high. Atop the resulting height there were perched two birds, which Glynis instantly imagined as male and female, though she had no evidence as of yet. The larger of the two, which Glynis had identified in her mind as the male, was black like Meldrake -- /and like the dread Redcloth, too!/ came the thought before she could banish it. Unlike Meldrake, however, his feathers were smooth against his body, and as Glynis peered more closely she could see the shimmering hues of a rainbow moving against the black of his coat as he moved.
+There was, as Glynis had half expected, a clearing in the forest. In the center of that clearing was a place where the granite underlying the forest floor had been pushed up into a strangely cylindrical tower some twenty or thirty feet high. Atop the resulting height there were perched two birds, which Glynis instantly imagined as male and female, though she had no evidence as of yet. The larger of the two, which Glynis had identified in her mind as the male, was black like Meldrake -- /and like Redcloth, too!/ -- came the thought before she could banish it. Unlike Meldrake, however, his feathers were smooth against his body, and as Glynis peered more closely she could see the shimmering hues of a rainbow moving against the black of his coat as he moved.
 
-Turning, Glynis caught a glimpse of a silver flash next to the bird she now recognized as a starling. In the next instant, the flash faded, and then returned, shimmering in and out of view as she looked on. It was a moment's work for her brain, which even poor Glynis would have admitted had been well-taxed by trying to make sense of all that she had seen so far while in the Land of the White Bear (that bear who, to our dear Glynis, seemed no more than a bogeyman at best, though she would later discover her error). Nevertheless, her poor brain did its best to make sense of the signals it was receiving from her eyes, and this is the sense it made:
+Turning, Glynis caught a glimpse of a silver flash next to the male bird she now recognized as a starling. In the next instant, the flash faded, and then returned, shimmering in and out of view as she looked on. It was a moment's work for her brain, which even poor Glynis would have admitted had been well-taxed by trying to make sense of all that she had seen so far while in the Land of the White Bear (that bear that, to our dear Glynis, seemed no more than a bogeyman at best, though she would later discover her error). Nevertheless, her poor brain did its best to make sense of the signals it was receiving from her eyes, and this is the sense it made:
 
 The silver creature was a bird, alright. Or rather, it was shaped like a bird, albeit one which, for reasons unknown, was only really visible for a few blinks of the eye at a time. The rest of the time it was perceptible only as a shimmering object in space -- not transparent, but translucent perhaps. As for what Glynis' eye actually saw, it was something on the order of: bird (with head to the right), glimmering shape, glimmering shape, bird (with head turned leftward, beak open), shimmer, shimmer, flash; bird (standing with wings slightly opened), glimmer, blank, seated bird. The effect was disorienting, to say the least.
 
 Glynis was so caught up in her examinations of the glimmering bird-shape that she failed to notice the quiet which had descended upon the clearing. The birds which had been circling overhead had landed, while those gathered in pockets around the stone outcropping had arranged themselves into a circle around the starling and silver bird. All eyes were on Glynis, Meldrake, and John as they stood dumb before the assembly. Meldrake, never one to avoid a chance for a dramatic moment, seemed to bathe in the collective silence for a moment before he spoke.
 
-"Greetings, friends of the sky. For many years now the winged folk have been beset by a plague, a foul creature whose name I will not utter here, in the company of friends. In that time, a number of beings like my two companions here, for reasons and via paths which remain unknown to us, made their ways here, to the realm of the Great Recluse, the Protector, who is also the White Bear. To the dismay of much of birdkind, the poisoned one has captured many of these poor creatures, who are but children, and turned their minds against them, against their very selves and souls. Even now these innocents, who knew naught of our ways 'ere they stepped through our gates, are wasting in the dungeons of the cyclops. Even now they assist him in plotting our destruction, so clouded are their judgments from the tortures of the spirit which they've endured."
+"Greetings, friends of the sky! For many years now the winged folk have been beset by a plague, a foul creature whose name I will not utter here, in the company of friends. In that time, a number of beings like my two companions here, for reasons and via paths which remain unknown to us, made their ways here, to the realm of the Great Recluse, the Protector Himself, who is also a white bear. To the dismay of much of birdkind, the heretofore unnamed one has captured many of these poor creatures, who are but children, and turned their minds against them, against their very selves and souls. Even now these innocents, who knew naught of our ways 'ere they stepped through our gates, are wasting their lives in the dungeons of this cyclops. Even now they serve him, and assist him in plotting our destruction, so fully has our enemy clouded their judgment."
 
 Meldrake's last words hung in the air for a moment. It was the large starling atop the granite pedestal who spoke first, which seemed fitting to Glynis, somehow.
 
 "And what would you have us do, Meldrake? Your words would seem to counsel intervention, and no doubt battle -- and the very prisoners we go to save will instead fight against us. No doubt they would see us as invaders, and respond in kind, with all the magic at their disposal, and which their master has taught them. Are we to expect otherwise?"
 
-Meldrake's answer was clear: "I bring you and yours nothing but trouble, my lord. Trouble and toil and death. I did not come here in search of those who, in the ease of the bright day, would spend their hours in leisurely play and be home in time for tea. I came for those who would die -- and yet live -- who would stand to hard service with no hope of joy at journey's end."
+Meldrake's answer was clear: "I bring you and yours nothing but trouble, my lord. Trouble, and toil, and maybe even death, or things that one fears more than death. I did not come here in search of those who, in the ease of the bright day, would spend their hours in leisurely play and be home in time for tea. I came for those who would die -- and yet live -- who would stand to hard service with small hope of joy at journey's end."
 
-At that, a murmur arose from the assembled crowd, as the Starling King and Meldrake remained locked each in the other's steady gaze. It seemed clear to Glynis that Meldrake had intended all along to come here and to issue this challenge, though what part she was to play she did not yet know. She couldn't make out from the whisperings of the crowd whether they would humor the black challenger and his friends with praise or stones.
+At that, a murmur arose from the assembled crowd, as the Starling King and Meldrake stood in silence, each locked in the other's steady gaze. It seemed clear to Glynis that Meldrake had intended all along to come here and to issue this challenge, though what part she was to play she did not yet know. She couldn't make out from the whisperings of the crowd whether they would humor the black challenger and his friends with praise or stones.
 
-As Glynis turned over the question, the Silverbird, ethereal mate of the Starling King, began a low descent from her granite perch, simply stepping off of it into the gentle air, wings open. Down she floated, twenty feet to the ground, shimmering in and out of the naked eye's view. Her descent slow, her movements deliberate, she alighted not five feet from where Meldrake, Glynis, and John stood.
+As Glynis turned over the question, the Silverbird, ethereal mate of the Starling King, began the descent from her granite perch, simply stepping off of it into the gentle air, wings open. Down she floated, twenty feet to the ground, shimmering in and out of the naked eye's view. Her movements deliberate, she alighted not five feet from where Meldrake, Glynis, and John stood.
 
 Meldrake bowed low, his folded wings brushing the ground, as the Silverbird approached and reached out with her wing to touch him. As she did so, the onlookers gathered there saw Meldrake change and begin to shimmer in and out of view in sync with the great Silverbird herself. Shimmer, blank, Meldrake bowed low. Glimmer, pop, and there he was again, wings outstretched, beak open as if letting forth a cry upon the mountain. And so on, until Meldrake and the Silverbird were each mere shimmering forms, varying configurations from one moment to the next.
 
@@ -1091,9 +1091,9 @@ Inside their now-shared experience -- which, when translated from the language o
 
 "I don't understand, Teacher. The boy is quite ordinary, unremarkable. In fact, he rarely speaks."
 
-"And yet he is a Friend. If he be true, that is a rare thing indeed. You, above all others, should know this, Meldrake."
+"And yet he is a Friend. If he be true, that is a rare thing indeed. You above all others should know this, Meldrake."
 
-"'/Rarer than gold, silver, or the power of kings, is a True Friend/.'"
+"/Rarer than gold, silver, or the power of kings, is a True Friend/."
 
 "That is an old saying in these lands, though too often forgotten, even by me. That we might remember it better, Meldrake, I ask this of you: compose a verse on friendship, a few short lines to remind an errant heart. Share it with as many as you can."
 
