@@ -1431,7 +1431,7 @@ With that, he released Glynis and was once again his old vexing self. "So we can
 
 "The question, then," said Meldrake, "is this: how do we find out how many different combinations can be made from those eight letters?"
 
-"Well, I still don't know how to find out," replied Glynis. "Maybe we can find out for a smaller number, but eight seems like too many. It would take too long," she added.
+"Well, I still don't know," replied Glynis. "Maybe we can find out for a smaller number, but eight seems like too many. It would take too long," she added.
 
 Meldrake studied Glynis with a look she didn't understand (most likely because the facial expressions of birds are notoriously difficult to read, as we've already noted). It was in fact a look of disbelief.
 
@@ -1439,22 +1439,22 @@ Meldrake studied Glynis with a look she didn't understand (most likely because t
 
 "I suppose I have." Glynis played along. After all, one can't always be asking for explanations!
 
-"Just the same, I'll state it in full, for the record: Given a problem P which the practitioner has no method for, propose an alternative problem P' ("p-prime") such that P' is a simpler case of P."
+"Just the same, I'll state it in full, for the record: Given a problem P which the practitioner has no method for, propose an alternative problem P' (read: 'p-prime') such that P' is a simpler case of P."
 
 Glynis's eyebrows went up a bit, but she said nothing.
 
-"Or in the common speech, though less precise: `Solve an easier version of the same problem.' As you've just said, there are many ways to arrange eight letters, or eight items of any kind, for that matter. Perhaps we'd do better to begin with a more manageable number. Would you care to suggest one?" he added with mock nonchalance.
+"Or in the common speech, though less precise: 'Solve an easier version of the same problem.' As you've just said, there are many ways to arrange eight letters, or eight items of any kind, for that matter. Perhaps we'd do better to begin with a more manageable number. Would you care to suggest one?" he added with mock nonchalance.
 
 "One it is," replied Glynis oh-so-cleverly.
 
-"Your wish is my command." With a flourish, Meldrake reached into the trusty magical pouch he kept tied to his belt for such occasions, and whispered a word in a tongue which Glynis did not recognize. An instant later, he withdrew a velvet pouch. With a slight clacking sound he withdrew a single white stone, and turned once again to his friend. He then proceeded to stomp out a space in the meadow grass within which to work, at last placing the single stone in one corner:
+"Your wish is my command." With a flourish, Meldrake reached into his trusty magical pouch (which, as we have seen, he kept tied to his belt for just such occasions), and whispered a word in a tongue which Glynis did not recognize. An instant later, he withdrew a smaller, velvet pouch. With a slight clacking sound he withdrew a single white stone, and turned once again to his friend. He then proceeded to stomp out a space in the meadow grass within which to work, at last placing the single stone in one corner:
 
 [Figure 10.0].
 [[./img/10.0.jpg]]
 
 "Clearly you've chosen an easy case," said Meldrake. "Let's add another."
 
-Once again the clacking of the stones inside the pouch was heard as Meldrake withdrew a second white stone and placed it gently on the flattened grass:
+Once again the stones clacked inside the pouch, and Meldrake withdrew a second white stone and placed it gently on the flattened grass:
 
 [Figure 10.1].
 [[./img/10.1.jpg]]
@@ -1465,14 +1465,14 @@ With a whisper, Meldrake withdrew yet another item from the leather pouch at his
 
 Glynis saw the need for it instantly. "Yes, we'll definitely need that as we keep going up," she said.
 
-Meldrake withdrew a third stone and placed it next to the other two. He then marked each stone with his long pen so that they looked like this:
+Meldrake withdrew a third stone and placed it next to the other two. He then marked each stone with his pen so that they looked something like this:
 
 [Figure 10.2].
 [[./img/10.2.jpg]]
 
-Withdrawing a sheet of coarse paper from his pouch, he handed pen and paper to Glynis. "Keep the count, if you please," he said.
+Withdrawing a sheet of coarse paper from his pouch, he handed it, along with the pen, to Glynis. "Keep the count, if you please," he said.
 
-Glynis accepted. "This is combination #1," she added, as she made a small mark on the yellow paper.
+Glynis accepted. "This is combination number one," she added, as she made a small mark on the yellow paper.
 
 Meldrake moved the stones again, and the result:
 
@@ -1499,7 +1499,7 @@ A moment later, all was said and done, and Glynis and Meldrake had seen the foll
 
 "Why certainly!" was the reply from the ever-helpful Meldrake. "Be at the ready with the stylus."
 
-And so the raven marked a fourth stone, and arranged the stones in their various combinations as before, and they were thus:
+And so Glynis marked the fourth stone, and the raven arranged the stones in various combinations as before, and they were thus:
 
 [Figure 10.6]
 [[./img/10.6.jpg]]
@@ -1510,13 +1510,11 @@ And so the raven marked a fourth stone, and arranged the stones in their various
 
 | The Fourth Arrangement is left as an Exercise for the Reader |
 
-"Wow," said Glynis. "That was not entirely what I'd expected. I could barely fit it all on the page," she added, showing it to Meldrake.
+"Wow," said Glynis. "That was not entirely what I'd expected. I could barely fit it all on the page," she added, handing it to Meldrake.
 
-"Are you able to see the pattern?" asked the raven.
+"Are you able to see it yet?" asked the raven. "Take a few moments and look only at the pattern," said Meldrake as he handed the sheet of paper back to Glynis. "Do not try to find the `solution;' just test a few patterns in your mind using only the information in front to you."
 
-"Take a few moments and look only at the pattern," said Meldrake as he handed the sheet of paper back to Glynis. "Do not try to find the `solution;' just test a few patterns in your mind using the numbers available to you."
-
-Glynis examined the paper again, her brow knitted in concentration. Certainly nothing in her experience at the Lake William Schoolhouse had prepared her in any explicit way for this sort of task; her teachers, though earnest and diligent, had presented mathematics to the children as a series of recipes of the kind one might find written on the side of a box of dried pasta, which is to say: ingredients you put together on the stovetop without understanding the resulting meal.
+Glynis examined the paper again, her brow knitted in concentration. Certainly nothing in her experience at the Lake William Schoolhouse had prepared her for this sort of task; her teachers, though earnest and diligent, had presented mathematics to the children as a series of recipes of the kind one might find written on the side of a box of dried pasta, which is to say: ingredients you put together on the stovetop without understanding the resulting meal.
 
 "I don't know," replied Glynis. "Let me take another look at what we've got so far." She began writing as she spoke: "One stone has one combination. Two, two. Three, six. And four? Twenty-four. I still don't have it. Maybe we can do another one? No, that would be much too big, I think," she added after a half-second's pause.
 
@@ -1530,7 +1528,7 @@ Glynis examined the paper again, her brow knitted in concentration. Certainly no
 | 3 |  6 | 1, 2, 3    |
 | 4 | 24 | 1, 2, 3, 4 |
 
-"/Even so/," thought Glynis, "/what are recipes if not patterns? Ways of doing things to get a certain result, like a chicken pot pie. So the question is: how do I make this particular chicken pot pie/?"
+/Even so/, thought Glynis, /what are recipes if not patterns? Ways of doing things to get a certain result, like a chicken pot pie. So the question is: how do I make this particular chicken pot pie?/
 
 Glynis took up the stylus and, in an empty corner of the backside of her single sheet, wrote this little chart:
 
@@ -1567,9 +1565,9 @@ Peering down each column of numbers, she wondered how to write the recipe. "/Sin
 
 "I have it, Meldrake! Look!" she cried in triumph, grinning broadly as she showed Meldrake the scribbles which contained the answer, or at least the road leading to it.
 
-"You've got it, Avis. Very nice work there, very nice! You've uncovered the mechanics of the operation, its bones, if you will. The rest is simply application, which is nearly a triviality best left as an exercise for the reader, I'm afraid. Nonetheless, can you extend your results to answer the question at hand?" All this Meldrake said in a voice that could scarce contain his delight, so filled with joy was he at his pupil revealing an insight of her own. It was, he hoped, a precursor of more to come.
+"You've got it, Avis. Very nice work there, very nice! You've uncovered the mechanics of the operation, its bones, if you will. The rest is simply application, which is a triviality best left as an exercise for the reader, I'm afraid. Nonetheless, can you extend your results to answer the question at hand?" All this Meldrake said in a voice that could scarce contain his delight, so happy was he with his pupil for having an insight of her own. It was, he hoped, a sign of more to come.
 
-"Well, according to my chart, if we were to add another stone to our current total, we'd have five times twenty-four, which is . . ." (and here Glynis returned to her worksheet to perform the relevant calculation) ". . . one hundred and twenty combinations! It's a good thing, we stopped doing everything by hand just when we did, Meldrake."
+"Well, according to my chart, if we were to add another stone to our current total, we'd have five times twenty-four, which is . . ." (and here Glynis returned to her worksheet to perform the relevant calculation) ". . . one hundred and twenty combinations! It's a good thing we stopped doing everything by hand just when we did, Meldrake."
 
 "Yes it is," replied the raven. "I'm afraid I'm much too lazy to do all of that shifting-stones-around business. Though of course," he added, "true laziness is one of the Numbermaster's Great Virtues. Laziness, and the unwillingness to keep doing the same work over and over again, is what drives one to seek out a general solution. As such, you can see that we still have a bit further to go before we can call this problem solved."
 
@@ -1591,11 +1589,11 @@ Glynis returned to her worksheet, which was by now so covered in marks that she 
 | 7 |   5040 | (7 x 700) + (7 x 20)  |
 | 8 | 40,320 | (8 x 5000) + (8 x 40) |
 
-(As it turned out, Glynis was quite good at multiplications involving largish numbers, thanks to her teachers' rigorous schedule of drills. This marked the first time she'd used it to solve a problem where the need for multiplication wasn't baldly obvious to her.)
+As it turned out, Glynis was quite good at multiplications involving largish numbers, thanks to her teachers' rigorous schedule of drills. This marked the first time she'd used it to solve a problem where the need for multiplication wasn't baldly obvious to her.
 
-"40,320," was Glynis's response post-scribbling. "That is the answer."
+"40,320," was Glynis's response post-scribbling.
 
-"Yes, that sounds about right," replied the raven. "Forty-thousand combinations, and this from only eight items, which in this case, are letters. Imagine instead we were faced with dozens of items to choose from, such as this: You are presented with a glass jar, and placed before a great hall, one with many doors. All of the doors are locked, and inside the jar are hundreds of small keys. Your adversary --"
+"Yes, that sounds about right," replied the raven. "Forty-thousand combinations, and this from only eight items, in this case letters. Imagine instead that you were faced with dozens of items to choose from! Here's an example: You are presented with a glass jar, and deposited inside a great hall, with many doors. All of the doors are locked, and inside the jar are hundreds of small keys. Your adversary--"
 
 "Meldrake!"
 
@@ -1603,21 +1601,21 @@ Glynis returned to her worksheet, which was by now so covered in marks that she 
 
 "No more riddles for today, please."
 
-"Well, I should say that these are hardly riddles, my dear Avis! They are in fact just the sorts of Problems which the Numbermaster is faced with on any given day of his life. Nonetheless, your point is well-taken. Perhaps it is time we were off, anyhow."
+"Well, I should say that these are hardly riddles, my dear Avis! They are in fact just the sorts of bread-and-butter Problems which the Numbermaster is faced with on any given day of his life. Nonetheless, your point is well-taken. Perhaps it is time we were off, anyhow."
 
 "Off to where?" asked Glynis.
 
 "Grant me my mysteries! Poke, prod, and question as you will, but grant me my mysteries. Besides which, you shall know soon enough, since it is you who must carry yourself there, under your own wing's power," said Meldrake.
 
-"We're flying, then," said Glynis (more to herself than Meldrake) in a matter-of-fact sort of way, a manner that might have surprised an earlier, earth-bound Glynis.
+"We're flying, then," said Glynis (more to herself than Meldrake) in a matter-of-fact sort of way, a way that might have surprised an earlier, earth-bound Glynis.
 
-"Indeed," replied the raven Meldrake. "We haven't time for any more of this `let's stroll about the countryside taking our time and smelling the flowers whilst ouxr Adversary gathers his forces' business. Though it is a nice business to be in, if one has the time," he added.
+"Indeed," replied the raven Meldrake. "How else should birds travel? We haven't time for any more of this 'let's stroll about the countryside taking our time and smelling the flowers whilst our Adversary gathers his forces' business. Though it is a nice business to be in, if one has the time," he added.
 
-And with that Meldrake unfurled his great, shaggy wings from his equally shaggy body, and began his ungainly run across the meadow they had been resting in. This run was one Glynis hadn't seen before, though it was clearly a way in which to gather speed for takeoff.
+And with that Meldrake unfurled his shaggy wings from his equally shaggy body, and began to lumber across the meadow they had been resting in. This run was one Glynis hadn't seen before; it was clearly a way for the creature to gather speed for takeoff.
 
 And so Meldrake did take off, and his wings held him up, as they had so many times before, and in fact they carried him rather nicely for a bird of his size, Glynis thought.
 
-It was then that she realized that the black creature which was the raven was now becoming a mere dot against the sky, something very far away indeed. Thus she looked to her own bones and asked them once more to lengthen and grow hollow, and she asked her flesh to sprout its feathers, and it did that too, until she was in fact once again Avis Whitehawk. She leapt into the air after Meldrake with all the urgency of one who is being left behind.
+It was then that she realized that the black creature was now becoming a mere dot against the sky, something very far away indeed. Thus she looked to her own bones and asked them once more to lengthen and grow hollow, and she asked her flesh to sprout feathers, and it did that too, until she was once again Avis Whitehawk. She leapt into the air after Meldrake with all the urgency of one who is being left behind.
 
 ---
 
@@ -1637,4 +1635,4 @@ The truth, however, requires us to travel into and through some rather darker pl
 
 * ABOUT THE AUTHOR
 
-R. M. Loveland lives with his wife in in High Falls, New York. He maintains a blog at http://jelec.wordpress.com.
+R. M. Loveland lives with his wife in in Upstate New York. He maintains a blog at http://jelec.wordpress.com.
