@@ -319,12 +319,15 @@ sharpened, made sharp, sharp, having been sharpened
 
 * 2. BREATH Of JELLECK, BREATH OF COLD
 ** RETCON
-   At the end of the first book, it seems that M, G, and J are at the
+
+   1. At the end of the first book, it seems that M, G, and J are at the
    outskirts of town when they encounter the hawk and
    badger. HOWEVER: at the beginning of book 2, John is described as
    travelling through a rather large transitional area of fields,
    cottages, etc. This must be made to gibe somehow with the earlier
    work.
+
+   2. Lake William only has sherriffs, but you've just referred to ``Chief" Stone.
 
 ** Creatures of Speech
    First talked about here: [[file:jelec-02.org::*THE%20SMALLWOOD][THE SMALLWOOD - Arctoryx]]
