@@ -424,7 +424,7 @@ And what's more, I found myself standing in the hallway outside my cell door.
 
 * LITTLE SISTERS AND THEIR GAMES
 
-Marla McGinty awoke in the middle of the night to the sound of her mother's voice downstairs. Despite the late hour, Mrs. McGinty was speaking rather loudly to someone on the telephone (?). Marla knew that Glynis still hadn't come home when it was time for her to go to bed, but that had been the plan, hadn't it? Marla's usual bedtime of 8:30 had come and gone, and the plan had been for Glynis and John to be picked up at the hotel by Mrs. Sharp, John's mother.
+Marla McGinty awoke in the middle of the night to the sound of her mother's voice downstairs. Despite the late hour, Mrs. McGinty was speaking rather loudly to someone on the telephone. Marla knew that Glynis still hadn't come home when it was time for her to go to bed, but that had been the plan, hadn't it? Marla's usual bedtime of 8:30 had come and gone, and the plan had been for Glynis and John to be picked up at the hotel by Mrs. Sharp, John's mother.
 
 Apparently that hadn't happened, and now it was late in the evening (or early in the morning? Marla couldn't tell), and Mrs. McGinty was clearly upset.
 
@@ -520,7 +520,15 @@ Marla was second to go, between Mrs. Sharp and her mother. The light from Mrs. S
 
 From far inside the room (cavern?) beneath came a distant "Hello..." that Marla assumed must be this Brian person. Glynis had mentioned him once or twice, but all Marla knew about him was that he worked the front desk at the hotel, and Glynis had said he was friendly. Beyond that, Marla knew nothing. It /was/ nice of him to help out with trying to find Glynis, though. Or so thought Marla.
 
-Another "Hello.." sounded, this one closer than the last. And again: "Hello!" Ten seconds later Marla and the two women heard footfalls on the floor beneath them, and finally Brian called up to them, this time close enough to hear. "Hello! Bethany? Is that you? I'm coming up," he added, and they finally saw a brown-haired head poke up through the trap door, followed by a man dressed in what appeared to be a formerly white dress shirt and loosened tie.
+Another "Hello.." sounded, this one closer than the last. And again: "Hello!" Ten seconds later Marla and the two women heard footfalls on the floor beneath them, and finally Brian called up to them, this time close enough to hear. "Hello! Bethany? Is that you? I'm coming up," he added, and they finally saw a brown-haired head poke up through the trap door, followed by a man dressed in what appeared to be a formerly white dress shirt and loosened tie. His face was streaked with dirt, and he looked rather tired, Marla thought, but he smiled a small smile when he saw Mrs. Sharp, and then Marla and Mrs. McGinty.
+
+"Hello Brian. Have you had any luck?" This time it was Mrs. McGinty's turn to speak.
+
+"No, I'm afraid not, Mrs. McGinty. I've been over and under and around almost everything down there. At least everything I know about," he added.
+
+"That's why we're here," replied Marla's mother. "I can only imagine they're lost somewhere in some strange corner of this place, and we're going to find it."
+
+"Follow me, then." Brian could tell that Mrs. McGinty was determined, and he didn't waste time with more talk. Instead he led them back to the trapdoor. "I'll go down first and hold the ladder for the rest of you. I trust you've got flashlights?" Mrs. McGinty nodded that they did. "Ok. The basement storage is basically stuffed top to bottom with furniture, but there are rows for walking. My only guess is that they discovered a secret room or a hole in the wall and decided to go exploring. So I guess we should keep our eyes open for any little doors or passageways around the outer walls, or for that matter in the floor. Though I think we are in the true basement now; I can't imagine that there's very far to go from here, but then again I haven't found them have I?" This last he said with a sort of grimace of pain, and without further comment he stepped down onto the ladder into the gloom of the room below.
 
 * THE SMALLWOOD
 
@@ -789,7 +797,7 @@ So, the creature was delivered to the surface where we stood, if creature it was
 
 And then the thing spoke.
 
-* Marla loose in the realm (?)
+* MARLA LOOSE IN THE REALM
 * THE ADVERSARY IN THE PALE MOONLIGHT
 
   It had been some minutes now since John had realized his loneliness. There was no one around at all now, it seemed. Suddenly the red glow of the fires had grown darker, deeper somehow, with the knowledge that he was alone. Still and all, John was a child of the wooded North, and he knew that despite any possibly dangerous creatures he might encounter, he was safer -- not to mention warmer! -- within the hall than without. Or at least that's what his experiences with the so-called ``wild" animals from his own place and time had taught him. There was no reason to believe that the same laws of behavior would hold here, and yet one knows what one knows -- or perhaps one cleaves to the rocks upon which one has just crashed one's boat. In any event, John had, in the moments since his captor-guides' disappearance, entered the great hall and begun to explore, for lack of better things to do.
@@ -847,7 +855,9 @@ This was not the first time John would say those words.
 #+end_src
  
 * THE HERMIT AND HIS MOUNTAIN
+
 * CREATURES OF SPEECH, CREATURES OF SILENCE
+
 * THE BREATH OF JELEC
 
 * APPENDIX A: CONCERNING HEXADIC AND DYADIC NUMBERS

@@ -4,6 +4,7 @@
 
 * 1. JELLECK, THE WHITE BEAR, OR, BEWARE AN ENCOUNTER WITH A RAVEN AND HIS FRIENDS
 ** MAGIC ITEM CHECKLIST
+
 1. TOKEN OF YOUR FAMILY LINE
    Grandmother McGinty's ruby brooch.
 2. BOOK WHOSE WISDOM YOU LIVE BY
@@ -12,44 +13,77 @@
    A poem, naturally, which is the mother of song.
 
 ** RETCON
+
    1.  FIXED hotel manager name inconsistent
    2.  FIXED ruby v. diamond brooch
-   3.  scoville jeweler name inconsistent: patrick -> richard
-   4.  jeweler: neville -> scoville
-   5.  there were 12 previous visitors -- what of them?
-   6.  expand connection to Mrs. St. Claire, the town librarian
-   7.  expand on herbcraft -- it's had no mention other than introduction
-   8.  M. mentions English, but there is no England here (1797)
-   9.  M. mentions "half-hour" walk -- do they use hours? (1830)
+   3.  FIXED scoville jeweler name inconsistent: patrick -> richard
+   4.  FIXED jeweler: neville -> scoville
+   8.  FIXED M. mentions English, but there is no England here (1797)
+
+       See the explanation for the use of the word ``geometry'' below.
+
+   9.  FIXED M. mentions "half-hour" walk -- do they use hours? (1830)
    10. FIXED Kell calls G. by real name (2022) 
-   11. Kell refers to "geometry" -- perhaps a different name for the "study
+   11. FIXED Kell refers to "geometry" -- perhaps a different name for the "study
        of number in space" would be appropriate? (2027) 
-   12. Meldrake snaps a little at G. 'round line 2282; perhaps there should
-       be more explication? 
-   13. Can John understand what's being said by Starling et al. in the
+
+       Since all of the language used in this book is a translation
+       via Glynis' understanding, it shouldn't be too surprising that
+       her mind would translate the speech of these various
+       characters, etc. into something she (we?) might understand more
+       easily.
+
+   12. FIXED Meldrake snaps a little at G. 'round line 2282; perhaps there should
+       be more explication?
+
+       No. ``Wizards are subtle and quick to anger'', and all that.
+
+   13. FIXED Can John understand what's being said by Starling et al. in the
        grove? (2347)
-   14. "geometry" is referenced once again by Meldrake (2431)
-   15. Silverbird asks Meldrake to compose a short verse on Friendship,
-       and to share them with as many as possible (2448)
-   16. FIXED John refers to G. by name (2493) 
-   17. Meldrake uses a brass door-knocker; however, brass might be out of
+
+       This has been punted to Book Two, where it will be referenced
+       and explained (magnificently, I'm sure).
+
+   14. FIXED "geometry" is referenced once again by Meldrake (2431)
+
+       See above re: ``geometry''.
+
+   16. FIXED John refers to G. by name (2493)
+
+   17. FIXED Meldrake uses a brass door-knocker; however, brass might be out of
        place in this setting (2714)
-   18. The children supposedly are surrounded by farms as far as the eye
+       
+       We'll suppose that Glynis sees it as brass, and we are
+       therefore re-using her understanding of what the material is,
+       which may be imperfect.
+
+   18. FIXED The children supposedly are surrounded by farms as far as the eye
        can see, but just before that rolling hills and oaks and maples
        are described. Clarify. (~2792)
-   19. M. makes reference to Byzantium. ??? (2832)
-   20. Meldrake's house is the "Ravenslair." I'd like a better name. (2896)
-   21. Hawk which attacks M. has "talon and claw" at his command; aren't
+
+       The language says ``as far as they could see in either
+       direction'', meaning across the river (East and
+       West). Therefore, it's fine.
+
+   19. FIXED M. makes reference to Byzantium. ??? (2832)
+
+       We'll suspend our disbelief on this one, for the sake of both
+       meter and mystery.
+
+   20. FIXED Meldrake's house is the "Ravenslair." I'd like a better
+       name. (2896)
+
+   21. FIXED Hawk which attacks M. has "talon and claw" at his command; aren't
        they the same thing? (2923)
-   22. Dogs in group of badgers post hawk-slaying. Do we want dogs, or
+
+   22. FIXED Dogs in group of badgers post hawk-slaying. Do we want dogs, or
        perhaps canids of another, wilder sort? (See related discussion
        below re: "Lake of Hounds" name change.) (3046)
-   23. G. avoids darts of "poisoned steel" -- I should think not, since steel has
+
+   23. FIXED G. avoids darts of "poisoned steel" -- I should think not, since steel has
        not been invented here (3068)
+
    24. FIXED Change "i.e." to the more accurate "viz." (3086)
-   25. Book Two opens with John being questioned by "Big Boy" and
-       friends, yet they make no mention of the fact that Meldrake was
-       just dropping bombs on them!
 
 ** John 15:13
 Meldrake turns once again toward the jagged peaks of the North. He
@@ -320,16 +354,28 @@ sharpened, made sharp, sharp, having been sharpened
 * 2. BREATH Of JELLECK, BREATH OF COLD
 ** RETCON
 
-   1. At the end of the first book, it seems that M, G, and J are at the
+1. At the end of the first book, it seems that M, G, and J are at the
    outskirts of town when they encounter the hawk and
    badger. HOWEVER: at the beginning of book 2, John is described as
    travelling through a rather large transitional area of fields,
    cottages, etc. This must be made to gibe somehow with the earlier
    work.
 
-   2. Lake William only has sherriffs, but you've just referred to ``Chief" Stone.
+2. Book Two opens with John being questioned by "Big Boy" and
+   friends, yet they make no mention of the fact that Meldrake was
+   just dropping bombs on them!
+
+3. Lake William only has sherriffs, but we've just referred to ``Chief" Stone.
+
+4. In the last book, when John was asked a question by the Starling
+   King, he answered directly. Yet no mention has been made of John
+   being able to understand the animals' speech. Somehow it seems that
+   he does understand, since he's conversing with Vellus and his
+   brother at the opening of Book Two. So perhaps some mention should
+   be made...
 
 ** Creatures of Speech
+
    First talked about here: [[file:jelec-02.org::*THE%20SMALLWOOD][THE SMALLWOOD - Arctoryx]]
 
    I wonder: what did Jelec have to do with the Creatures of Silence
@@ -350,6 +396,7 @@ sharpened, made sharp, sharp, having been sharpened
    parrots (namely, the PROTECTOR, and his servant MELDRAKE).
 
 ** Honey Dragon
+
    Meldrake may be fated to die. Perhaps he should return as a golden raven?
 
 ** Where are Silverbird, the Starling King, and Kell?
@@ -360,6 +407,7 @@ sharpened, made sharp, sharp, having been sharpened
    gone...
 
 ** Math Problems/Discussions
+
    First, see the notes for Book 1 above. There will be some leftover
    tidbits there.
 
@@ -416,7 +464,25 @@ sharpened, made sharp, sharp, having been sharpened
    - The Breath of Jelec
      0
 
+** Things still to be done (from the first book)
+
+   there were 12 previous visitors -- what of them?
+   expand connection to Mrs. St. Claire, the town librarian
+   expand on herbcraft -- it's had no mention other than introduction
+
+   Silverbird asks Meldrake to compose a short verse on Friendship,
+   and to share them with as many as possible
+   
 ** Random Ideas, Notes, &c.
+
+   When Marla enters the basement of the Hotel Skidmore, should she
+   see the same stained glass image that Glynis saw? Or should it be
+   something different? Perhaps the image was meant for Marla all
+   along? Or perhaps it truly was meant for Glynis, and only when
+   Redcloth failed to gain Glynis to his cause did the portal become
+   available to Marla? Or does it have to do with their family line
+   somehow?
+
 *** Things to Clean up before Publication
    
 1. Redcloth's tower seems to have become the ``Dark Tower." Not the best name.
