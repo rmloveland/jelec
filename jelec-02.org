@@ -530,7 +530,7 @@ Another "Hello.." sounded, this one closer than the last. And again: "Hello!" Te
 
 "Follow me, then." Brian could tell that Mrs. McGinty was determined, and he didn't waste time with more talk. Instead he led them back to the trapdoor. "I'll go down first and hold the ladder for the rest of you. I trust you've got flashlights?" Mrs. McGinty nodded that they did. "Ok. The basement storage is basically stuffed top to bottom with furniture, but there are rows for walking. My only guess is that they discovered a secret room or a hole in the wall and decided to go exploring. So I guess we should keep our eyes open for any little doors or passageways around the outer walls, or for that matter in the floor. Though I think we are in the true basement now; I can't imagine that there's very far to go from here, but then again I haven't found them have I?" This last he said with a sort of grimace of pain, and without further comment he stepped down onto the ladder into the gloom of the room below.
 
-	*				*				*
+	*		*		*
 
 Marla's eyes were closed, but she could tell that it was bright
 outside. The brightness of whatever lay behind her eyelids was
@@ -545,14 +545,14 @@ Sharp, and Brian the front desk clerk. What had she been doing before
 the world went dark? She remembered a dark room with lots of
 furniture, and then nothing.
 
-She opened her eyes just a bit. They focussed on blades of grass, and
+She opened her eyes just a bit. They focused on blades of grass, and
 she could feel grass against her face. She looked up towards the sky
 and saw that she was beneath a large tree.
 
 Water dripped down from the tree branches onto her face. She noticed
 for the first time that her hair and clothes were wet. The brightness
 wasn't so bright after all, as it turned out. Although compared to the
-hotel basement where she'd been seeming moments before, almost
+hotel basement where she'd been just moments before, almost
 anything was bright.
 
 ``Hello? Is anyone there?'' Now that Marla was looking around her a
@@ -591,7 +591,7 @@ Marla responded to the voice by crawling out from under the edge of
 the tree and walking in the opposite direction, away from the
 clearing.
 
-Of course, this only took her further into the forest...
+Of course, this only took her further into the dark forest.
 
 <Wait! That way lies danger, and foes, and almost-certain doom.>
 
@@ -603,23 +603,25 @@ nearly a shout, for Marla was on her way past annoyance to becoming
 very cross indeed.
 
 %Indeed. You are right to suspect a stranger in the cold rain. But the
-way you travel leads nowhere, or at least, deeper into the forest,
+way you travel leads nowhere, or at least, deeper into the forest, and
 deeper into wet and cold. You'll find no respite there, and I am
-merely trying to warn and help you. %
+merely trying to warn and help you.%
 
 Throughout all this, Marla hadn't ceased her brisk walk away from the
-clearing, and
-
-Marla realized that the volume of the voice hadn't changed, even
-though she was drawing further away from the clearing.
-
+clearing, and she realized that the volume of the stranger's voice
+hadn't changed, even though she was drawing further and further away.
 She decided to try a test. She would only whisper or speak at a low
-volume. Surely this person in the clearing wouldn't be able to hear
+volume.  Surely this person in the clearing wouldn't be able to hear
 her then?
 
 ``I might be able to go with you, if only I knew you could be
-trusted.'' It must have been very cold and wet indeed, for Marla to be
-able to say that!
+trusted.'' Marla said this last so quietly she could barely hear
+herself. It must have been very cold and wet indeed, for Marla to be
+able to say that!  And against her mother's prohibition on talking to
+strangers, even. But cold rain has a power over a person, especially
+having got into your hair and all of your clothes.
+
+To her surprise, the voice responded.
 
 * THE SMALLWOOD
 
