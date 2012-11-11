@@ -670,7 +670,7 @@ wearing a dress. How this happened, she couldn't guess. It was a green
 dress, but to say it was a green dress is to say nothing about it at
 all, just as saying that the leaves of trees are green is to say
 nothing at all, since there are rich, clean-smelling greens, bright
-greens that are almost yellow, and are in fact shot through with veins
+greens that are almost yellow, or are in fact shot through with veins
 of yellow like gold, deep greens near to black, which is not the black
 of death or misery but the greenish black of comfort, of a night spent
 deep in the woods, with no creatures around and the stars high and the
@@ -680,6 +680,14 @@ So it was with Marla's new dress.
 
 ``I'm wearing an elven princess' dress,
 How this happened, I couldn't guess!''
+
+Marla hadn't meant to say that, and was slightly surprised that she
+had. Her interlocutor was not surprised, however.
+
+%Welcome, and well-met. The dress is not an elven princess's, though
+itis fine enough to be. And perhaps it will be, before its day is
+done.What is your name? I shall tell you mine first -- it is
+Redcloth.%
 
 * THE SMALLWOOD
 
