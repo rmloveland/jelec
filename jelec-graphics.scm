@@ -20,3 +20,6 @@
 	 (vertex-left (pt (pt:x vertex-right)
 			  (- (pt:y vertex-right)))))
     (values vertex-top vertex-right vertex-left)))
+
+;; call like so:
+;; (receive (a b c) (equilateral-triangle-points (pt 100 100) 80) (line a b c))
