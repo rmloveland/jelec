@@ -1,16 +1,16 @@
-\input texinfo   @c -*-texinfo-*-
+\input texinfo   @c -*-Texinfo-*-
 @c %**start of header
 @setfilename jelec-01.info
 @settitle Jelec, the White Bear
 @c %**end of header
 
 @copying
-Copyright @copyright{} 2011-2013 R. M. Loveland
+@copyright{} 2011-2013 R. M. Loveland
 @end copying
 
 @titlepage
 @title Jelec, the White Bear
-@subtitle or, Beware an Encounter with a Raven and his Friends
+@subtitle @emph{or, Beware an Encounter with a Raven and his Friends}
 @author R. M. Loveland
 
 @page
@@ -80,7 +80,7 @@ It was to this small island that Glynis rode with her mother and her
 sister Marla two or three mornings each week, leaving the house for the
 drive over the mountains into the town, which was also called Lake
 William. It was the sort of town that people who lived in cities went to
-when they wanted to "get away from it all," a small place on the shore
+when they wanted to ``get away from it all," a small place on the shore
 of a lake in the mountains. Glynis and her family loved it, and they
 enjoyed a quiet life there.
 
@@ -92,35 +92,35 @@ so she was doing just that. It was a cool, clear morning in early June.
 The dew was on the grass, and Mr. Stephens, the hotel manager, was
 feeling ambitious again.
 
-"Oh, Glynis!" A voice called from behind a particularly overstuffed
+``Oh, Glynis!'' A voice called from behind a particularly overstuffed
 laundry cart, rousing Glynis from her daydreams about sailing ships and
 white towel seas.
 
-"Yes, Mr. Stephens. I'm back here with the towels."
+``Yes, Mr. Stephens. I'm back here with the towels.''
 
-"Ah, there you are." He emerged from behind a small mountain of
+``Ah, there you are." He emerged from behind a small mountain of
 pilowcases, clutching his ever-present black notebook, which he turned
-to as Glynis looked on. "Where was I? Oh yes, page forty-two: "Special
+to as Glynis looked on. ``Where was I? Oh yes, page forty-two: "Special
 Projects." Yes, well, since this is your first summer here at the
 Sycamore, you probably don't know about this, but every year I create
 one or two of what I like to call 'Special Projects,' that need to be
 done above and beyond the regular work we do. Things that otherwise slip
 through the cracks."
 
-"Slip through the cracks?" Glynis had never heard this expression
+``Slip through the cracks?" Glynis had never heard this expression
 before, and she wondered what her mother would think of it. Mrs. McGinty
 was not the sort of person to allow slipperiness, cracking
 (wise-or-otherwise), or any combination thereof.
 
-"Oh, you know, the sort of thing which needs doing but never seems to
+``Oh, you know, the sort of thing which needs doing but never seems to
 get done. Usually we're so busy with taking care of our guests that we
 don't have time for much else, so I schedule these things in as and when
 I can. Anyway, just go and see Brian at the front desk; he'll give you
 all the details." And with that, he turned on his heel and left as
 quickly as he'd arrived.
 
-"What a strange man," Glynis thought as she continued folding her way
-through her ocean of white towels. "Just buzzing in one moment, and out
+``What a strange man," Glynis thought as she continued folding her way
+through her ocean of white towels. ``Just buzzing in one moment, and out
 the next! I suppose a hotel manager must have to have a lot of energy,
 especially at a big place like this. I wonder what sort of "special"
 this project will be? I guess I'll find out soon enough."
@@ -137,24 +137,24 @@ had a smile and a kind word to share, and he would often let her sit
 behind the front desk with him while she waited for her mother to
 arrive.
 
-"Hey Brian!" she called, happy to see her friend. Since there were no
+``Hey Brian!" she called, happy to see her friend. Since there were no
 guests at the desk, she didn't have to worry about formalities.
 
-"Hey yourself, kiddo! What's the latest news from the laundry dungeon?"
+``Hey yourself, kiddo! What's the latest news from the laundry dungeon?"
 /Yes/, Glynis thought, /this is definitely a guest-free environment/.
 
-"Not too much news. White towels on and off all day today, with
+``Not too much news. White towels on and off all day today, with
 tomorrow's forecast calling for a ninety-five percent chance of more
 white towels. But that's not all, Brian."
 
-"Oh no?"
+``Oh no?"
 
-"No. Mr. Stephens came to see me this morning, and he said he had a
+``No. Mr. Stephens came to see me this morning, and he said he had a
 'Special Project' for me, and that I should come and see you about it. I
 guess it's something he puts together every year?"
 
-"Oh Glynis, you are a lucky girl, aren't you?" he said with a grin.
-"Follow me then, you poor soul," he added, grabbing a flashlight from
+``Oh Glynis, you are a lucky girl, aren't you?" he said with a grin.
+``Follow me then, you poor soul," he added, grabbing a flashlight from
 under the desk.
 
 And so she did. They left the lobby and followed the hall to the North
@@ -163,8 +163,8 @@ building and could go no further, Brian turned and, after some fumbling
 with the lock, went through a narrow door that opened onto a dark
 stairwell.
 
-"This is an old part of the hotel," he explained, though it seemed clear
-enough to Glynis that it was. "We've gone through several renovations
+``This is an old part of the hotel," he explained, though it seemed clear
+enough to Glynis that it was. ``We've gone through several renovations
 over the years, and you can probably guess that these stairs aren't
 legal under the building codes we have now. It's hard to believe that
 this used to be how people got around inside the hotel. Can you imagine
@@ -197,24 +197,24 @@ the place, which she was just beginning to notice. It was musty, and
 gave the impression of a place which hadn't been disturbed in a very
 long time indeed.
 
-"Glynis, can you hold the light for me? I need to open the cellar door."
-Brian was fumbling with his keys again. "I need to get at the fuse-box
+``Glynis, can you hold the light for me? I need to open the cellar door."
+Brian was fumbling with his keys again. ``I need to get at the fuse-box
 and get these lights working again before any work can begin, but I just
 wanted to give you a quick tour."  And with that he bent down, fumbled a
 bit with a lock and latch, and lifted two large sections of the wood
 floor, first one and then the other. Together they opened on hinges like
 a pair of rusty wings, revealing a passage underground.
 
-"This is the deepest part of the building, Glynis, and it's where you'll
+``This is the deepest part of the building, Glynis, and it's where you'll
 be working for the next several weeks, in addition to your regular
 duties in the laundry room. As I said, I still need to fiddle a bit with
 some fuses and bulbs to make things habitable, but once I've done that,
 you should be able to come and go as you please."
 
-"That's all very nice, Brian, but what is it I'm supposed to be doing
+``That's all very nice, Brian, but what is it I'm supposed to be doing
 down here? You still haven't told me."
 
-"Ah well, now comes the magic bit. Take this flashlight and go over to
+``Ah well, now comes the magic bit. Take this flashlight and go over to
 the edge of that opening there. Be careful not to fall in, because there
 aren't any stairs, so we'll need to get you a ladder. Now crouch down
 and shine your light into that big hole in the floor, and tell me what
@@ -234,21 +234,21 @@ all.
 She knew right then that she couldn't wait for another visit to see what
 was there; she had to start exploring it right away.
 
-"Brian, you said there's no ladder yet, but I do so want to have a quick
+``Brian, you said there's no ladder yet, but I do so want to have a quick
 look around, now that we're all the way down here. Is there any way you
 can lower me down for a quick peek?"
 
-"I don't know, Glynis. Your shift is almost up," he said, looking up
+``I don't know, Glynis. Your shift is almost up," he said, looking up
 from his watch.
 
-"I'll be in and out before you know it. Please?" She put on her best
+``I'll be in and out before you know it. Please?" She put on her best
 approximation of an `aren't I a nice young girl not to mention
 completely trustworthy at all times' face. Brian was helpless against
-it, or very nearly so. "All right, all right --but it's a quarter 'til
+it, or very nearly so. ``All right, all right ---but it's a quarter 'til
 twelve already, so no dilly-dallying, O.K.?"
 
-"O.K." She tried not to grin too broadly, lest he should change his
-mind. "Five minutes or less, on my honor as an employee of this fine
+``O.K." She tried not to grin too broadly, lest he should change his
+mind. ``Five minutes or less, on my honor as an employee of this fine
 hotel."
 
 Brian had to smile and shake his head at that, and then he turned and
@@ -258,14 +258,14 @@ and dusty bookshelves, he emerged from behind an eight-foot dry sink
 with a tallish stepladder in hand. A bit more digging produced some
 white rope, a former clothesline probably, and they were ready.
 
-"So here's the plan," he said as he began tying one end of the rope to
-the top of the ladder. "I'll lower the stepladder onto the floor with
+``So here's the plan," he said as he began tying one end of the rope to
+the top of the ladder. ``I'll lower the stepladder onto the floor with
 the rope and, if it holds, I'll lower you down onto it, and you can walk
 from there. I'll stay up here, and try to preserve my last clean shirt,
 that is unless you need me for anything. Either way, you've got five
 minutes and then we go, no questions asked. Got it?"
 
-"Got it."
+``Got it."
 
 And so Brian did as he'd planned, lowering the stepladder into the
 cavern beneath them. When he'd finished, Glynis came over and, with his
@@ -273,10 +273,10 @@ help, stepped down onto the ladder's top step. It was surprisingly
 stable, and she turned to Brian to gather their only flashlight before
 leaving him there in the darkness.
 
-"Four minutes, forty seconds," said Brian, half-smiling, though Glynis
+``Four minutes, forty seconds," said Brian, half-smiling, though Glynis
 couldn't see it.
 
-"I'll be right back."
+``I'll be right back."
 
 Glynis climbed down the stepladder with no surprises and found herself
 surrounded by all of the wonderful and strange things she'd only
@@ -328,12 +328,12 @@ In her musings over the mysterious constellation, her eyes wandered over
 the entire window, not really settling on any feature in particular,
 until she noticed a small, uneven rectangle hidden in the gnarled lines
 of the tree's trunk. Though it was quite small, she could make out the
-Roman numerals inside: XIII. Thirteen. "What does that mean?" she
-wondered to herself. "Are there thirteen of these windows? By the same
+Roman numerals inside: XIII. Thirteen. ``What does that mean?" she
+wondered to herself. ``Are there thirteen of these windows? By the same
 artist, or many?  Maybe there are more of them down here," she
 speculated aloud. Her curiosity piqued, she took an oath, or something
 she thought very much like it, in the sense that an oath is a promise to
-yourself; her oath went like this: "On my honor as Glynis Helen McGinty,
+yourself; her oath went like this: ``On my honor as Glynis Helen McGinty,
 I will discover the secrets of this window of stained glass, not least
 among them the name of the secret constellation and the mysteries of the
 many-colored tree, numbered thirteen. I hereby take, of my own free
@@ -364,22 +364,22 @@ twinkling and dancing merrily in the night sky. Far above, shining down
 on all, was the moon; though faceless now, and cold, it glowed
 beautifully nonetheless.
 
-"Where am I?" she wondered quietly. "What is this place?" She was
+``Where am I?" she wondered quietly. ``What is this place?" She was
 surprised to find that she felt no fear, despite her strange journey
 (which had mostly involved standing in one place, but many journeys are
 like that, as any child can tell you).
 
-"Wondering what to do next, are we?" The voice carried down out of the
+``Wondering what to do next, are we?" The voice carried down out of the
 tree, raspy and sharp.
 
-It startled Glynis. "Who's there? Come on, show yourself. Don't be
+It startled Glynis. ``Who's there? Come on, show yourself. Don't be
 afraid, I'm not going to hurt you."
 
-"Strange to think that you could hurt me, child. I am older than any
+``Strange to think that you could hurt me, child. I am older than any
 that walk your world. You'd do well to rein in your tongue a little
-here, I think. This --"
+here, I think. This ---"
 
-"-- And where is here, pray tell, O Kind Voice that Lives in a Tree? And
+``--- And where is here, pray tell, O Kind Voice that Lives in a Tree? And
 who are you?"
 
 Glynis knew it was rude to interrupt people (if this was indeed a
@@ -387,7 +387,7 @@ person), but she'd listened to enough of her mother's lectures to know
 that sometimes it's best to stop long speeches before they get started.
 
 The voice did not respond to her question. Afraid she had driven it away
-entirely, Glynis tried to apologize. "I'm sorry, kind voice. I didn't
+entirely, Glynis tried to apologize. ``I'm sorry, kind voice. I didn't
 mean to offend you. I'm lost, that's all. I don't know where I am."
 
 The branches above her head began to shake, a little at first, and then
@@ -395,7 +395,7 @@ a lot. The shaking grew violent, and she began to fear for her poor head
 as small branches began falling from the tree to the grass all around
 her.
 
-The voice returned, this time much deeper and louder. "That you don't
+The voice returned, this time much deeper and louder. ``That you don't
 know where you are, that much is clear. This realm does not forgive
 ignorance so easily, child. If you would travel these lands, you must
 learn to have a care for your speech, for words are powerful things
@@ -414,28 +414,28 @@ from the tree's shadow and Glynis gasped: it was a giant, ragged bird,
 oilblack, with a twisted, ragged beak. The creature just stood there a
 moment, half-opening and then closing its wings, which were enormous,
 the biggest Glynis had ever seen, even on television. Overcoming her
-fear, Glynis asked, "Um, pardon me, Mr. Bird, sir, but I don't know
+fear, Glynis asked, ``Um, pardon me, Mr. Bird, sir, but I don't know
 where I am, and I've grown a little afraid. Yes, I'm afraid I'm well and
 truly lost."
 
-"Finally, you begin to talk sense," the creature croaked, not entirely
-unpleasantly. "Now we can move on to the next stage of our encounter."
+``Finally, you begin to talk sense," the creature croaked, not entirely
+unpleasantly. ``Now we can move on to the next stage of our encounter."
 
 @node HONEY DRAGON
 @chapter HONEY DRAGON
 
-"The first thing you must know about this realm," the raven began, "is
+``The first thing you must know about this realm," the raven began, ``is
 that words have power here. They call things into being, and at other
 times can destroy, and one cannot always know which beforehand. One must
 speak carefully here, or not at all.
 
 "A special case, and a particularly perilous one at that, is that of
-names. Knowing the name of a thing -- animal, mineral or vegetable --
+names. Knowing the name of a thing --- animal, mineral or vegetable ---
 will grant you powers over that thing; but in this you must be careful
 as well, for one cannot know in advance to what extent those powers will
 contain the will of the creature, tree or what-have-you.
 
-"That is why it is especially important never to reveal your true name
+``That is why it is especially important never to reveal your true name
 to anyone here, or any thing, even a tree or a stone that sits by a
 river. There are conjured in this place all manner of beings, some with
 minds of their own, and some without. You will often not know which
@@ -443,41 +443,41 @@ until it is too late, so it is best to watch your tongue."
 
 Hearing this, Glynis's first instinct was simply not to speak at all.
 But being lost leaves one little choice in the matter, if one desires to
-find one's way home. "This is a very strange place, Mr. Bird, sir. I
+find one's way home. ``This is a very strange place, Mr. Bird, sir. I
 hope you can teach me how to speak carefully here. I'm not used to such
 things, since where I come from I can say whatever I please, for the
 most part, without creating or destroying anything."
 
-"On the contrary!" the giant creature screeched. "You are creating and
+``On the contrary!" the giant creature screeched. ``You are creating and
 destroying things all the time, merely in a careless fashion, for you
 have no Guides to show you the hidden ways. Oh, there are a few men and
 women of knowledge among you, but they are scattered across the lands,
 disregarded. Their councils, though wise, do not penetrate your Halls of
 Power."
 
-"So what are you saying? That my world has this word-magic? I've never
+``So what are you saying? That my world has this word-magic? I've never
 seen it, nor met anyone who did. It's mostly confined to stories for
 children."
 
-"What I can tell you is this," he said. "All realms are simply leaves
+``What I can tell you is this," he said. ``All realms are simply leaves
 from the same branch, or branches from the same tree, if you prefer.
 There is indeed what you call magic in each of these realms, to greater
 or lesser extent. This depends upon the knowledge of the inhabitants of
 each realm, and how it is created or destroyed by the speech uttered
 therein."
 
-"Speech has power." Her tone made it a question.
+``Speech has power." Her tone made it a question.
 
-"No. Speech is power," the raven crackled. His voice was deep and
+``No. Speech is power," the raven crackled. His voice was deep and
 reverent.
 
 Glynis nodded slowly; she might not understand why yet, but she decided
-to play along for the moment -- or until she went home, whichever came
+to play along for the moment --- or until she went home, whichever came
 first. Being thrown unwittingly into an alternate world where giant
 black birds come and speak to you has a way of building patience
 quickly, or at least a willingness to cooperate.
 
-"In that case," Glynis was speaking as carefully as she could now, "I
+``In that case," Glynis was speaking as carefully as she could now, ``I
 have two questions for you. First, you said earlier that this was, what
 did you call it? The Realm of the White Bear. What did you mean? Second,
 as names are so important, I shall need one to call you by, if we are to
@@ -487,9 +487,9 @@ along.
 
 The raven seemed pleased enough with the format of her questions, and so
 he drew himself to his full height, taking a deep breath, preparing as
-if to give a formal address. "Well said, Young Miss, or well enough for
+if to give a formal address. ``Well said, Young Miss, or well enough for
 one just come to these lands. I shall answer your questions, though in
-reverse -- for in asking, the most important query is naturally given
+reverse --- for in asking, the most important query is naturally given
 first; in answering, however, one must share that which is most valuable
 at the end, as in any good journey or tale thereof."
 
@@ -552,7 +552,7 @@ Glynis thought for a long moment. It was clear that words were important
 here, and she worried that she might not choose the right one. She
 started to get nervous, like she did when she was taking a test in
 school. Meldrake's bird's eye stare wasn't helping, either. Just then it
-came to her -- she'd just finished the seventh grade, and one of her
+came to her --- she'd just finished the seventh grade, and one of her
 favorite subjects was also the first elective she'd ever chosen: Latin.
 Back at home, she had several boxes of index cards, each one with a
 different Latin word on it. She'd spent hours writing them, and there
@@ -663,8 +663,7 @@ You'll be all right waiting for a bit, won't you?"
 
 "Don't worry about me, Mom. I've got plenty to do."
 
-
----
+@c Insert a breaking line here.
 
 The rusty Jeep Cherokee pitched and rolled from side to side as the
 leaden foot of Mrs. Jane McGinty encouraged it to ever-higher speeds
@@ -681,8 +680,7 @@ and khaki slacks was such a lead-footed hell-driver.
 
 Somehow she doubted it.
 
-
----
+@c Insert a break here.
 
 Glynis spent the morning at the hotel folding towels and, naturally, her
 mind returned to the events of the day before, and her strange visit to
@@ -716,7 +714,7 @@ Brian, for his part, was pleasant, accommodating, and efficient as ever.
 "I'm sorry for the inconvenience, Mr. Janesky," he said to one balding,
 older man. "I've dispatched our head of maintenance, George Murphy, to
 your room to look at that refrigerator. In the meantime, I can offer you
-another room if you like--"
+another room if you like---"
 
 "There's no need for that, Brian," said Mr. Janesky. "We're very happy
 with our view of the lake."
@@ -760,7 +758,7 @@ to deny the contents of one's own memory, she had to admit as she
 reached for the lock on the butterfly-shaped cavern doors . . .
 
 
----
+@c Break here.
 
 She was only too glad to have her mind's version of events confirmed by
 the sight of the great, dark tree which stood before her. A sea of mist
@@ -795,7 +793,7 @@ here, or was she sitting in the hotel basement, overtaken by a broken
 mind?
 
 Either way, she had to do something. Inaction would only make matters
-worse -- she'd learned that much from her mother. She cupped her hands
+worse --- she'd learned that much from her mother. She cupped her hands
 to her mouth to call out, and to her surprise, this is what came out:
 
 "Hail, fellow creatures of the world! I am Avis, the Ocean Bird, the
@@ -809,8 +807,8 @@ One by one, amid snarls and squawks and the flapping of great, dark
 wings, large shapes began to descend from the skies above the tree.
 Seven in all there were, great birds of Meldrake's like, though not all
 were ravens such as he. Certainly several of them had an ill-favored
-look, that seemed to Glynis to convey malice of some secret kind -- or
-perhaps not-so-secret -- she'd find out soon enough.
+look, that seemed to Glynis to convey malice of some secret kind --- or
+perhaps not-so-secret --- she'd find out soon enough.
 
 As they came down unquietly from the starry heights, they surrounded the
 tree on all sides, and Glynis with it. After a moment or two more of
@@ -881,7 +879,7 @@ unlikely grace. One by one his silent companions followed, leaving poor
 Glynis alone, afraid, with her ears hurting a bit, perhaps, but
 otherwise unharmed.
 
----
+@c Break here.
 
 Glynis sat for a long time under that tree, thinking about what had just
 happened, or nearly happened, and watching the stars turn slowly
@@ -932,7 +930,7 @@ words there as well. You noticed his telepathic abilities, I think.
 
 "As for the others, they are but shells, figments of the mind of
 Redcloth, which he projects into our shared reality. They are his only
-friends, and dangerous each in his own right -- though they are but
+friends, and dangerous each in his own right --- though they are but
 thought-stuff, created in one mind, they are not to be trifled with.
 Remember: 'Word, Thought, and Deed, all create or destroy at need.' In
 other words: they are as real as they need to be, and they can hurt you.
@@ -947,14 +945,14 @@ here. Make no mistake, Avis: he will try again."
 me?"
 
 "Why, Avis, you just don't understand yet; that much is clear. You still
-carelessly toss off words and actions as if they're of no importance--"
+carelessly toss off words and actions as if they're of no importance---"
 
 "That's not entirely true, Meldrake. If anything, I was very careful. I
 could have said more to the creature and did not, once I thought better
 of it. Give me that much credit, at least."
 
 "Credit? You still don't understand, do you? 'Avis, Ocean Bird, Portent
-of Things to Come' -- do you think you can throw words like that into
+of Things to Come' --- do you think you can throw words like that into
 the night sky, and that nothing will respond?"
 
 "The fact is, you called these scavengers down. It wasn't by chance,
@@ -1000,10 +998,10 @@ visits so far have come in the middle of night, when all manner of
 unseemly things are about, predator and prey. No time to go roving
 about, surely. Come here of a bright morning, however, and you will find
 a different forest standing here, and an altogether friendlier mood, I
-hope -- though my earlier warnings still apply, of course!"
+hope --- though my earlier warnings still apply, of course!"
 
 Meldrake rose and spread his black wings against the chill night air.
-"Until then, Avis -- fare well! I shall look for you at dawn, three days
+"Until then, Avis --- fare well! I shall look for you at dawn, three days
 hence," he cried as he rose into the starry sky above.
 
 Glynis, for her part, left without saying a word.
@@ -1021,7 +1019,7 @@ I just wanted to know how things are going on the storage basement
 cleanup."
 
 Glynis had to admit that she hadn't gotten very far yet. An hour here,
-an hour there, at the end of her shift -- yes, there is still plenty to
+an hour there, at the end of her shift --- yes, there is still plenty to
 be done, Mr. Stephens, and no, I haven't yet begun packing the antique
 lamps, though I will soon, of course.
 
@@ -1060,7 +1058,7 @@ born. Glynis had loved the boats ever since she was a small child, for
 their beauty and the piercing blast of their foghorns, and for the fact
 that no two of them were built just alike. "Wedding cake boats," she had
 called them as a little girl, and the name still fit. Each boat
-consisted of several "layers," --decks actually--, all but one of which
+consisted of several "layers," ---decks actually---, all but one of which
 were open to the air, and was driven by a great, wooden paddle wheel. At
 the height of the summer season they would run all day and into the
 night, offering guided tours of the southern end of Lake William, with
@@ -1202,7 +1200,7 @@ was never much given to small talk.
 "Oh yes. Absolutely. This brooch is shining like the day it was made.
 Brighter, in fact."
 
----
+@c Break here.
 
 The next day Glynis didn't have work, and so, after spending the morning
 doing some chores around the house for her mother, she decided to go and
@@ -1244,9 +1242,9 @@ with Mr. Stephens about a job helping Glynis.
 With those items of business tabled for the moment, John and Glynis were
 free to enjoy the rest of their hike to Clear Pond, which lay atop a
 small mountain about two miles from John's cottage. Clear Pond had lived
-up to its name for as long as anyone could remember --it was said that
+up to its name for as long as anyone could remember ---it was said that
 you could look clear to the bottom, but that was only true for the first
-six feet from shore--. In fact, Glynis and John often called it "Clear
+six feet from shore---. In fact, Glynis and John often called it "Clear
 Sky Pond" between themselves, as it so often reflected only those colors
 which the sky gave it. The pond was a place where they could go to be
 silent and consider, well, whatever one considers when at the shore of a
@@ -1310,7 +1308,7 @@ her.
 Thus it was that the two good friends (and now fellow adventurers) found
 themselves sheltering beneath the leafy bulk of a giant maple tree. The
 tree itself was set atop a high, grassy hill, which it shared on this
-particular morning with a giant, shaggy bird --a raven to be precise. It
+particular morning with a giant, shaggy bird ---a raven to be precise. It
 was in fact wise Meldrake himself, Glynis's companion of her last two
 visits to the White Bear's Realm. His eyes closed, he stood facing the
 east, and with it the rising sun which was just now beginning to light
@@ -1341,11 +1339,11 @@ as well that you've secured the items we discussed?"
 
 Glynis replied that she had.
 
-"Excellent! In that case we shall begin at the end -- your end, Avis,
+"Excellent! In that case we shall begin at the end --- your end, Avis,
 your 'Terminus Mundi'." Turning quickly to John, he said, "Young man, I
 trust that our Avis has informed you that, in this realm at least, each
 living creature has access to a place of strength and calm, her 'end of
-the world,' as it's here called --?"
+the world,' as it's here called ---?"
 
 John nodded.
 
@@ -1383,8 +1381,8 @@ he was taller than anyone else she knew. His wings he brought up and
 out, as if modelling a pose for Glynis, which in fact he was. Glynis
 followed his lead, raising her arms up from her sides.
 
-"First rule of flight --yes, yes, get your hands up, do as I do, that's
-it-- the first lesson of flight is commitment. There are no
+"First rule of flight ---yes, yes, get your hands up, do as I do, that's
+it--- the first lesson of flight is commitment. There are no
 half-measures in mid-air; every slight movement of the body has profound
 effects, and therefore we must learn to control our bodies for maximum
 effect with minimal effort."
@@ -1560,7 +1558,7 @@ and she quickly sighted him again, and dove, closing on his location
 with astounding speed. After all, she had never been a bird before, much
 less a dart plummeting from the heavens. As such, she found the speed
 thrilling but more than a little unnerving, requiring constant course
-corrections in order to track her target which --wonder of wonders-- was
+corrections in order to track her target which ---wonder of wonders--- was
 beginning to look something like an actual bird.
 
 As the dark figure of Meldrake began to loom ever larger in her view, it
@@ -1664,7 +1662,7 @@ thrilled to be alive at all.
 
 "Why, we do it again," was the raven's reply.
 
-"Um, I'm sorry --what?"
+"Um, I'm sorry ---what?"
 
 "We dive once more, my friend. A shallow dive, but a dive nonetheless.
 Follow me, and do as I do!" cried black Meldrake, and he was off, diving
@@ -1713,7 +1711,7 @@ serve themselves."
 "No, not in a dungeon, or at least their bodies do not waste away,
 hidden behind iron and rock. In fact, they come and go every bit as much
 as they please, and would no doubt tell you so, if asked. No, my dear
-Avis, their dungeons-- and the horrors within-- they create for
+Avis, their dungeons--- and the horrors within--- they create for
 themselves, with the help of the trickster Redcloth."
 
 "I see," said Glynis. "It makes sense. When he spoke to me, it was with
@@ -1760,7 +1758,7 @@ least in the beginning. This is not to say that the other two are easy.
 They are not! With the right herbs a practitioner can mix medicines that
 dull pain and heal infection, as well as the deadliest of poisons. Of
 course, it also has its mundane uses, such as the mixing of paint and
-other common things -- but listen to me, and my talk of 'common things!'
+other common things --- but listen to me, and my talk of 'common things!'
 Even the dullest coat of paint, if it is to last through snow, wind and
 rain, must possess many special properties that allow it to endure.
 Beyond that, we expect this 'common' paint to hold its hue throughout
@@ -1898,7 +1896,7 @@ closed, she imagined opening and closing and wiggling them around. She
 had the same thoughts about her toes a moment later, and so she wiggled
 them too for good measure.
 
-"G -- uh, Avis! It's you!" It was the voice of John, and it made her
+"G --- uh, Avis! It's you!" It was the voice of John, and it made her
 open her eyes again to find herself, the same old Glynis, sitting under
 the same old tree with her friends John and Meldrake looking on.
 
@@ -1939,7 +1937,7 @@ Glynis decided that now, with a bit of a walk ahead of them, was as good
 a time as any to tell John about her maiden flight and her brush with
 disaster. He was particularly interested, as anyone at all would be, in
 how exactly his boring old friend Glynis was suddenly able to change
-into a bird and take flight -- and what's more, then to engage in
+into a bird and take flight --- and what's more, then to engage in
 bird-talk with her fellow avian creatures, as if the rest hadn't been
 strange enough already!
 
@@ -1957,7 +1955,7 @@ who are called wise here that this quality of uncertainty is a blessing
 that forces you to focus on what is, which is to say only and ever the
 present. The philosophers of this school deem it sheerest folly to
 concern oneself overmuch with past or future, which are but castles of
-the mind -- or so they say; I have some old aches and scars that would
+the mind --- or so they say; I have some old aches and scars that would
 beg to differ! With regards to transformation, experience and teaching
 suggest that it is a gift you can prepare yourself to receive. It is
 nonetheless a gift in that it is freely given, and cannot be coerced.
@@ -1976,10 +1974,10 @@ reason to want to know the answer.
 
 "Yes and no; all of animalkind, yourselves included, have connections
 one to each other that run deep: streams from a single source, and all
-that. Nothing new there, really. When some creatures change, however --
-and remember: it is not guaranteed!-- the things which are revealed are
+that. Nothing new there, really. When some creatures change, however ---
+and remember: it is not guaranteed!--- the things which are revealed are
 twisted, dark. Abominations, some would no doubt call them, though in
-reality they are but different forms -- streams which, though brackish
+reality they are but different forms --- streams which, though brackish
 and unfriendly to most living things, nonetheless flow from the same
 central spring. Even so, they are dangerous, and if left unchecked to
 roam and rampage as they will, these creatures will bring suffering to
@@ -2044,8 +2042,8 @@ postponed for a later date.
 
 Several moments passed. Judging by the size of the section of wall
 before them, Glynis imagined that Kell's farm was a good-sized
-operation, and depending upon how much help the man had -- if in fact he
-was a man and not some other sort of creature -- there would be a bit of
+operation, and depending upon how much help the man had --- if in fact he
+was a man and not some other sort of creature --- there would be a bit of
 a wait. Meldrake was apparently under no such illusions, however, and he
 reached for the rope and rang the bell again. And again. And a third
 time! He was behaving like an impatient child, Glynis thought.
@@ -2232,7 +2230,7 @@ and Glynis laughed, which Meldrake studiously ignored.
 As everyone was settling themselves at the table, Glynis saw that the
 plates and dishes were also of various geometric shapes. There were
 octagonal pot pies and hexagonal omelettes. It seemed to her that there
-was no end to Kell's affection for geometry and all its forms -- and she
+was no end to Kell's affection for geometry and all its forms --- and she
 was right. Once all had been seated comfortably, Kell addressed her
 directly.
 
@@ -2271,7 +2269,7 @@ calculations."
 who would exploit what a geometer knows for their own gain without
 troubling themselves to understand what it is that brings that gain.
 They'd think nothing of extracting that knowledge at the point of a
-sword -- that is why I live as I do, surrounded by high walls and
+sword --- that is why I live as I do, surrounded by high walls and
 forest."
 
 "A dangerous profession, to be a man of knowledge," added Meldrake.
@@ -2476,9 +2474,9 @@ visit.
 And so it was that John was able to silently direct Glynis's attention
 to the sky. With his eyes, he directed her to a point some distance
 ahead of them on the path. Through the narrow opening in the trees she
-saw the thing that John had seen: it was a bird --no, several birds--
+saw the thing that John had seen: it was a bird ---no, several birds---
 all floating just above the treetops. Glynis couldn't make out their
-colors --at this distance they appeared to be black-- but she could tell
+colors ---at this distance they appeared to be black--- but she could tell
 that their attention was focused on something in the forest below,
 though it was too soon to tell just what. She gave John a look that
 said, "I've seen it," and another: "Thanks." His eyes flashed on the
@@ -2530,8 +2528,8 @@ forest floor had been pushed up into a strangely cylindrical tower some
 twenty or thirty feet high. Atop the resulting height there were perched
 two birds, which Glynis instantly imagined as male and female, though
 she had no evidence as of yet. The larger of the two, which Glynis had
-identified in her mind as the male, was black like Meldrake -- /and like
-Redcloth, too!/ -- came the thought before she could banish it. Unlike
+identified in her mind as the male, was black like Meldrake --- /and like
+Redcloth, too!/ --- came the thought before she could banish it. Unlike
 Meldrake, however, his feathers were smooth against his body, and as
 Glynis peered more closely she could see the shimmering hues of a
 rainbow moving against the black of his coat as he moved.
@@ -2550,7 +2548,7 @@ the sense it made:
 The silver creature was a bird, alright. Or rather, it was shaped like a
 bird, albeit one which, for reasons unknown, was only really visible for
 a few blinks of the eye at a time. The rest of the time it was
-perceptible only as a shimmering object in space -- not transparent, but
+perceptible only as a shimmering object in space --- not transparent, but
 translucent perhaps. As for what Glynis's eye actually saw, it was
 something on the order of: bird (with head to the right), glimmering
 shape, glimmering shape, bird (with head turned leftward, beak open),
@@ -2586,7 +2584,7 @@ starling atop the granite pedestal who spoke first, which seemed fitting
 to Glynis, somehow.
 
 "And what would you have us do, Meldrake? Your words would seem to
-counsel intervention, and no doubt battle -- and the very prisoners we
+counsel intervention, and no doubt battle --- and the very prisoners we
 go to save will instead fight against us. No doubt they would see us as
 invaders, and respond in kind, with all the magic at their disposal, and
 which their master has taught them. Are we to expect otherwise?"
@@ -2595,8 +2593,8 @@ Meldrake's answer was clear: "I bring you and yours nothing but trouble,
 my lord. Trouble, and toil, and maybe even death, or things that one
 fears more than death. I did not come here in search of those who, in
 the ease of the bright day, would spend their hours in leisurely play
-and be home in time for tea. I came for those who would die -- and yet
-live -- who would stand to hard service with small hope of joy at
+and be home in time for tea. I came for those who would die --- and yet
+live --- who would stand to hard service with small hope of joy at
 journey's end."
 
 At that, a murmur arose from the assembled crowd, as the Starling King
@@ -2623,7 +2621,7 @@ again, wings outstretched, beak open as if letting forth a cry upon the
 mountain. And so on, until Meldrake and the Silverbird were each mere
 shimmering forms, varying configurations from one moment to the next.
 
-Inside their now-shared experience -- which, when translated from the
+Inside their now-shared experience --- which, when translated from the
 language of birds, is called "the place apart from all other places," or
 simply "the place apart," the Silverbird finally spoke, in a voice like
 chimes in the breeze.
@@ -2655,7 +2653,7 @@ who come through our gates do not."
 mundane insight in Geometry while at Kell's for breakfast. Other than
 that, his primary skill seems to lie in following Avis around."
 
-"And yet, you dismiss such power too easily, Meldrake -- you, who would
+"And yet, you dismiss such power too easily, Meldrake --- you, who would
 seem wise."
 
 "I don't understand, Teacher. The boy is quite ordinary, unremarkable.
@@ -2775,7 +2773,7 @@ supposed to protect children from people who mistreat them, whatever it
 costs."
 
 Just then the air began to change, and there was a sizzling noise, like
-electrical wires. A small flash -- a snap, crackle, and pop! -- and
+electrical wires. A small flash --- a snap, crackle, and pop! --- and
 Meldrake reappeared with the good Queen Silverbird just behind. No one
 was all that surprised, having witnessed such phenomena moments before,
 and so Glynis and John decided not to be surprised either.
@@ -2786,7 +2784,7 @@ the children.
 
 "We are dismissed. Let us go."
 
----
+@c Break here.
 
 Several minutes passed before they had left the clearing far enough
 behind to be out of earshot. This time through the woods, they did not
@@ -2818,7 +2816,7 @@ path," he said with a flourishing gesture of his wing. "Though she is
 not all-knowing, her eye does see far. Very far indeed," he added, and
 his mood seemed at once to darken. "No, it is my belief that the items
 which you now carry cannot but reveal themselves and their purposes to
-you in time. You need only wait for that -- the Silverbird cannot help
+you in time. You need only wait for that --- the Silverbird cannot help
 you with it. My dear Glynis, what troubles my mind is something which
 the good Queen herself told me, and it regards you."
 
@@ -2850,7 +2848,7 @@ Here Meldrake paused, looking into each of their eyes in turn.
 Redcloth? Are you saying that I'm going to join Redcloth at some point?
 Is she saying that?"
 
-"Not exactly," replied the raven. "It is a vision of the eyes -- no more
+"Not exactly," replied the raven. "It is a vision of the eyes --- no more
 and no less. You wore his robes, yes, but it may have been another you,
 in another place and time than this. There could be a reason for this: a
 warning, a portent, a plan. It is hard to say," Meldrake said.
@@ -2895,7 +2893,7 @@ sounds of rushing water. Soon they all could hear it, and they continued
 towards the sound, which grew louder and louder. After what seemed to be
 about half a mile, they finally broke from the cover of the dark pine
 forest to which they had only just become accustomed (the children, that
-is -- for Meldrake seemed to be at his ease no matter where he was, or
+is --- for Meldrake seemed to be at his ease no matter where he was, or
 at least he made it seem so).
 
 The three stepped out into the daylight, momentarily dazed by the bright
@@ -2930,7 +2928,7 @@ arrived behind Meldrake, Glynis could see what he had been talking
 about. Set into the embankment, just off the trail, was a wooden door
 with iron hinges. Next to it on either side were windows, little round
 ones. Some feet away, under a bundle of tree roots, was another round
-window -- and suddenly Glynis realized she was looking at a house.
+window --- and suddenly Glynis realized she was looking at a house.
 Before she knew it, Meldrake was swinging the brass knocker on the front
 door. Once, twice, three times he knocked before an answer came.
 
@@ -2998,7 +2996,7 @@ was all it took to bring them within sight of the little walled town. In
 the meantime, the evergreen forests which had followed alongside the
 river as it made its way south fell away to the east, and were replaced
 by rolling hills and oak and maple trees. With the retreat of the
-evergreens, the soil became less rocky and sandy, more fertile -- and
+evergreens, the soil became less rocky and sandy, more fertile --- and
 our travelers found themselves surrounded by farms. There were farms on
 both sides of the river, in fact; tended pastures stretched for as far
 as human eyes could see in either direction, though undoubtedly a
@@ -3013,7 +3011,7 @@ teeth and claws) and a hawk (which comes with its own sharp edges, of
 course). In this way, the pair was ready to engage in belligerence of
 the land- or airborne varieties. For his part, Meldrake (with John and
 Glynis in tow) afforded them all the respect and obeisance which it was
-his habit to give -- in short, none at all.
+his habit to give --- in short, none at all.
 
 /Top of the morning, my road-blockers!/
 /Crowd-flockers, Head-Knockers!/
@@ -3061,7 +3059,7 @@ offensive once more:
 /And at its heart, an Iron Door/
 /With hinges rusted, the passage Black/
 /And it's where you stash those things you lack:/
-/Compassion, Kindness, for a start --/
+/Compassion, Kindness, for a start ---/
 /Your frozen Eyes, and creaking Heart/
 /Afraid to look within those places/
 /Afraid of all the missing graces!/
@@ -3109,8 +3107,8 @@ speed.
 
 Meldrake knew that if it came down to a question of speed and strength,
 he'd lose, and quickly. Being a crafty old raven, however, he was not
-without resources. As he flew ever higher, he managed -- between flaps
-of his enormous wings -- to reach into a rough leather pouch tied to his
+without resources. As he flew ever higher, he managed --- between flaps
+of his enormous wings --- to reach into a rough leather pouch tied to his
 midsection. It was, as you might imagine, a /magical/ pouch, which
 served as a portal into the storeroom at Ravenstone (which was the name
 of Meldrake's far-away home and refuge). Thus he had instant access to
@@ -3118,9 +3116,9 @@ any number of items which he might need, both common and rare. He had
 only to say their names with the pouch open, and the requested item or
 items would be summoned from the shelves and racks of that far-away
 storeroom. In this way the raven was never truly very far from his home,
-or the comforts -- among them, weapons -- therein.
+or the comforts --- among them, weapons --- therein.
 
-But enough digression -- the hawk gains quickly!
+But enough digression --- the hawk gains quickly!
 
 So it was, that when Meldrake opened the pouch at his belt, he whispered
 the words, "Staff of Forgetting," and the item by that name did appear.
@@ -3132,7 +3130,7 @@ space and time would call a meteorite.
 
 The hawk, pale and cold creature that he was, smiled to himself at the
 thought of an easy kill as he watched the larger, slower bird lose
-ground -- or air, in this case -- with every flap of the wing. He
+ground --- or air, in this case --- with every flap of the wing. He
 cruised easily past the raven on a higher trajectory, the better from
 which to launch a diving attack. As he soared above his prey, he
 surveyed the earth below: the great white mountains to the north, the
@@ -3142,12 +3140,12 @@ beak and speed at your command/."
 
 Just then, he noticed a white shape below him and to his left. It
 appeared to be a much smaller hawk, rising quickly. He thought it
-strange that a hawk, of all birds, should be such a pure white color --
+strange that a hawk, of all birds, should be such a pure white color ---
 indeed, he had never seen one quite like it before. He realized with a
 start that it was gaining on his position.
 
 /What's your business with me?/ he wondered to himself as the white hawk
-continued to climb. /No matter -- I'll deal with you later/. He said
+continued to climb. /No matter --- I'll deal with you later/. He said
 this last aloud, just as he began his dive from a point high above
 Meldrake.
 
@@ -3171,13 +3169,13 @@ the hawk's body transformed from a bullet, all clean, deadly purpose,
 into a lopsided pinwheel that spun all the way down to the ground below.
 
 "Meldrake!" she had screamed seconds before, just as the hawk was
-nearing the end of its dive -- and its life, as it had turned out. She
-had not expected what came next -- not the death of the projectile-like
+nearing the end of its dive --- and its life, as it had turned out. She
+had not expected what came next --- not the death of the projectile-like
 hawk, and certainly not the /way/ it came, with the swift violence of
 Meldrake's swing.
 
 Having dealt with his taloned pursuer, Meldrake turned to the white hawk
-that was, in fact, Glynis -- she had gained his position with a speed
+that was, in fact, Glynis --- she had gained his position with a speed
 that surprised him. "Why Avis, you sneaky thing!" he cried. "There's
 simply no leaving you behind, is there?" He flew still holding the dread
 Staff of Forgetting, and as he spoke Glynis could see the crimson
@@ -3189,11 +3187,11 @@ matter how surreal it was. Besides, she had no doubt that the hawk she
 had just seen tumbling out of the sky would not have hesitated for even
 an instant, had their roles been reversed. And so it was what it was.
 She thought too that it could have had something to do with the avian
-body she now inhabited, this newfound acceptance of hers. Yes -- it was
+body she now inhabited, this newfound acceptance of hers. Yes --- it was
 rather more difficult to be shocked by a confrontation between a
 6-foot-tall staff-wielding raven and a magical-amulet-wearing, speaking
 hawk when you yourself have just shape-shifted from a 12-year-old girl
-into a bird of prey. Evidently, inhabiting -- indeed, becoming -- a
+into a bird of prey. Evidently, inhabiting --- indeed, becoming --- a
 hawk-mind will have profound effects on one's ways thinking, especially
 with regard to living, dying and the like. After all, it's not as if
 hawks are vegetarians.
@@ -3215,7 +3213,7 @@ Jelec's realm as people much like herself.
 
 Now, of course, you may be wondering how it is that a young girl twelve
 years of age can go about seeing death, and transforming into two
-distinct species of birds -- predatory and non -- within the space of
+distinct species of birds --- predatory and non --- within the space of
 several days' time, and manage to be so calm and cool and equivocal
 about it all. Naturally, Necessity plays a part, since as every
 schoolchild knows She is the mother of Invention. There is also
@@ -3226,7 +3224,7 @@ mind. So it was with our Glynis.
 As such, it was a rather calmer and more composed Glynis-hawk flying
 beside Meldrake that day. Perhaps her newfound comfort there in the
 White Bear's Realm grew from the confidence granted by speed, beak, and
-claw. If so, best not to question it -- for as our Glynis was beginning
+claw. If so, best not to question it --- for as our Glynis was beginning
 to learn from Meldrake's example, the hesitation of the questioner could
 mean death.
 
@@ -3297,7 +3295,7 @@ Meldrake's second act was perhaps more valuable to their overall
 mission, which they had not defined as of yet, but which was rapidly
 being brought into focus by the abduction of one John Sharp. Meldrake
 reached once more across and through the long miles to his storeroom and
-whispered for his spyglass -- at once, the item in question appeared. He
+whispered for his spyglass --- at once, the item in question appeared. He
 was then able to note that several members of the hostile group below
 (who were hurrying back to Halfmoon, propelled, no doubt, by the several
 explosions at their backs) were wearing strips of red and black cloth
@@ -3309,7 +3307,7 @@ river. He climbed another several hundred feet to err on the side of
 caution, should any other attackers present themselves. To his surprise,
 none did.
 
----
+@c Break here.
 
 Glynis lay on her back with her eyes closed, her heart still racing from
 the narrow escape. Try as she might, she could not control the fear
@@ -3345,7 +3343,7 @@ lay there in the long grass, her mind turned to its contents, and before
 she knew it, she had pulled the dog-eared paperback free. Her hands knew
 the page they sought, and what her eyes would find there...
 
----
+@c Break here.
 
 "They wore cloths of red and black."
 
@@ -3355,7 +3353,7 @@ preamble. She had been lying in the grass with her eyes closed.
 Glynis opened her eyes. "Yes, I saw it too. What does it mean,
 Meldrake?"
 
-"I'm not sure yet -- or I'm not sure I like what it means, especially
+"I'm not sure yet --- or I'm not sure I like what it means, especially
 for you and I, Avis. Since we have seen those colors before. Twice now,
 in fact."
 
@@ -3421,7 +3419,7 @@ attempt such a rescue."
 Glynis. "Even to me, and I'm not the best at word puzzles."
 
 "Still, as an exercise . . . keep in mind that it will be very important
-to develop these habits of mind -- and others we have yet to speak of --
+to develop these habits of mind --- and others we have yet to speak of ---
 in order that we are ready when the time comes. This enemy is a lover of
 all manner of tricks and games, puzzles and mazes. Were we to meet him
 in his own strongholds as we are now, we would perish. We must grow
@@ -3703,7 +3701,7 @@ combinations, and this from only eight items, in this case letters.
 Imagine instead that you were faced with dozens of items to choose from!
 Here's an example: You are presented with a glass jar, and deposited
 inside a great hall, with many doors. All of the doors are locked, and
-inside the jar are hundreds of small keys. Your adversary--"
+inside the jar are hundreds of small keys. Your adversary---"
 
 "Meldrake!"
 
@@ -3749,7 +3747,7 @@ hollow, and she asked her flesh to sprout feathers, and it did that too,
 until she was once again Avis Whitehawk. She leapt into the air after
 Meldrake with all the urgency of one who is being left behind.
 
----
+@c Break here.
 
 /Here ends the first part of the story of Jelec, which is to say the
 story of Glynis-who-became-Avis and her discovery of, and adventures
@@ -3767,7 +3765,7 @@ lightning's strike. Through it all, he dreamed.
 And what dreams were these, the dreams of a being imbued with such might
 as to command the awe of even the redoubtable Meldrake?  We cannot say.
 Perhaps they were kingly dreams, such as could raise even the paw of the
-Protector from its rest -- dreams of battles that would shake the very
+Protector from its rest --- dreams of battles that would shake the very
 earth.
 
 Then again, who are we to wonder what dreams lurk in the hearts of
