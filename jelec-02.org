@@ -22,16 +22,6 @@ All Rights Reserved.
 <p style="page-break-before:always"></p>
 #+end_html
 
-* FRONT MATTER
-
-  The first time John Sharp found out that he could transform into a bear, and could speak the secret language of bears, was sometime after his twelfth birthday.
-
-  It seemed so long ago that he had first journeyed to the Realm of the White Bear with his good friend Glynis McGinty, there to encounter the raven Meldrake, along with the gruff cow-farmer and Numbermaster called Kell. And who could forget those mysterious monarchs of lesser bird-kind, the Silverbird and her Starling? But in fact it was not so long ago; perhaps a day or so had passed.
-
-  Meanwhile, Glynis has much yet to learn of magic, of the secret ways of Number and Verse. This tale begins for her in the house of Meldrake, which is also called Ravenstone, where she will begin preparing for a journey the likes of which perhaps only Meldrake, alone among all living creatures, has taken before. Drawn inexorably to the Dark Tower, the pair will no doubt encounter a surprise or three along the way.
-
-  And Dear Reader, you know what they say about the best-laid plans of mice and men! It turns out that this saying applies to the plans of Big Sisters, too. Especially where Little Sisters are concerned...
-
 * INVOCATION
 
 #+begin_verse
@@ -57,6 +47,16 @@ They changed us when they taught us the meaning of fright.
 Frozen stars in the frozen night.
 Frozen stars in the frozen night.
 #+end_verse
+
+* FRONT MATTER
+
+  The first time John Sharp found out that he could transform into a bear, and could speak the secret language of bears, was sometime after his twelfth birthday.
+
+  It seemed so long ago that he had first journeyed to the Realm of the White Bear with his good friend Glynis McGinty, there to encounter the raven Meldrake, along with the gruff cow-farmer and Numbermaster called Kell. And who could forget those mysterious monarchs of lesser bird-kind, the Silverbird and her Starling? But in fact it was not so long ago; perhaps a day or so had passed.
+
+  Meanwhile, Glynis has much yet to learn of magic, of the secret ways of Number and Verse. This tale begins for her in the house of Meldrake, which is also called Ravenstone, where she will begin preparing for a journey the likes of which perhaps only Meldrake, alone among all living creatures, has taken before. Drawn inexorably to the Dark Tower, the pair will no doubt encounter a surprise or three along the way.
+
+  And Dear Reader, you know what they say about the best-laid plans of mice and men! It turns out that this saying applies to the plans of Big Sisters, too. Especially where Little Sisters are concerned...
 
 * HALFMOON
 
@@ -422,7 +422,7 @@ And what's more, I found myself standing in the hallway outside my cell door.
 
 * LITTLE SISTERS AND THEIR GAMES
 
-Marla McGinty awoke in the middle of the night to the sound of her mother's voice downstairs. Despite the late hour, Mrs. McGinty was speaking rather loudly to someone on the telephone. Marla knew that Glynis still hadn't come home when it was time for her to go to bed, but that had been the plan, hadn't it? Marla's usual bedtime of 8:30 had come and gone, and the plan had been for Glynis and John to be picked up at the hotel by Mrs. Sharp, John's mother.
+  Marla McGinty awoke in the middle of the night to the sound of her mother's voice downstairs. Despite the late hour, Mrs. McGinty was speaking rather loudly to someone on the telephone. Marla knew that Glynis still hadn't come home when it was time for her to go to bed, but that had been the plan, hadn't it? Marla's usual bedtime of 8:30 had come and gone, and the plan had been for Glynis and John to be picked up at the hotel by Mrs. Sharp, John's mother.
 
 Apparently that hadn't happened, and now it was late in the evening (or early in the morning? Marla couldn't tell), and Mrs. McGinty was clearly upset.
 
