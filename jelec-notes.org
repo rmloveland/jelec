@@ -86,19 +86,23 @@
    24. FIXED Change "i.e." to the more accurate "viz." (3086)
 
 ** John 15:13
-Meldrake turns once again toward the jagged peaks of the North. He
-will deliver this Glynis to her fate, or meet his. All arrows pointed
-against, they beat wings on the wind and soar. With John gone, the
-compass needle swings wildly and all may be lost. Courage will flow, however,
-from the need to show the great love, as coined by the last True
-Wizard in his Great Booke. John 15:13, as it falls. Depending upon the
-World you find yourself in, it reads thusly:
 
-"Greater love hath no man than this: that he lay down his life for his friends."
+   Meldrake turns once again toward the jagged peaks of the North. He
+   will deliver this Glynis to her fate, or meet his. All arrows
+   pointed against, they beat wings on the wind and soar. With John
+   gone, the compass needle swings wildly and all may be lost. Courage
+   will flow, however, from the need to show the great love, as coined
+   by the last True Wizard in his Great Booke. John 15:13, as it
+   falls. Depending upon the World you find yourself in, it reads
+   thusly:
 
-Hereby all is revealed.
+   "Greater love hath no man than this: that he lay down his life for
+   his friends."
+
+   Hereby all is revealed.
 
 ** Random Notes, Ideas, &c.
+
    1.  Perhaps there is a connection 'tween G. and Mrs. St. Claire, the
        town librarian and friend to the McG. family. What adventures were
        hers, in the days before?
@@ -151,12 +155,13 @@ Hereby all is revealed.
        From dancing
        With the one I love,
        But my mind holds the key."
-   16. Marla must enter the White Bear's Realm,
-       There to learn the raven's way.
+   16. Marla must enter the White Bear's Realm, There to learn the
+       raven's way.
    17, Will we see the Silverbird again? Perhaps, much later, we will
-       learn from her some secrets that we would like to know.
+   learn from her some secrets that we would like to know.
 
 ** Art and Stuff to Make
+
 - Woodcarving of meldrake, black branch and vale of stars?
 - Computer drawings of meldrake, BBVoS?
 - Twin Pillars - Verse and Number.
@@ -188,7 +193,7 @@ Hereby all is revealed.
     - IDEA: One distribution of the book could be as a .org file, with
       built-in runnable code (Perl, elisp, calc, &c.)!
     - [[http://orgmode.org/manual/Images-in-HTML-export.html][Org-mode Manual: Images in HTML Export]]
-    
+      
 ** Meldrake's Rules
 *** Rule Four:
     ``Given a problem P which the practitioner has no method for, propose an
@@ -250,25 +255,25 @@ Hereby all is revealed.
 
 ** THE GLOAMING
 
-This is the prophecy of REDCLOTH. This is the end of days, as he sees them,
-and he means to be prepared. Mind and soul. Knowledge must be earned, like
-any coin. Or is it a gift? In either case, the HOLCREDT CONSORTIUM is not 
-so much a path to rule as to order. Order makes rule necessary, whereas 
-rule is not sufficient for order. His (REDCLOTH's) is the new way, less per-
-sonality and charisma, more grey duty and record-keeping. Yet, it is the 
-modern way. His way will have the land united for a common good, and yet
-the world as known will end somehow, MAGICK will end, to be replaced by 
-mere knowledge.
+   This is the prophecy of REDCLOTH. This is the end of days, as he sees them,
+   and he means to be prepared. Mind and soul. Knowledge must be earned, like
+   any coin. Or is it a gift? In either case, the HOLCREDT CONSORTIUM is not 
+   so much a path to rule as to order. Order makes rule necessary, whereas 
+   rule is not sufficient for order. His (REDCLOTH's) is the new way, less per-
+   sonality and charisma, more grey duty and record-keeping. Yet, it is the 
+   modern way. His way will have the land united for a common good, and yet
+   the world as known will end somehow, MAGICK will end, to be replaced by 
+   mere knowledge.
 
-The GLOAMING is the twilight of the gods (or idols, as you prefer).
+   The GLOAMING is the twilight of the gods (or idols, as you prefer).
 
-The GLOAMING is the end of the age of heroes, and the start of the age
-of ``kneelers'' (see:ASoIaF). It is the beginning of the age for those
-who would obey. Much like Sauron, Redcloth must SEE all, must KNOW
-all. Nothing can be shielded from him. In fact, his nature is merely
-similar to that of MELKOR, though he is not that same spirit, since he
-can and will build, create, lead. It is simply his fundamental
-mistrust...
+   The GLOAMING is the end of the age of heroes, and the start of the age
+   of ``kneelers'' (see:ASoIaF). It is the beginning of the age for those
+   who would obey. Much like Sauron, Redcloth must SEE all, must KNOW
+   all. Nothing can be shielded from him. In fact, his nature is merely
+   similar to that of MELKOR, though he is not that same spirit, since he
+   can and will build, create, lead. It is simply his fundamental
+   mistrust...
 
 ** Character List
    Current as of 29 Oct 11.
@@ -288,9 +293,9 @@ mistrust...
     THE CHILDE GLYNIS
 *** John Sharp / URSUS
 *** Mrs. Jane McGinty
-mother of Glynis
+    mother of Glynis
 *** Marla McGinty
-younger sister of Glynis, aged 9 yrs.
+    younger sister of Glynis, aged 9 yrs.
 *** Brian Smalls
 - the front desk clerk at the Hotel Skidmore
 *** Mr. Patrick Scoville
@@ -301,13 +306,13 @@ younger sister of Glynis, aged 9 yrs.
 *** Starling King
 *** Redcloth
 *** ACUTUS
-acūtus m (feminine acūta, neuter acūtum); first/second declension
-sharpened, made sharp, sharp, having been sharpened
+    acūtus m (feminine acūta, neuter acūtum); first/second declension
+    sharpened, made sharp, sharp, having been sharpened
 *** The Novice (real name?)
 *** Verse Badger / VELLUS
- vellus
- vello : velli : vulsum : to pull, pluck out. 
- volo (sibi velle) : to mean, signify, denote.
+    vellus
+    vello : velli : vulsum : to pull, pluck out. 
+    volo (sibi velle) : to mean, signify, denote.
 *** Second
 *** Narrator of Ch. 13/Crypto-MELDRAKE(!)
     Rescued from the Dark Tower by Meldrake, he describes his
@@ -367,12 +372,12 @@ sharpened, made sharp, sharp, having been sharpened
 
 3. Lake William only has sherriffs, but we've just referred to ``Chief" Stone.
 
-4. In the last book, when John was asked a question by the Starling
-   King, he answered directly. Yet no mention has been made of John
-   being able to understand the animals' speech. Somehow it seems that
-   he does understand, since he's conversing with Vellus and his
-   brother at the opening of Book Two. So perhaps some mention should
-   be made...
+4. [FIXED] In the last book, when John was asked a question by the
+   Starling King, he answered directly. Yet no mention has been made
+   of John being able to understand the animals' speech. Somehow it
+   seems that he does understand, since he's conversing with Vellus
+   and his brother at the opening of Book Two. So perhaps some mention
+   should be made...
 
 ** Creatures of Speech
 
@@ -484,7 +489,7 @@ sharpened, made sharp, sharp, having been sharpened
    somehow?
 
 *** Things to Clean up before Publication
-   
+    
 1. Redcloth's tower seems to have become the ``Dark Tower." Not the best name.
-  
+   
 * 3. LAND OF JELLECK, LAND OF ICE AND SNOW
