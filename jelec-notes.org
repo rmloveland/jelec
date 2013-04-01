@@ -5,11 +5,13 @@
 * 1. JELLECK, THE WHITE BEAR, OR, BEWARE AN ENCOUNTER WITH A RAVEN AND HIS FRIENDS
 ** MAGIC ITEM CHECKLIST
 
-1. TOKEN OF YOUR FAMILY LINE
+1. A TOKEN OF YOUR FAMILY LINE
    Grandmother McGinty's ruby brooch.
-2. BOOK WHOSE WISDOM YOU LIVE BY
+
+2. A BOOK WHOSE WISDOM YOU LIVE BY
    This hasn't been revealed yet.
-3. SONG FOR A DARK TIME
+
+3. A SONG FOR A DARK TIME
    A poem, naturally, which is the mother of song.
 
 ** RETCON
@@ -101,8 +103,8 @@
 
    Hereby all is revealed.
 
-** Random Notes, Ideas, &c.
-
+** Random Notes, Ideas, etc.
+   
    1.  Perhaps there is a connection 'tween G. and Mrs. St. Claire, the
        town librarian and friend to the McG. family. What adventures were
        hers, in the days before?
@@ -170,29 +172,32 @@
 - Draw a map of the Realm.
   
 ** Software
-*** TeX for typesetting? (of formulas especially, and images)
-    - Work on the Appendices is making this clear
-    - (but as it turns out, org-mode has nice LaTeX integration, so
-      this is turning out to be less of an issue). (rml [2011-09-30 Fri])
-    - [[file:~/Documents/knuth-texbook0.pdf::PDF%201%205][Knuth, the TeXbook]]
-*** Learn the GIMP for illustrations (perhaps purchase a drawing pad?)
-    - Scripting the GIMP could also be of use.
-    - Well, I have a drawing pad now, so perhaps I should get to work on
-      using it more! (rml [2011-09-30 Fri])
-*** Learn WXMAXIMA for calculations.
-    Choose a manual, and read it. Perhaps also use it for your other
-    mathematical investigations.
+*** TODO Use TeX for typesetting formulas
+
+    Org has nice LaTeX integration. See also:
+
+    - [[file:~/Documents/knuth-the-texbook.pdf][Knuth, the TeXbook]]
+
+*** TODO Create illustrations with the GIMP
+
+    Could scripting the GIMP also be of use? I'm be inclined to create
+    geometrical illustrations with [[file:~/Code/fps-1.0/fps-tutorial.txt::Functional%20PostScript%20Tutorial][FPS]].
+
+*** TODO Learn MAXIMA for calculations
+
     [[file:~/Documents/maxima-manual.pdf::PDF%201%204][Maxima Manual]]
-*** Create a build system for the book, to include images, etc.
-    23 Nov 11: I'm thinking now that I'd like to include copies of the
-    relevant software with the book, to include all code I've written
-    in support of the book for illustrations, etc.
+
+*** TODO Create a build system for the book, to include images, etc.
+
+    I'd like to include software with the book, to include all code
+    I've written in support of the book for illustrations, etc.
 
     - Org-mode appears to be a good candidate here. Of interest:
       org-babel, calc integration
     - IDEA: One distribution of the book could be as a .org file, with
-      built-in runnable code (Perl, elisp, calc, &c.)!
-    - [[http://orgmode.org/manual/Images-in-HTML-export.html][Org-mode Manual: Images in HTML Export]]
+      built-in runnable code that generates the images (Perl, elisp,
+      calc, FPS, etc.)
+    - [[info:org#Images%20in%20HTML%20export][Images in HTML export]]
       
 ** Meldrake's Rules
 *** Rule Four:
@@ -201,20 +206,26 @@
     P."
 
 ** Mathematical Topics
-   (remember to include footnotes, references, &c.)
+   (remember to include footnotes, references, etc.)
 *** recursion
+
     1. first example is on approx. line 1985, when G. and friends
     traverse the circular paths inside Kell's compound. This could be
     referred to again at a later date (presumably with accompanying
     illustrations, perhaps drawn using METAPOST or GIMP).
     NOTE: This could be used later, when entering Redcloth's Tower, since
     his tower will presumably be structured similarly (which is to say,
-    recursively -- think `Garden of Forking Paths', &c.).
+    recursively -- think `Garden of Forking Paths', etc.).
+
 *** counting problems
+
    1. first example from book is in Ch. 10. In fact, pretty much the
       entire chapter is a counting problem (*DONE* Ch. 10).
+
 *** geometry
+
    1. hexagonal pie-slicing problem at breakfast (*DONE* Ch. 6, near line 2295)
+
    2. radius of Kell's compound wall? (ADD SCENE?) Perhaps this could be
       computed recursively, given the smaller dimensions of the
       hexagonal path 'round his house? Hexagons, stepped out at given
@@ -225,11 +236,16 @@
       smaller hexagons.
 
 *** deduction
+
    1. cube slicing problems (see Ch.1 of Jacobs' _MaHE_)
+
 *** multiplication principle
+
     redcloth's tower ("n-gates" problem) - How many ways are there to
     enter? What percentage will prove to be entrances vs. traps? 
+
 *** computing
+
     Turing machine equivalent, using physical objects? Or should these
     folk have access to computers, so I can have them start writing
     programs? I wonder if we should go with Turing machines or the
@@ -250,6 +266,7 @@
     for the abilities of the Numbermasters.
 
 *** fractal geometry
+
     drawing pictures by iterating simple drawings (trees, blocks,
     structures)
 
@@ -336,17 +353,24 @@
     a solitary state can achieve some very strange things...
     
 ** APPENDICES
+
    These will contain (pseudo-historical) explications of various
    mathematical concepts from [[*Mathematical%20Topics%20Book%20One][Mathematical Topics (Book One)]]
+
 *** A: CONCERNING HEXADIC AND DYADIC NUMBERS AS UNDERSTOOD BY MACHINE
-- conversion between number bases
-- addition and subtraction of same
-- pseudocode, with drawings showing data structures (conversion and
-  add/subtract). Actually, I'd like this to be Scheme/Lisp, now that I
-  think about it.
+
+  - conversion between number bases
+  - addition and subtraction of same
+  - pseudocode, with drawings showing data structures (conversion and
+    add/subtract). Actually, I'd like this to be Scheme/Lisp, now that I
+    think about it.
+
 *** B: The Multiplication Principle
+
     - See Paulos, /Innumeracy/.
+
 *** C: Recursion
+
     See also [[*C%20Recursion][C: Recursion]] 
     Some Ideas:
     - Perhaps an image generation example is in order here? Penrose
@@ -354,6 +378,7 @@
     - Solve the hexagon `path-distance' problem from Kell's compound
       (see above).
     - Fractals. Something simple.
+
 *** D: Induction
 
 * 2. BREATH Of JELLECK, BREATH OF COLD
@@ -450,6 +475,7 @@
    cups and pennies, they will be forced to face the wrath of GARVIC!
 
 ** Chapter Word Counts, 7 Feb 12
+
    - Halfmoon
      4404
    - A Ladder to the Stars
@@ -478,7 +504,7 @@
    Silverbird asks Meldrake to compose a short verse on Friendship,
    and to share them with as many as possible
    
-** Random Ideas, Notes, &c.
+** Random Ideas, Notes, etc.
 
    When Marla enters the basement of the Hotel Skidmore, should she
    see the same stained glass image that Glynis saw? Or should it be
