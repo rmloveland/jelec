@@ -103,14 +103,14 @@ As they'd come South, the river had grown wider and deeper. The cottages in the 
 "Who goes there?" A voice from a slit above the door had the temerity to ask.
 
 #+begin_verse
-/Why, 'tis I, the Badger of the Sunlit Field!/
-/And I might command this door to Yield!/
-/Were I you, And on the Other Side/
-/I'd set aside my Foolish Pride/
-/Open for a pair of Halfmoon's sons/
-/Returned from the Forest with a Stranger One/
-/Than even you have seen, good Sir!/
-/Arise! Unlock! Awake! Bestir!/
+Why, 'tis I, the Badger of the Sunlit Field!
+And I might command this door to Yield!
+Were I you, And on the Other Side
+I'd set aside my Foolish Pride
+Open for a pair of Halfmoon's sons
+Returned from the Forest with a Stranger One
+Than even you have seen, good Sir!
+Arise! Unlock! Awake! Bestir!
 #+end_verse
 
 Thus did the Verse Badger gain their entry to Halfmoon. Oaken door groaned open, and John and his captor-companions strolled in. The wall through which they walked was several feet thick, and above their heads John saw some trapdoors. "What are those, I wonder?" asked the young man from Lake William. "Why, they're holes from which to dump boiling oil, the better to scald the hides from our flesh," came the Verse Badger's casual reply.
@@ -208,17 +208,17 @@ John heard the rattling of heavy chain against oak. Three seconds later, the doo
   No, no, no, and no. He muttered something and pulled from the aforementioned pouch at his hip a smattering of tiny seeds, which he tossed nonchalantly onto the stones at the floor of the tunnel. He then withdrew one of the scrolls I've just told you about, and he spoke a few simple lines which, even to this day, I remember well:
 
 #+begin_verse
-/For each of you, seeds numbered 1 through n/
-/Please, and Thank You, and Thank You again./
-/Until you meet an obstacle, grow up straight/
-/Branch left and right once you meet that gate, and/
-/Naturally, branching, do the same as before/
-/A tree at each tip, your roots in the floor./
+For each of you, seeds numbered 1 through n
+Please, and Thank You, and Thank You again.
+Until you meet an obstacle, grow up straight
+Branch left and right once you meet that gate, and
+Naturally, branching, do the same as before
+A tree at each tip, your roots in the floor.
 #+end_verse
 
   With that, he reached into his pouch yet again, and brought forth a clear flask. I must assume that it was filled with water, but it was like no water which I had ever had the pleasure to see or taste, for as soon as he had sprinkled it over the seeds, he motioned for me to step back a few paces. And a good thing he did so! For no sooner had I done as he'd bid than the first shoots emerged from those seeds and began burrowing into the stones in the floor. Presumably, they wanted each to secure a proper footing before beginning their upward growth. I could hardly believe my eyes as I watched them quite literally `shoot' up from the ground and meet the iron bars, which, as it turned out, formed a portcullis. Just as the raven's verse had requested of them, the vines (as they now clearly were) grew to the first bar and branched in two, forming a `V'. Each arm of this `V' then wrapped over the bar, at which point the arms met, and each grew around the other in brief embrace, after which time they continued growing ever upward, finding a new partner with which to continue the dance at the next level. In this way they grew upward and outward, each shoot becoming vine and then thick branch, until at last they had covered the entire portcullis of iron in a sort of regular "web" pattern or latticework.
 
-  [Figure 13.0: FRACTAL TREE/PORTCULLIS DIAGRAM]
+  [Figure 13.0: FRACTAL TREE AND PORTCULLIS DIAGRAM]
 
   At that time I began to notice a slight groaning and creaking. It was the sound something makes when it hasn't been moved from one place for a very long time. For the branches of the raven's few seeds had reached their full growth and strength, and now they began to push implacably against the weight of the portcullis. It began to move upward, so slowly that it was almost imperceptible to the eye.
 
@@ -284,7 +284,7 @@ John heard the rattling of heavy chain against oak. Three seconds later, the doo
 
   Yes, where was I? Oh yes, recursion, number magicks, &c. The walls of my cell. Dyadic and hexadic numbers were everywhere! As a matter of fact, that brings me to the nature of my escape from the outer tower, which I'll return to telling you about in a moment, if you'll but permit an old fool his ramblings. But first, what were some of the other number tricks and games in my cell? Well, I can tell you that the brick pattern on both floor and ceiling were of what I'll call the `seashell' variety; I call them that because the pattern in which they were laid resembled a seashell! Here, let me draw it for you in the dirt. Yes, over here by the fire, please. Come closer, don't be afraid. Here it is:
 
-  [Figure 13.1: BRICKS LAID IN GOLDEN RATIO/SEASHELL PATTERN]
+  [Figure 13.1: BRICKS LAID IN GOLDEN RATIO SEASHELL PATTERN]
 
   So there you have it. Both floor and ceiling were laid with bricks in this way, those same malevolent bricks which were filled with spells against me. Overhead /and/ underfoot. I can't tell you how many hours, how many nights I lay awake staring at that ceiling, plumbing the depths of that pattern, of those bricks in that configuration. I spent years with them, and of course I'd like to think I got something out of it other than my current insanity, but you'll have to be the judge of that, since it's a matter for another time.
 
@@ -307,25 +307,25 @@ Needless to say, I was rather flattered that the dread Redcloth had had a specia
   Therefore I decided that there was little chance of some flatterer having made his way down into the bowels of the tower, and so I began to wonder: who else could it be? Over time, and by mustering intense concentration, I was able to discern but a few lines, of which I'll repeat a small part here:
 
 #+begin_verse
-/grass./
-/milk./
-/sour!/
-/brick by brick/
-/flower by flower/
-/black oak, iron, parchment, power!/
+grass.
+milk.
+sour!
+brick by brick
+flower by flower
+black oak, iron, parchment, power!
 
-/I call upon you now as the Son to his Father:/
-/(mortar, stoneways, parchment, bother!)/
+I call upon you now as the Son to his Father:
+(mortar, stoneways, parchment, bother!)
 
-/Burn the Tree of Life where we all began, from cavespeech to mountain/
-/to querulous plain./
+Burn the Tree of Life where we all began, from cavespeech to mountain
+to querulous plain.
 
-/Twas for nought if a child in the darkness lays, there's nought in Good/
-/if Good this stays, and Good hath nought to teach these Days --/
-/If true, and can't we hope for isn't?/
-/When was the last the Protector listen'd?/
-/Who knows, for the old were then young at that!/
-/Mortar, stoneways, parchment, drat!/
+Twas for nought if a child in the darkness lays, there's nought in Good
+if Good this stays, and Good hath nought to teach these Days --
+If true, and can't we hope for isn't?
+When was the last the Protector listen'd?
+Who knows, for the old were then young at that!
+Mortar, stoneways, parchment, drat!
 #+end_verse
 
   The whispers kept on going like this, fading in and out of my hearing, each verse getting longer and longer. From time to time they would `return to zero', so to speak, and begin again from the same place, though as you might imagine they would travel in slightly different paths at first, and the paths traversed by those verses as they grew and grew would diverge more and more, until they had wended their way into topics and territories new and strange, completely different from those which had come before.
@@ -362,7 +362,7 @@ Needless to say, I was rather flattered that the dread Redcloth had had a specia
 
   As described, each number in the sequence is the sum of the two preceding numbers. Which of course you can see from the list of numbers I wrote above. What are some of the properties of this sequence, however? Now you will catch a glimpse of the Numbermaster's Art, and what goes into it: no less than the constant questioning of all! Especially where number series are concerned, there are several essential properties to be aware of, and for each property there are several questions we must ask (Note that these we discuss here are by no means exhaustive, but are merely an introduction, my dear Avis, and the gentlest at that).
 
-  Often series of numbers are referred to as /sums/, or can be thought of that way. And one of the most important qualities of sums are whether they are /convergent/ or /divergent/, which is to say: as we keep adding/subtracting/doing-Protector-knows-what to the elements of the series, do they shoot off toward ∞, with the sum growing ever larger and larger and larger? (I'll give you a hint, or more precisely, the same hint I already gave you, and tell you again that the "ladder of two leads to the stars", which is an old bird's silly way of saying that it heads ever upward towards ∞. That is to say, it is a /divergent/ sum. It is also, incidentally, an old peasant saying about the value of marriage, which is rather funny, I think.)
+  Often series of numbers are referred to as /sums/, or can be thought of that way. And one of the most important qualities of sums are whether they are /convergent/ or /divergent/, which is to say: as we keep adding, subtracting, or doing-Protector-knows-what to the elements of the series, do they shoot off toward ∞, with the sum growing ever larger and larger and larger? (I'll give you a hint, or more precisely, the same hint I already gave you, and tell you again that the "ladder of two leads to the stars", which is an old bird's silly way of saying that it heads ever upward towards ∞. That is to say, it is a /divergent/ sum. It is also, incidentally, an old peasant saying about the value of marriage, which is rather funny, I think.)
 
   This is easy to see with our beloved `ladder' (here, I'll write it straight across -- might be a bit clearer this way, in case you hadn't got it before):
 
@@ -528,186 +528,88 @@ Another "Hello.." sounded, this one closer than the last. And again: "Hello!" Te
 
 "Follow me, then." Brian could tell that Mrs. McGinty was determined, and he didn't waste time with more talk. Instead he led them back to the trapdoor. "I'll go down first and hold the ladder for the rest of you. I trust you've got flashlights?" Mrs. McGinty nodded that they did. "Ok. The basement storage is basically stuffed top to bottom with furniture, but there are rows for walking. My only guess is that they discovered a secret room or a hole in the wall and decided to go exploring. So I guess we should keep our eyes open for any little doors or passageways around the outer walls, or for that matter in the floor. Though I think we are in the true basement now; I can't imagine that there's very far to go from here, but then again I haven't found them have I?" This last he said with a sort of grimace of pain, and without further comment he stepped down onto the ladder into the gloom of the room below.
 
-	*		*		*
+** Marla
 
-Marla's eyes were closed, but she could tell that it was bright
-outside. The brightness of whatever lay behind her eyelids was
-difficult to ignore. But she tried. She felt so tired, what with her
-mother having awakened her in the middle of the night and all, that
-she would have much preferred to keep them closed. But why was it so
-bright out?
+Marla's eyes were closed, but she could tell that it was bright outside. The brightness of whatever lay behind her eyelids was difficult to ignore. But she tried. She felt so tired, what with her mother having awakened her in the middle of the night and all, that she would have much preferred to keep them closed. But why was it so bright out?
 
-In fact, why were her eyes closed at all? Just minutes ago she had
-been in the basement of the Hotel Skidmore with her mother, Mrs.
-Sharp, and Brian the front desk clerk. What had she been doing before
-the world went dark? She remembered a dark room with lots of
-furniture, and then nothing.
+In fact, why were her eyes closed at all? Just minutes ago she had been in the basement of the Hotel Skidmore with her mother, Mrs. Sharp, and Brian the front desk clerk. What had she been doing before the world went dark? She remembered a dark room with lots of furniture, and then nothing.
 
-She opened her eyes just a bit. They focused on blades of grass, and
-she could feel grass against her face. She looked up towards the sky
-and saw that she was beneath a large tree.
+She opened her eyes just a bit. They focused on blades of grass, and she could feel grass against her face. She looked up towards the sky and saw that she was beneath a large tree.
 
-Water dripped down from the tree branches onto her face. She noticed
-for the first time that her hair and clothes were wet. The brightness
-wasn't so bright after all, as it turned out. Although compared to the
-hotel basement where she'd been just moments before, almost
-anything was bright.
+Water dripped down from the tree branches onto her face. She noticed for the first time that her hair and clothes were wet. The brightness wasn't so bright after all, as it turned out. Although compared to the hotel basement where she'd been just moments before, almost anything was bright.
 
-"Hello? Is anyone there?" Now that Marla was looking around her a
-bit, she began to feel confused. She was laying beneath a pine tree,
-or some other evergreen, in a bed of red needles. She was wet, though
-not as wet as she could be, given that it was pouring down rain out
-there, beyond the shelter of the tree branches.
+"Hello? Is anyone there?" Now that Marla was looking around her a bit, she began to feel confused. She was laying beneath a pine tree, or some other evergreen, in a bed of red needles. She was wet, though not as wet as she could be, given that it was pouring down rain out there, beyond the shelter of the tree branches.
 
-"Hello?" She tried again. She began to look around more closely, to
-see if this was some place in the woods that she knew. Although Glynis
-was more likely to spend time in the woods, Marla had accompanied her
-now and then, and had at least a passing familiarity with the woods in
-and around Lake William.
+"Hello?" She tried again. She began to look around more closely, to see if this was some place in the woods that she knew. Although Glynis was more likely to spend time in the woods, Marla had accompanied her now and then, and had at least a passing familiarity with the woods in and around Lake William.
 
-"Fine! I'll find my own way out," she said to no one in particular.
-The tree she lay beneath was surrounded by others like it, mostly
-large evergreens. Some yards away she could see an opening. Beyond
-that, it was hard to tell where she was. She turned over onto her
-stomach and began to crawl out from under the big pine. The further
-she got from the center of the tree, the wetter she became. /Where is
-everyone? Why am I here by myself?/ she wondered to herself.
+"Fine! I'll find my own way out," she said to no one in particular. The tree she lay beneath was surrounded by others like it, mostly large evergreens. Some yards away she could see an opening. Beyond that, it was hard to tell where she was. She turned over onto her stomach and began to crawl out from under the big pine. The further she got from the center of the tree, the wetter she became. /Where is everyone? Why am I here by myself?/ she wondered to herself.
 
-/<You are not alone, child.>/
+/You are not alone, child./
 
-Marla froze. After the first minute or so, she hadn't actually
-expected anyone to be there to answer her, here in the middle of the
-forest. Besides, the voice did not have a pleasant sound.
+Marla froze. After the first minute or so, she hadn't actually expected anyone to be there to answer her, here in the middle of the forest. Besides, the voice did not have a pleasant sound.
 
-/<Wouldn't you rather be warm and dry? Come to the clearing.>/
+/Wouldn't you rather be warm and dry? Come to the clearing./
 
-She definitely didn't like the sound of that voice. Also, her mother
-had taught her never to speak to strangers, and this was without any
-doubt the voice of a stranger.
+She definitely didn't like the sound of that voice. Also, her mother had taught her never to speak to strangers, and this was without any doubt the voice of a stranger.
 
-Marla responded to the voice by crawling out from under the edge of
-the tree and walking in the opposite direction, away from the
-clearing.
+Marla responded to the voice by crawling out from under the edge of the tree and walking in the opposite direction, away from the clearing.
 
 Of course, this only took her further into the dark forest.
 
-<Wait! That way lies danger, and foes, and almost-certain doom.>
+/Wait! That way lies danger, and foes, and almost-certain doom./
 
-Marla was done with fear and, now soaking wet and cold, had moved
-directly on to annoyance: "Why should I listen to you? What kind of
-person tries to lure someone into a clearing in the middle of the
-woods? My mother warned me about people like you!" This last was
-nearly a shout, for Marla was on her way past annoyance to becoming
-very cross indeed.
+Marla was done with fear and, now soaking wet and cold, had moved directly on to annoyance: "Why should I listen to you? What kind of person tries to lure someone into a clearing in the middle of the woods? My mother warned me about people like you!" This last was nearly a shout, for Marla was on her way past annoyance to becoming very cross indeed.
 
-%Indeed. You are right to suspect a stranger in the cold rain. But the
-way you travel leads nowhere, or at least, deeper into the forest, and
-deeper into wet and cold. You'll find no respite there, and I am
-merely trying to warn and help you.%
+/Indeed. You are right to suspect a stranger in the cold rain. But the way you travel leads nowhere, or at least, deeper into the forest, and deeper into wet and cold. You'll find no respite there, and I am merely trying to warn and help you./
 
-Throughout all this, Marla hadn't ceased her brisk walk away from the
-clearing, and she realized that the volume of the stranger's voice
-hadn't changed, even though she was drawing further and further away.
-She decided to try a test. She would only whisper or speak at a low
-volume.  Surely this person in the clearing wouldn't be able to hear
-her then?
+Throughout all this, Marla hadn't ceased her brisk walk away from the clearing, and she realized that the volume of the stranger's voice hadn't changed, even though she was drawing further and further away. She decided to try a test. She would only whisper or speak at a low volume.  Surely this person in the clearing wouldn't be able to hear her then?
 
-"I might be able to go with you, if only I knew you could be
-trusted." Marla said this last so quietly she could barely hear
-herself. It must have been very cold and wet indeed, for Marla to be
-able to say that!  And against her mother's prohibition on talking to
-strangers, even. But cold rain has a power over a person, especially
-having got into your hair and all of your clothes.
+"I might be able to go with you, if only I knew you could be trusted." Marla said this last so quietly she could barely hear herself. It must have been very cold and wet indeed, for Marla to be able to say that!  And against her mother's prohibition on talking to strangers, even. But cold rain has a power over a person, especially having got into your hair and all of your clothes.
 
 To her surprise, the voice responded.
 
-%Why, I can be trusted. If only you'd give me a chance. I've been
-trying to give you sound advice, and keep you out of cold rain, after
-all. Those seem to me to be the actions of a friend, or at least a
-kindly stranger. Wouldn't you say?%
+/Why, I can be trusted. If only you'd give me a chance. I've been trying to give you sound advice, and keep you out of cold rain, after all. Those seem to me to be the actions of a friend, or at least a kindly stranger. Wouldn't you say?/
 
-"I suppose so. Though I should like to know how it is that you can
-hear me away over in that meadow, now that I'm many yards away through
-the trees." Marla did not yell this, but said it in her normal
-speaking voice. She knew now that this disembodied voice was able to
-hear her, after all.
+"I suppose so. Though I should like to know how it is that you can hear me away over in that meadow, now that I'm many yards away through the trees." Marla did not yell this, but said it in her normal speaking voice. She knew now that this disembodied voice was able to hear her, after all.
 
-%Why, I am capable of many things.  Mostly I travel about the forest
-and countryside, meeting other creatures and hearing their
-stories.Creatures like you! And I tell my own stories as well, of
-course.%
+/Why, I am capable of many things.  Mostly I travel about the forest and countryside, meeting other creatures and hearing their stories.Creatures like you! And I tell my own stories as well, of course./
 
-Marla had to admit she had never been called a creature before, not
-that she could remember. She was not entirely sure how she felt about
-it. All the same, the voice seemed kindly enough, and she was so cold.
+Marla had to admit she had never been called a creature before, not that she could remember. She was not entirely sure how she felt about it. All the same, the voice seemed kindly enough, and she was so cold.
 
-For you see Marla had been walking around out in the cold rain for a
-few minutes now, and was completely soaked through. It seemed that she
-had been better off under the shelter of the tree branches where she
-awoke, though there can be little doubt that the cold and wet would
-have reached her there as well, sooner or later.
+For you see Marla had been walking around out in the cold rain for a few minutes now, and was completely soaked through. It seemed that she had been better off under the shelter of the tree branches where she awoke, though there can be little doubt that the cold and wet would have reached her there as well, sooner or later.
 
-That's why, soaking wet as she was, and with her resolve to follow her
-mother's anti-stranger edict weakened, she turned one hundred and
-eighty degrees on her heel and made for the clearing. She hadn't been
-walking for so long that she couldn't make out the direction to travel
-in, and in just a moment she was back in the area of the tree that had
-sheltered her. The brighter grey of the light coming from the clearing
-was a nice change from its darker brother that held sway in the
-forest. And so, with a sigh, Marla stepped into the clearing itself.
-And what did she see there?
+That's why, soaking wet as she was, and with her resolve to follow her mother's anti-stranger edict weakened, she turned one hundred and eighty degrees on her heel and made for the clearing. She hadn't been walking for so long that she couldn't make out the direction to travel in, and in just a moment she was back in the area of the tree that had sheltered her. The brighter grey of the light coming from the clearing was a nice change from its darker brother that held sway in the forest. And so, with a sigh, Marla stepped into the clearing itself. And what did she see there?
 
-The first thing that happened to Marla when she entered the clearing
-was this: she was almost blinded by a bright light, and she raised her
-hand to shield her eyes. Along with that light came a warmth, as of
-the sun. Her hair and clothes, which had been wet, were dry again. She
-blinked again, and her old clothes were become something else
-altogether. Instead of the old sweater and jeans that she had thrown
-on in the middle of the night in order to go with her mother, she was
-wearing a dress. How this happened, she couldn't guess. It was a green
-dress, but to say it was a green dress is to say nothing about it at
-all, just as saying that the leaves of trees are green is to say
-nothing at all, since there are rich, clean-smelling greens, bright
-greens that are almost yellow, or are in fact shot through with veins
-of yellow like gold. There are the deep greens near to black, which is
-not the black of death or misery but the greenish black of comfort, of
-a night spent deep in the forest, with no creatures around and the
-stars high and the breeze sighing through the tall pines.
+The first thing that happened to Marla when she entered the clearing was this: she was almost blinded by a bright light, and she raised her hand to shield her eyes. Along with that light came a warmth, as of the sun. Her hair and clothes, which had been wet, were dry again. She blinked again, and her old clothes were become something else altogether. Instead of the old sweater and jeans that she had thrown on in the middle of the night in order to go with her mother, she was wearing a dress. How this happened, she couldn't guess. It was a green dress, but to say it was a green dress is to say nothing about it at all, just as saying that the leaves of trees are green is to say nothing at all, since there are rich, clean-smelling greens, bright greens that are almost yellow, or are in fact shot through with veins of yellow like gold. There are the deep greens near to black, which is not the black of death or misery but the greenish black of comfort, of a night spent deep in the forest, with no creatures around and the stars high and the breeze sighing through the tall pines.
 
 So it was with the color of Marla's new dress.
 
-"I'm wearing an elven princess's dress,
-How this happened, I couldn't guess!
+#+BEGIN_VERSE 
+I'm wearing an elven princess's dress, 
+How this happened, I couldn't guess! 
 Delighted, swimming, soaked but blessed!
-I'm wearing the dress of an elven princess!"
+I'm wearing the dress of an elven princess!
+#+END_VERSE
 
-Marla hadn't meant to say a silly little rhyme like that, and was
-slightly surprised that she had. Her interlocutor was not in the least
-bit surprised, however, and responded in kind:
+Marla hadn't meant to say a silly little rhyme like that, and was slightly surprised that she had. Her interlocutor was not in the least bit surprised, however, and responded in kind:
 
-"A princess's dress you shall have, and more.
-Greater than all who came before,
-Lest you doubt me, I'll tell you my name,
+#+BEGIN_VERSE
+A princess's dress you shall have, and more. 
+Greater than all who came before, 
+Lest you doubt me, I'll tell you my name, 
 That your power o'er me remains the same
 as mine on you, since, in your mind,
 amusements there I know I'll find
 and spice to liven tepid broth,
 Here I am at your service,
-ONE TRUE REDCLOTH."
+ONE TRUE REDCLOTH.
+#+END_VERSE
 
-%Welcome, and well-met. The dress is not an elven princess's, though
-itis fine enough to be. And perhaps it will be, before its day is
-done. What is your name? I shall tell you mine first -- it is
-Redcloth.%
+/Welcome, and well-met. The dress is not an elven princess's, though it is fine enough to be. And perhaps it will be, before its day is done. What is your name? I shall tell you mine first -- it is Redcloth./
 
-To discover if you are, in fact, you, or at least the you that has
-been prophecied by a friend of mine (who is in fact me, since I am my
-own and only friend), I shall pose this question of numbers to you
-before we can go any further with this encounter.
+/To discover if you are, in fact, you, or at least the you that has been prophecied by a friend of mine (who is in fact me, since I am my own and only friend), I shall pose this question of numbers to you before we can go any further with this encounter./
 
-It turned out that Marla had always had a facility for numbers that
-her mother and sister lacked. Even at ten years of age, she was
-already ...
+It turned out that Marla had always had a facility for numbers that her mother and sister lacked. Even at ten years of age, she was already ...
 
 * THE SMALLWOOD
 
@@ -890,35 +792,35 @@ The small stone traced an arc upward, away from the island and its black tower. 
 At that he began to chant again, in much the same way he had when he was first arrived at my cell:
 
 #+begin_verse
-/A trick, a puzzle, contrivance, a ploy!/
-/O when can we play with your next wonderous toy?/
-/Contraption, essence, sling and arrow/
-/What have you got there beneath your barrow?/
+A trick, a puzzle, contrivance, a ploy!
+O when can we play with your next wonderous toy?
+Contraption, essence, sling and arrow
+What have you got there beneath your barrow?
 
-/Cloth of Red, cloth of iron!/
-/Show me flashing, cadenced fire!/
-/Number's my master, this much you know./
-/And with Verse at its back, a seedling will grow./
+Cloth of Red, cloth of iron!
+Show me flashing, cadenced fire!
+Number's my master, this much you know.
+And with Verse at its back, a seedling will grow.
 
-/A tree, constrained, a discipline learns/
-/It drinks of earth and air by turns./
-/And as it climbs to sky and glory/
-/It tells one part of the Maker's story./
+A tree, constrained, a discipline learns
+It drinks of earth and air by turns.
+And as it climbs to sky and glory
+It tells one part of the Maker's story.
 
-/If you'd write your own, and set it against/
-/That of Creation, as well as Good Sense/
-/You'd do well to watch what came Before/
-/For many's the spice in the Cosmic Store/
+If you'd write your own, and set it against
+That of Creation, as well as Good Sense
+You'd do well to watch what came Before
+For many's the spice in the Cosmic Store
 
-/That will make you screw up your face in disgust/
-/When your power, beloved, transmutes into rust./
-/For it's a gentle heart that learns to wield/
-/What the Maker gave freely to the beasts of the field./
+That will make you screw up your face in disgust
+When your power, beloved, transmutes into rust.
+For it's a gentle heart that learns to wield
+What the Maker gave freely to the beasts of the field.
 
-/So I call on you now, Wrong One, Fool!/
-/Present your malice, in the guise of a tool./
-/Call forth contraption, lever, wheel/
-/That I may defeat it, or dying, reveal!/
+So I call on you now, Wrong One, Fool!
+Present your malice, in the guise of a tool.
+Call forth contraption, lever, wheel
+That I may defeat it, or dying, reveal!
 #+end_verse
 
 Throughout the incantation, Meldrake-2's voice had been rising slowly, more and more with each line, beginning with a sort of humility and quietness, which gave way over the last stanzas to ferocity, reaching its crescendo in the final stanza. Calling forth the Adversary is no mean feat, as you might imagine, and rarely have I seen it done as it was that day by my rescuer and predecessor.
@@ -932,20 +834,20 @@ I stood stock-still, cradled in awe and fear. The fat, greasy thing stood before
 And then the creature spoke. Its voice was large, larger even than Meldrake-2's, and had, it seemed, two aspects: a harsh, deep rushing beneath, as of green waves crashing against the rocks where once a tidy lighthouse had stood watch; and a jagged whistling there was as well, that rode on the back of the deep waves, and that pierced the eardrums as if with a hot poker. Truly, I had never been so terrified in my life. I shan't forget the staccato verse it spewed forth on that day, though in truth it was long ago:
 
 #+begin_verse
-/%<<Invoke me, call down rage and power!>>%/
-/%<<Traverse your own benighted hour!>>%/
+Invoke me, call down rage and power!
+Traverse your own benighted hour!
 
-/%<<Contrived, indeed, your rhymes and schemes!>>%/
-/%<<Boolean shift, unwanted dream!>>%/
+Contrived, indeed, your rhymes and schemes!
+Boolean shift, unwanted dream!
 
-/%<<You'll end upon this stony isle>>%/
-/%<<Your winsome rhyme, a wolven guile!>>%/
+You'll end upon this stony isle
+Your winsome rhyme, a wolven guile!
 
-/%<<My gift to you, a list of cups>>%/
-/%<<A mound of coins, to fill them up!>>%/
+My gift to you, a list of cups
+A mound of coins, to fill them up!
 
-/%<<Divine the secret and save your blood>>%/
-/%<<Weigh them wrong, and drink the flood!>>%/
+Divine the secret and save your blood
+Weigh them wrong, and drink the flood!
 #+end_verse
 
 With that, the dreadful creature launched itself into the air anew, crouching, leopard-like as an old T'ai Chi master, before springing upward with a force so violent that its footprints, two inches deep, were left in the ground before us. And I needn't mention, I'm sure, the gust of wind created by the Adversary's departure, such that my companion good Meldrake-2's hat was nearly blown off his head! I began to get an inkling of what we were up against.
@@ -1128,5 +1030,4 @@ Given the array x above, we can see that each cell can contain either a one or z
 
 #+TBLFM: $2=@1*@2::$3=@1*@2::$4=@1*@2::$5=@1*@2
 
-[1]See Morningstar, N. /Treatise Upon the Machin
-* APPENDIX B: CONCERNING GEARS AND LEVERS
+[1]See Morningstar, N. /Treatise Upon the Machinery.../
